@@ -36,8 +36,3 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-#copy {
-  font-size: 10px;
-  float: right;
-}
