@@ -9,3 +9,7 @@ npm-debug.log
 
 # Nuxt generate
 dist
+
+.DS_Store
+.vscode
+bower_components
