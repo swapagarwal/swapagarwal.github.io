@@ -1,17 +1,23 @@
 <template>
   <section class="container">
     <div>
-      <logo/>
+      <!-- <logo/> -->
       <h1 class="title">
-        swapnil.net
+        127.0.0.1 sweet 127.0.0.1
       </h1>
       <h2 class="subtitle">
-        127.0.0.1 sweet 127.0.0.1
+        Hi! I'm Swapnil Agarwal. People call me swap.
       </h2>
       <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
+        <!-- <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a> -->
+        <!-- <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a> -->
+        <a href="about" target="_blank" class="button--grey">About</a>
+        <a href="contact" target="_blank" class="button--grey">Contact</a>
+        <a href="now" target="_blank" class="button--grey">Now</a>
       </div>
+      <!-- <a class="btn btn-block btn-social btn-twitter">
+        <span class="fa fa-twitter"></span> Sign in with Twitter
+      </a> -->
     </div>
   </section>
 </template>
