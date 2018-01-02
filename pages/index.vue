@@ -11,9 +11,11 @@
       <div class="links">
         <!-- <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a> -->
         <!-- <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a> -->
-        <a href="about" target="_blank" class="button--grey">About</a>
-        <a href="contact" target="_blank" class="button--grey">Contact</a>
-        <a href="now" target="_blank" class="button--grey">Now</a>
+        <a href="github" target="_blank" class="button--grey">GitHub</a>
+        <a href="projects" target="_blank" class="button--grey">Projects</a>
+        <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
+        <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
+        <!-- <a href="now" target="_blank" class="button--grey">Now</a> -->
       </div>
       <!-- <a class="btn btn-block btn-social btn-twitter">
         <span class="fa fa-twitter"></span> Sign in with Twitter
