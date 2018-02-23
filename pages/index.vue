@@ -16,6 +16,7 @@
         <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
         <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
         <!-- <a href="now" target="_blank" class="button--grey">Now</a> -->
+        <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
       </div>
       <!-- <a class="btn btn-block btn-social btn-twitter">
         <span class="fa fa-twitter"></span> Sign in with Twitter
