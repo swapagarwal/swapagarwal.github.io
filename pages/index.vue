@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         Hi! I'm Swapnil Agarwal. People call me swap.
       </h2>
+      Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at Vue Bangalore
       <div class="links">
         <!-- <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a> -->
         <!-- <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a> -->
