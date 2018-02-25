@@ -4,9 +4,9 @@
             <h1 class="title">Frequently Asked Questions</h1>
             <br><br>
             <ul>
-                <li class="list-item"><a href="faq#career">What should I do about my career?</a></li>
-                <li class="list-item"><a href="faq#code">How do I become a better programmer?</a></li>
-                <li class="list-item"><a href="faq#recommend">Which books / apps do you recommend?</a></li>
+                <li class="list-item"><a href="#career">What should I do about my career?</a></li>
+                <li class="list-item"><a href="#code">How do I become a better programmer?</a></li>
+                <li class="list-item"><a href="#recommend">Which books / apps do you recommend?</a></li>
             </ul>
             <br>
             <hr id="career">
