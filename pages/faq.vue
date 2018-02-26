@@ -6,6 +6,7 @@
             <ul>
                 <li class="list-item"><a href="#career">What should I do about my career?</a></li>
                 <li class="list-item"><a href="#code">How do I become a better programmer?</a></li>
+                <li class="list-item"><a href="#motivation">I need some quick motivation!</a></li>
                 <li class="list-item"><a href="#recommend">Which books / apps do you recommend?</a></li>
             </ul>
             <br>
@@ -20,6 +21,12 @@
             <h2 class="subtitle">How do I become a better programmer?</h2>
             <br>
             <p>Read the book "<a href="http://amzn.to/2Ftdwqh">Clean Code</a>".</p>
+            <br>
+            <hr id="motivation">
+            <br><br>
+            <h2 class="subtitle">I need some quick motivation!</h2>
+            <br>
+            <p>Listen to "<a href="https://open.spotify.com/album/3LF93q2V8mFvMxR2tWIY5y">Fearless Motivation</a>" on Spotify.</p>
             <br>
             <hr id="recommend">
             <br><br>
