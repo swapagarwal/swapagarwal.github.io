@@ -38,12 +38,15 @@
                     <li class="list-item">Blinkist</li>
                     <li class="list-item">Headspace</li>
                 </ul>
-                Books:<br>
+                Books (Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!):<br>
                 <ul>
                     <li class="list-item">The Alchemist</li>
                     <li class="list-item">Anything You Want</li>
                 </ul>
-                Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!
+                Games:<br>
+                <ul>
+                    <li class="list-item">Shadow Fight 2</li>
+                </ul>
             </p>
         </div>
     </div>
@@ -85,7 +88,8 @@
 }
 
 .list-item {
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .h2 {
