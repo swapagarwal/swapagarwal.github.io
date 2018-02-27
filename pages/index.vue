@@ -10,14 +10,14 @@
       </h2>
       Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at Vue Bangalore
       <div class="links">
-        <!-- <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a> -->
-        <!-- <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a> -->
         <a href="github" target="_blank" class="button--grey">GitHub</a>
         <a href="projects" target="_blank" class="button--grey">Projects</a>
+        <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
+      </div>
+      <div class="links">
         <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
         <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
-        <!-- <a href="now" target="_blank" class="button--grey">Now</a> -->
-        <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
+        <a href="now" target="_blank" class="button--grey">Now</a>
       </div>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
