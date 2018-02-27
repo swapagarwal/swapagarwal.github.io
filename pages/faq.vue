@@ -7,7 +7,7 @@
                 <li class="list-item"><a href="#career">What should I do about my career?</a></li>
                 <li class="list-item"><a href="#code">How do I become a better programmer?</a></li>
                 <li class="list-item"><a href="#motivation">I need some quick motivation!</a></li>
-                <li class="list-item"><a href="#recommend">Which books / apps do you recommend?</a></li>
+                <li class="list-item"><a href="#recommend">Which other things do you recommend?</a></li>
             </ul>
             <br>
             <hr id="career">
@@ -30,7 +30,7 @@
             <br>
             <hr id="recommend">
             <br><br>
-            <h2 class="subtitle">Which other books / apps do you recommend?</h2>
+            <h2 class="subtitle">Which other things do you recommend?</h2>
             <br>
             <p>
                 Apps:<br>
@@ -43,6 +43,7 @@
                     <li class="list-item">The Alchemist</li>
                     <li class="list-item">Anything You Want</li>
                 </ul>
+                Read a lot. Buy a <a href="http://amzn.to/2F2M1CM">Kindle</a>!
             </p>
         </div>
     </div>
