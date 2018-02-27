@@ -14,19 +14,19 @@
             <br><br>
             <h2 class="subtitle">What should I do about my career?</h2>
             <br>
-            <p>Read the book "<a href="http://amzn.to/2otKmza">So Good They Can't Ignore You</a>".</p>
+            <p>Read the book "<a target="_blank" href="http://amzn.to/2otKmza">So Good They Can't Ignore You</a>".</p>
             <br>
             <hr id="code">
             <br><br>
             <h2 class="subtitle">How do I become a better programmer?</h2>
             <br>
-            <p>Read the book "<a href="http://amzn.to/2Ftdwqh">Clean Code</a>".</p>
+            <p>Read the book "<a target="_blank" href="http://amzn.to/2Ftdwqh">Clean Code</a>".</p>
             <br>
             <hr id="motivation">
             <br><br>
             <h2 class="subtitle">I need some quick motivation!</h2>
             <br>
-            <p>Listen to "<a href="https://open.spotify.com/album/3LF93q2V8mFvMxR2tWIY5y">Fearless Motivation</a>" on Spotify.</p>
+            <p>Listen to "<a target="_blank" href="https://open.spotify.com/album/3LF93q2V8mFvMxR2tWIY5y">Fearless Motivation</a>" on Spotify.</p>
             <br>
             <hr id="recommend">
             <br><br>
@@ -43,7 +43,7 @@
                     <li class="list-item">The Alchemist</li>
                     <li class="list-item">Anything You Want</li>
                 </ul>
-                Read a lot. Buy a <a href="http://amzn.to/2F2M1CM">Kindle</a>!
+                Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!
             </p>
         </div>
     </div>
