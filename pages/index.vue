@@ -16,8 +16,8 @@
       </div>
       <div class="links">
         <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
-        <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
         <a href="now" target="_blank" class="button--grey">Now</a>
+        <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
       </div>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
