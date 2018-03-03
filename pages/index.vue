@@ -19,6 +19,12 @@
         <a href="now" target="_blank" class="button--grey">Now</a>
         <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
       </div>
+      <div class="links">
+        <!-- <a href="ideas" target="_blank" class="button--grey">Ideas</a> -->
+        <!-- <a href="quotes" target="_blank" class="button--grey">Quotes</a> -->
+        <!-- <a href="reads" target="_blank" class="button--grey">Reads</a> -->
+        <!-- <a href="writes" target="_blank" class="button--grey">Writes</a> -->
+      </div>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
       </a>
