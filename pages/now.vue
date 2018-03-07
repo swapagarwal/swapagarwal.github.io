@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
         <h2>What I'm doing now</h2>
         I've got two new adventures going on:
         <h4>My First Book!</h4>
