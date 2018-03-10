@@ -34,6 +34,9 @@
       <a class="btn btn-social-icon btn-lg btn-twitter" href="https://www.twitter.com/SwapAgarwal" target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
+      <a class="btn btn-social-icon btn-lg btn-medium" href="https://medium.com/@swap" target="_blank">
+        <i class="fa fa-medium"></i>
+      </a>
     </div>
   </section>
 </template>
