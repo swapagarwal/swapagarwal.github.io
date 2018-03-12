@@ -37,16 +37,18 @@
       <a class="btn btn-social-icon btn-lg btn-medium" href="https://medium.com/@swap" target="_blank">
         <i class="fa fa-medium"></i>
       </a>
+      <Footer/>
     </div>
   </section>
 </template>
 
 <script>
 import Logo from '~/components/Logo.vue'
+import Footer from '~/components/Footer.vue'
 
 export default {
   components: {
-    Logo
+    Logo, Footer
   }
 }
 </script>
