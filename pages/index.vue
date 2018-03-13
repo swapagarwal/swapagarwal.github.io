@@ -37,7 +37,9 @@
       <a class="btn btn-social-icon btn-lg btn-medium" href="https://medium.com/@swap" target="_blank">
         <i class="fa fa-medium"></i>
       </a>
-      <Footer/>
+      <no-ssr>
+        <Footer/>
+      </no-ssr>
     </div>
   </section>
 </template>
