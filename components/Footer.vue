@@ -8,7 +8,7 @@
 export default {
   data: function () {
     return {
-      lastUpdatedOn: document.lastModified
+      lastUpdatedOn: new Date(document.lastModified).toDateString()
     }
   }
 }
