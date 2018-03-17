@@ -1,6 +1,6 @@
 <template>
     <div>
-        About
+        My Myers-Briggs Type Indicator (MBTI) is INFP.
     </div>
 </template>
 
