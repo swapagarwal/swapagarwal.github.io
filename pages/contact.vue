@@ -1,6 +1,6 @@
 <template>
-    <div>
-        Contact
+    <div class="contact">
+        You can send me a message <a href="https://about.me/swapnilagarwal">here</a>.
     </div>
 </template>
 
@@ -11,5 +11,9 @@
 </script>
 
 <style scoped>
-
+.contact {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
 </style>
