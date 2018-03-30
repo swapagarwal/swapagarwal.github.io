@@ -79,7 +79,8 @@ export default {
   color: white;
   background-color: black;
   word-spacing: 5px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 10px;
 }
 
 .links {
