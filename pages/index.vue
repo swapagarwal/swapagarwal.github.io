@@ -6,7 +6,7 @@
         127.0.0.1 sweet 127.0.0.1
       </h1>
       <h2 class="subtitle">
-        Hi! I'm Swapnil Agarwal. People call me swap.
+        Hi! I'm Swapnil Agarwal. People call me "swap".
       </h2>
       Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at Vue Bangalore
       <div class="links">
