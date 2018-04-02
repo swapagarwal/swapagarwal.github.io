@@ -47,6 +47,10 @@
                 <ul>
                     <li class="list-item">Shadow Fight 2</li>
                 </ul>
+                Coding:<br>
+                <ul>
+                    <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
+                </ul>
             </p>
         </div>
     </div>
