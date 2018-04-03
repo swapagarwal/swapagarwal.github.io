@@ -8,6 +8,7 @@
                 <li class="list-item"><a href="#code">How do I become a better programmer?</a></li>
                 <li class="list-item"><a href="#motivation">I need some quick motivation!</a></li>
                 <li class="list-item"><a href="#recommend">Which other things do you recommend?</a></li>
+                <li class="list-item"><a href="#advice">Any general advice?</a></li>
             </ul>
             <br>
             <hr id="career">
@@ -52,6 +53,14 @@
                     <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
                 </ul>
             </p>
+            <br>
+            <hr id="advice">
+            <br><br>
+            <h2 class="subtitle">Any general advice?</h2>
+            <br>
+            <ul>
+                <li class="list-item">Ship every day. Every. Single. Day. Thank me later! :D</li>
+            </ul>
         </div>
     </div>
 </template>
