@@ -28,11 +28,11 @@
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
       </a>
-      <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/swap.agarwal" target="_blank">
-        <i class="fa fa-facebook"></i>
-      </a>
       <a class="btn btn-social-icon btn-lg btn-twitter" href="https://www.twitter.com/SwapAgarwal" target="_blank">
         <i class="fa fa-twitter"></i>
+      </a>
+      <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/swap.agarwal" target="_blank">
+        <i class="fa fa-facebook"></i>
       </a>
       <a class="btn btn-social-icon btn-lg btn-medium" href="https://medium.com/@swap" target="_blank">
         <i class="fa fa-medium"></i>
