@@ -62,9 +62,20 @@
                 <li class="list-item">Ship every day. Every. Single. Day. Thank me later! :D</li>
             </ul>
         </div>
-        <div class="comments">
-            <vue-disqus shortname="swapnil-net" :identifier="faq" url="http://swapnil.net/faq"></vue-disqus>
-        </div>
+        <div id="disqus_thread"></div>
+        <script>
+        var disqus_config = function () {
+            this.page.url = "http://swapnil.net/faq";
+            this.page.identifier = "faq";
+        };
+        (function() {
+            var d = document, s = d.createElement('script');
+            s.src = 'https://swapnil-net.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </div>
 </template>
 
