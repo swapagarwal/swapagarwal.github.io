@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "@nuxtjs/google-analytics": "^2.0.2",
-    "nuxt": "^1.4.0"
+    "nuxt": "^1.4.0",
+    "vue-disqus": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
