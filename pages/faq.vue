@@ -36,7 +36,7 @@
             <p>
                 Apps:<br>
                 <ul>
-                    <li class="list-item">Blinkist</li>
+                    <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
                     <li class="list-item">Headspace</li>
                 </ul>
                 Books (Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!):<br>
