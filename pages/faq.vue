@@ -41,7 +41,7 @@
                 </ul>
                 Books (Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!):<br>
                 <ul>
-                    <li class="list-item">The Alchemist</li>
+                    <li class="list-item"><a target="_blank" href="https://amzn.to/2JtQ4ud">The Alchemist</a></li>
                     <li class="list-item">Anything You Want</li>
                 </ul>
                 Games:<br>
