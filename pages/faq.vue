@@ -46,7 +46,7 @@
                 </ul>
                 Games:<br>
                 <ul>
-                    <li class="list-item">Shadow Fight 2</li>
+                    <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight">Shadow Fight 2</a></li>
                 </ul>
                 Coding:<br>
                 <ul>
