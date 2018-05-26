@@ -42,9 +42,9 @@
                 Books (Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!):<br>
                 <ul>
                     <li class="list-item"><a target="_blank" href="https://amzn.to/2JtQ4ud">The Alchemist</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2l0Gd4B">Anything You Want</a></li>
                     <li class="list-item"><a target="_blank" href="https://amzn.to/2HBDcQP">Sapiens: A Brief History of Humankind</a></li>
                     <li class="list-item"><a target="_blank" href="https://amzn.to/2JxGqqD">Hooked: How to Build Habit-Forming Products</a></li>
+                    <li class="list-item"><a target="_blank" href="https://amzn.to/2l0Gd4B">Anything You Want</a></li>
                 </ul>
                 Games:<br>
                 <ul>
