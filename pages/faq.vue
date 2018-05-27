@@ -94,6 +94,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding-bottom: 200px;
 }
 
 .title {
@@ -118,7 +119,7 @@
 
 .list-item {
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 1em;
 }
 
 .h2 {
