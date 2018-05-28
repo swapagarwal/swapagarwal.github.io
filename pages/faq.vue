@@ -15,7 +15,11 @@
             <br><br>
             <h2 class="subtitle">What should I do about my career?</h2>
             <br>
-            <p>Read the book "<a target="_blank" href="http://amzn.to/2otKmza">So Good They Can't Ignore You</a>".</p>
+            <p>
+                Read the book "<a target="_blank" href="http://amzn.to/2otKmza">So Good They Can't Ignore You</a>".
+                <br>
+                <a href="https://www.amazon.in/Good-They-Cant-Ignore-You/dp/0349420211/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=swap06c-21&linkId=f1f787f84e95f992e9b7cd69c5c7b58c" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0349420211&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+            </p>
             <br>
             <hr id="code">
             <br><br>
