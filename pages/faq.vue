@@ -66,6 +66,10 @@
                 <ul>
                     <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
                 </ul>
+                Web:<br>
+                <ul>
+                    <li class="list-item">Domain Registration: <a target="_blank" href="https://www.namecheap.com/">Namecheap</a></li>
+                </ul>
             </p>
             <br>
             <hr id="advice">
