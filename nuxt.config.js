@@ -17,8 +17,10 @@ module.exports = {
     ],
     script: [
       { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js' },
-      { src: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' }
-    ]
+      { src: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' },
+      { innerHTML: 'window.$crisp=[];window.CRISP_WEBSITE_ID="aaab99fd-2762-42bc-9da0-71e2da456ac4";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();', type: 'text/javascript', charset: 'utf-8'}
+    ],
+    __dangerouslyDisableSanitizers: ['script']
   },
   /*
   ** Customize the progress bar color
