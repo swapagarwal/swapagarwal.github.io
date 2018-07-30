@@ -80,9 +80,6 @@
                 <li class="list-item">Ship every day. Every. Single. Day. Thank me later! :D</li>
             </ul>
         </div>
-        <div class="comments">
-            <vue-disqus shortname="swapnil-net" :identifier="faq" url="http://swapnil.net/faq"></vue-disqus>
-        </div>
     </div>
 </template>
 

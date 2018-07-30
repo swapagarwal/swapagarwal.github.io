@@ -42,15 +42,11 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    },
-    vendor: ['vue-disqus']
+    }
   },
   modules: [
     ['@nuxtjs/google-analytics', {
       id: 'UA-111629208-1'
     }]
-  ],
-  plugins: [
-    { src: '~/plugins/vue-disqus', ssr: false }
   ]
 }
