@@ -16,9 +16,9 @@
             <h2 class="subtitle">What should I do about my career?</h2>
             <br>
             <p>
-                Read the book "<a target="_blank" href="http://amzn.to/2otKmza">So Good They Can't Ignore You</a>".
+                Read the book "<a target="_blank" href="https://amzn.to/2BPMETi">So Good They Can't Ignore You</a>".
                 <br><br>
-                <a href="https://www.amazon.in/Good-They-Cant-Ignore-You/dp/0349420211/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=swap06c-21&linkId=f1f787f84e95f992e9b7cd69c5c7b58c" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0349420211&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank"  href="https://www.amazon.in/gp/product/0349420211/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0349420211&linkCode=as2&tag=swap02-21&linkId=9d9d9eeca754b2136cbb58aff27d0fc1"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0349420211&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap02-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap02-21&l=am2&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             </p>
             <br>
             <hr id="code">
@@ -26,9 +26,9 @@
             <h2 class="subtitle">How do I become a better programmer?</h2>
             <br>
             <p>
-                Read the book "<a target="_blank" href="http://amzn.to/2Ftdwqh">Clean Code</a>".
+                Read the book "<a target="_blank" href="https://amzn.to/2PDCKXu">Clean Code</a>".
                 <br><br>
-                <a href="https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/ref=as_li_ss_il?_encoding=UTF8&qid=1519495443&sr=8-2&linkCode=li3&tag=swap06c-21&linkId=e11fa95ffbf6b2f6cd1e4fc2f22f2638" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8131773388&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=8131773388" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank"  href="https://www.amazon.in/gp/product/0132350882/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0132350882&linkCode=as2&tag=swap02-21&linkId=aedff6a88c3142ca0f85772172223bd5"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0132350882&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap02-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap02-21&l=am2&o=31&a=0132350882" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             </p>
             <br>
             <hr id="motivation">
@@ -47,16 +47,16 @@
                     <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
                     <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
                 </ul>
-                Books (Read a lot. Buy a <a target="_blank" href="http://amzn.to/2F2M1CM">Kindle</a>!):<br>
+                Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2Luse1E">Kindle</a>!):<br>
                 <ul>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2JtQ4ud">The Alchemist</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2HBDcQP">Sapiens: A Brief History of Humankind</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2JxGqqD">Hooked: How to Build Habit-Forming Products</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2l0Gd4B">Anything You Want</a></li>
-                    <a href="https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/ref=as_li_ss_il?s=books&ie=UTF8&qid=1528610172&sr=1-1&keywords=the+alchemist&linkCode=li3&tag=swap06c-21&linkId=82154ef9247b2357b168a396946b6fb1" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8172234988&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=8172234988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                    <a href="https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=as_li_ss_il?ie=UTF8&qid=1528610462&sr=8-1&keywords=sapiens&linkCode=li3&tag=swap06c-21&linkId=f976d82df619474ac93b7ea49cd8e601" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0099590085&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                    <a href="https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=as_li_ss_il?s=books&ie=UTF8&qid=1528610497&sr=1-1&keywords=hooked&linkCode=li3&tag=swap06c-21&linkId=01bc0d9ac04e0e2a3f1d832e44fa49b7" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241184835&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                    <a href="https://www.amazon.in/Anything-You-Want-Derek-Sivers/dp/0241209048/ref=as_li_ss_il?ie=UTF8&qid=1528610316&sr=8-1&keywords=anything+you+want&linkCode=li3&tag=swap06c-21&linkId=734b4052b58eef6ac791804b4c44f80f" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241209048&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap06c-21" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap06c-21&l=li3&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                    <li class="list-item"><a target="_blank" href="https://amzn.to/2BMpfBY">The Alchemist</a></li>
+                    <li class="list-item"><a target="_blank" href="https://amzn.to/2MQAkGI">Sapiens: A Brief History of Humankind</a></li>
+                    <li class="list-item"><a target="_blank" href="https://amzn.to/2LrhkK8">Hooked: How to Build Habit-Forming Products</a></li>
+                    <li class="list-item"><a target="_blank" href="https://amzn.to/2PFWABM">Anything You Want</a></li>
+                    <a target="_blank"  href="https://www.amazon.in/gp/product/8172234988/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8172234988&linkCode=as2&tag=swap02-21&linkId=0406cd880e9142b7c6fb76b0f7db9b68"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8172234988&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap02-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap02-21&l=am2&o=31&a=8172234988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                    <a target="_blank"  href="https://www.amazon.in/gp/product/0099590085/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0099590085&linkCode=as2&tag=swap02-21&linkId=76977cca7977711fe591862eb475a07a"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0099590085&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap02-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap02-21&l=am2&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                    <a target="_blank"  href="https://www.amazon.in/gp/product/0241184835/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0241184835&linkCode=as2&tag=swap02-21&linkId=9424cfbcc8ed5f62579c7e5d14205f52"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0241184835&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap02-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap02-21&l=am2&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                    <a target="_blank"  href="https://www.amazon.in/gp/product/0241209048/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0241209048&linkCode=as2&tag=swap02-21&linkId=03f4d526c751e8df44e6e2958db57d7e"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0241209048&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap02-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap02-21&l=am2&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
                 </ul>
                 Games:<br>
                 <ul>
