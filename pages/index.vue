@@ -2,9 +2,11 @@
   <section class="container">
     <div>
       <!-- <logo/> -->
-      <h1 class="title">
+      <!-- <h1 class="title">
         127.0.0.1 sweet 127.0.0.1
-      </h1>
+      </h1> -->
+      <img src="/avatar.jpg" style="border-radius:100%" width="140"><br>
+      <br>
       <h2 class="subtitle">
         Hi! I'm Swapnil Agarwal. People call me "swap".
       </h2>
