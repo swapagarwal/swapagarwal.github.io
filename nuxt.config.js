@@ -48,6 +48,7 @@ module.exports = {
   modules: [
     ['@nuxtjs/google-analytics', {
       id: 'UA-111629208-1'
-    }]
+    }],
+    'vue-github-buttons/nuxt'
   ]
 }
