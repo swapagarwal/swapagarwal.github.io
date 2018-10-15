@@ -22,6 +22,8 @@
                 <br>
                 <br>
                 😎 swag opportunities for developers
+                <br>
+                <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" height="300px">
             </li>
             <br>
             <li>
@@ -37,6 +39,8 @@
                 <br>
                 <br>
                 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
+                <br>
+                <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" height="300px">
             </li>
             <br>
             <li>
@@ -52,6 +56,8 @@
                 <br>
                 <br>
                 👶 Technical concepts explained in layman terms! git.io/eli5
+                <br>
+                <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" height="300px">
             </li>
             <br>
             <li>
@@ -67,6 +73,8 @@
                 <br>
                 <br>
                 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
+                <br>
+                <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" height="300px">
             </li>
         </ul>
     </div>
