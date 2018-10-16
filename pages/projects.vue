@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="projects">
         Follow me on GitHub to see what I'm currently working on.
         <br>
         <gh-btns-follow
@@ -87,5 +87,9 @@
 </script>
 
 <style scoped>
-
+.projects {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+}
 </style>
