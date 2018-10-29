@@ -23,7 +23,9 @@
                 <br>
                 😎 swag opportunities for developers
                 <br>
-                <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" height="300px">
+                <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" height="300px">
+                </a>
             </li>
             <br>
             <li>
@@ -40,7 +42,9 @@
                 <br>
                 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
                 <br>
-                <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" height="300px">
+                <a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">
+                    <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" height="300px">
+                </a>
             </li>
             <br>
             <li>
@@ -57,7 +61,9 @@
                 <br>
                 👶 Technical concepts explained in layman terms! git.io/eli5
                 <br>
-                <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" height="300px">
+                <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">
+                    <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" height="300px">
+                </a>
             </li>
             <br>
             <li>
@@ -74,7 +80,9 @@
                 <br>
                 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
                 <br>
-                <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" height="300px">
+                <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">
+                    <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" height="300px">
+                </a>
             </li>
         </ul>
     </div>
