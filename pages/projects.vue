@@ -1,6 +1,6 @@
 <template>
     <div class="projects">
-        Follow me on GitHub to see what I'm currently working on.
+        Follow me on <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a> to see what I'm currently working on.
         <br>
         <gh-btns-follow
 			user="swapagarwal"
@@ -10,7 +10,7 @@
         <br>
         <ul>
             <li>
-                <h4>swag-for-dev</h4>
+                <h4><a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">swag-for-dev</a></h4>
                 <gh-btns-star
                     slug="swapagarwal/swag-for-dev"
                     show-count
@@ -29,7 +29,7 @@
             </li>
             <br>
             <li>
-                <h4>JARVIS-on-Messenger</h4>
+                <h4><a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">JARVIS-on-Messenger</a></h4>
                 <gh-btns-star
                     slug="swapagarwal/JARVIS-on-Messenger"
                     show-count
@@ -48,7 +48,7 @@
             </li>
             <br>
             <li>
-                <h4>awesome-eli5</h4>
+                <h4><a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">awesome-eli5</a></h4>
                 <gh-btns-star
                     slug="swapagarwal/awesome-eli5"
                     show-count
@@ -67,7 +67,7 @@
             </li>
             <br>
             <li>
-                <h4>awesome-inspiration</h4>
+                <h4><a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">awesome-inspiration</a></h4>
                 <gh-btns-star
                     slug="swapagarwal/awesome-inspiration"
                     show-count
