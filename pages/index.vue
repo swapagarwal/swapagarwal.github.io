@@ -10,7 +10,7 @@
       <h2 class="subtitle">
         Hi! I'm Swapnil Agarwal. People call me "swap".
       </h2>
-      Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at Vue Bangalore
+      Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">Vue Bangalore</a>
       <div class="links">
         <a href="projects" target="_blank" class="button--grey">Projects</a>
         <a href="now" target="_blank" class="button--grey">Now</a>
@@ -33,14 +33,14 @@
       <a class="btn btn-social-icon btn-lg btn-twitter" href="https://www.twitter.com/SwapAgarwal" target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
-      <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/swap.agarwal" target="_blank">
-        <i class="fa fa-facebook"></i>
-      </a>
       <a class="btn btn-social-icon btn-lg btn-medium" href="https://medium.com/@swap" target="_blank">
         <i class="fa fa-medium"></i>
       </a>
       <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://www.linkedin.com/in/swapagarwal/" target="_blank">
         <i class="fa fa-linkedin"></i>
+      </a>
+      <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/swap.agarwal" target="_blank">
+        <i class="fa fa-facebook"></i>
       </a>
       <no-ssr>
         <Footer/>
