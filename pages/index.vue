@@ -17,7 +17,7 @@
         <a href="github" target="_blank" class="button--grey">GitHub</a>
       </div>
       <div class="links">
-        <a href="about" target="_blank" class="button--grey">About</a>
+        <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
         <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
         <a href="contact" target="_blank" class="button--grey">Contact</a>
       </div>
@@ -26,6 +26,17 @@
         <!-- <a href="quotes" target="_blank" class="button--grey">Quotes</a> -->
         <!-- <a href="reads" target="_blank" class="button--grey">Reads</a> -->
         <!-- <a href="writes" target="_blank" class="button--grey">Writes</a> -->
+      </div>
+      <div class="about">
+        My Myers-Briggs Type Indicator (MBTI) is INFP.
+        <br>
+        I'm a polyglot who lives by the philosophy "Don't reinvent the wheel" and "learning by doing".
+        <br>
+        I'm quite passionate about open-source sustainability and helping people start their open-source journey by lowering the entry barrier.
+        <br>
+        Being an INTP turned INFP, I like to work in the right mix of challenges and consumer impact.
+        <br>
+        Outside work, I'm an anime fan, book lover, music geek, and ps4 gamer. I care deeply about the Oxford comma.
       </div>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
@@ -90,5 +101,9 @@ export default {
 
 .links {
   padding-top: 15px;
+}
+
+.about {
+  margin: auto;
 }
 </style>
