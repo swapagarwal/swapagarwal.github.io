@@ -19,7 +19,7 @@
       <div class="links">
         <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
         <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
-        <a href="contact" target="_blank" class="button--grey">Contact</a>
+        <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
       </div>
       <div class="links">
         <!-- <a href="ideas" target="_blank" class="button--grey">Ideas</a> -->
@@ -37,6 +37,12 @@
         Being an INTP turned INFP, I like to work in the right mix of challenges and consumer impact.
         <br>
         Outside work, I'm an anime fan, book lover, music geek, and ps4 gamer. I care deeply about the Oxford comma.
+      </div>
+      <br>
+      <div class="contact">
+        You can use the chat widget at the bottom right to send me a message.
+        <br>
+        I'd love to connect online or over a cup of coffee. <a href="https://calendly.com/swapnilagarwal">Here's my calendar link</a> to make finding time easy.
       </div>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
@@ -104,6 +110,10 @@ export default {
 }
 
 .about {
+  margin: auto;
+}
+
+.contact {
   margin: auto;
 }
 </style>
