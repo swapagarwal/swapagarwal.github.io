@@ -66,12 +66,9 @@
                 <ul>
                     <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
                 </ul>
-                Web:<br>
+                Services I use:<br>
                 <ul>
-                    <li class="list-item">Domain Registration: <a target="_blank" href="https://www.namecheap.com/">Namecheap</a></li>
-                </ul>
-                Services:<br>
-                <ul>
+                    <li class="list-item"><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap: Domain Name Registration</a></li>
                     <li class="list-item"><a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable: Looks Like A Spreadsheet | Acts Like A Database</a></li>
                 </ul>
             </p>
