@@ -18,6 +18,7 @@
       </div>
       <div class="links">
         <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
+        <a href="ideas" target="_blank" class="button--grey">Ideas</a>
         <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
         <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
       </div>
