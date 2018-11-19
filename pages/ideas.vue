@@ -3,7 +3,10 @@
         <h2>I wish there existed:</h2>
         <ul>
             <li>
-                A chrome extension to limit infinite scroll on social media to reduce content addiction
+                A chrome extension to limit infinite scroll on social media to reduce content addiction!
+            </li>
+            <li>
+                A gym that increases your monthly fee based on how frequently you go.
             </li>
         </ul>
         If you end up making one of the above or know that it exists already, do let me know! I'll be quite thankful. 🙏
