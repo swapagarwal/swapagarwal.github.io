@@ -8,6 +8,9 @@
             <li>
                 A gym that increases your monthly fee based on how frequently you go.
             </li>
+            <li>
+                Cosplay for hospitals; we need more of that!
+            </li>
         </ul>
         If you end up making one of the above or know that it exists already, do let me know! I'll be quite thankful. 🙏
     </div>
