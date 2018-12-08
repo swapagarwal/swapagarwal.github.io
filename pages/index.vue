@@ -45,6 +45,12 @@
         <br>
         I'd love to connect online or over a cup of coffee. <a href="https://calendly.com/swapnilagarwal">Here's my calendar link</a> to make finding time easy.
       </div>
+      <br>
+      <iframe
+      scrolling="no"
+      style="width:100%!important;height:220px;border:1px #ccc solid !important"
+      src="https://buttondown.email/swap?as_embed=true"
+      ></iframe>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
       </a>
