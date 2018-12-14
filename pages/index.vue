@@ -29,28 +29,13 @@
         <!-- <a href="writes" target="_blank" class="button--grey">Writes</a> -->
       </div>
       <div class="about">
-        My Myers-Briggs Type Indicator (MBTI) is INFP.
-        <br>
-        I'm a polyglot who lives by the philosophy "Don't reinvent the wheel" and "learning by doing".
-        <br>
-        I'm quite passionate about open-source sustainability and helping people start their open-source journey by lowering the entry barrier.
-        <br>
-        Being an INTP turned INFP, I like to work in the right mix of challenges and consumer impact.
-        <br>
-        Outside work, I'm an anime fan, book lover, music geek, and ps4 gamer. I care deeply about the Oxford comma.
+        <a href="https://buttondown.email/swap/archive/7d5b3001-9ecc-4d58-abbc-0353e121633f" target="_blank" rel="noopener noreferrer">About Me</a> | <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">My Newsletter</a>
       </div>
-      <br>
       <div class="contact">
         You can use the chat widget at the bottom right to send me a message.
         <br>
         I'd love to connect online or over a cup of coffee. <a href="https://calendly.com/swapnilagarwal">Here's my calendar link</a> to make finding time easy.
       </div>
-      <br>
-      <iframe
-      scrolling="no"
-      style="width:100%!important;height:220px;border:1px #ccc solid !important"
-      src="https://buttondown.email/swap?as_embed=true"
-      ></iframe>
       <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
         <i class="fa fa-github"></i>
       </a>
