@@ -31,26 +31,20 @@
       <div class="about">
         <a href="https://buttondown.email/swap/archive/7d5b3001-9ecc-4d58-abbc-0353e121633f" target="_blank" rel="noopener noreferrer">About Me</a> | <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">My Newsletter</a>
       </div>
+      <br>
       <div class="contact">
         You can use the chat widget at the bottom right to send me a message.
         <br>
         I'd love to connect online or over a cup of coffee. <a href="https://calendly.com/swapnilagarwal">Here's my calendar link</a> to make finding time easy.
       </div>
-      <a class="btn btn-social-icon btn-lg btn-github" href="https://github.com/swapagarwal" target="_blank">
-        <i class="fa fa-github"></i>
-      </a>
-      <a class="btn btn-social-icon btn-lg btn-twitter" href="https://www.twitter.com/SwapAgarwal" target="_blank">
-        <i class="fa fa-twitter"></i>
-      </a>
-      <a class="btn btn-social-icon btn-lg btn-medium" href="https://medium.com/@swap" target="_blank">
-        <i class="fa fa-medium"></i>
-      </a>
-      <a class="btn btn-social-icon btn-lg btn-linkedin" href="https://www.linkedin.com/in/swapagarwal/" target="_blank">
-        <i class="fa fa-linkedin"></i>
-      </a>
-      <a class="btn btn-social-icon btn-lg btn-facebook" href="https://www.facebook.com/swap.agarwal" target="_blank">
-        <i class="fa fa-facebook"></i>
-      </a>
+      <br>
+      <div class="social">
+        <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a>
+        | <a href="https://www.twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">Twitter</a>
+        | <a href="https://medium.com/@swap" target="_blank" rel="noopener noreferrer">Medium</a>
+        | <a href="https://www.linkedin.com/in/swapagarwal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        | <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a>
+      </div>
       <no-ssr>
         <Footer/>
       </no-ssr>
@@ -108,6 +102,10 @@ export default {
 }
 
 .contact {
+  margin: auto;
+}
+
+.social {
   margin: auto;
 }
 </style>
