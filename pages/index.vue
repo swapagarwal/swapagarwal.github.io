@@ -13,13 +13,13 @@
       Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">Vue Bangalore</a>
       <div class="links">
         <a href="projects" target="_blank" class="button--grey">Projects</a>
-        <a href="now" target="_blank" class="button--grey">Now</a>
-        <a href="github" target="_blank" class="button--grey">GitHub</a>
-      </div>
-      <div class="links">
-        <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
         <a href="ideas" target="_blank" class="button--grey">Ideas</a>
         <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
+      </div>
+      <div class="links">
+        <!-- <a href="now" target="_blank" class="button--grey">Now</a> -->
+        <!-- <a href="github" target="_blank" class="button--grey">GitHub</a> -->
+        <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
         <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
       </div>
       <div class="links">
