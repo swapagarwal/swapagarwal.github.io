@@ -8,7 +8,7 @@
       <img src="/avatar.jpg" style="border-radius:100%" width="140"><br>
       <br>
       <h2 class="subtitle">
-        Hi! I'm Swapnil Agarwal. People call me "swap".
+        Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me "swap".
       </h2>
       Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">Vue Bangalore</a>
       <div class="links">
@@ -33,9 +33,9 @@
       </div>
       <br>
       <div class="contact">
-        You can use the chat widget at the bottom right to send me a message.
+        You can use the chat widget at the bottom right to send me a message. 💬
         <br>
-        I'd love to connect online or over a cup of coffee. <a href="https://calendly.com/swapnilagarwal">Here's my calendar link</a> to make finding time easy.
+        I'd love to connect online or over a cup of coffee. ☕ <a href="https://calendly.com/swapnilagarwal">Here's my calendar link</a> to make finding time easy.
       </div>
       <br>
       <div class="social">
