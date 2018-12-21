@@ -10,27 +10,27 @@
       <h2 class="subtitle">
         Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me "swap".
       </h2>
-      Backend Developer at Amazon | Open Source Contributor at Night | Co-Organizer at <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">Vue Bangalore</a>
+      Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side | INTP turned INFP | <a href="http://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 My Newsletter</a> 📚🎵🎮
       <div class="links">
         <a href="projects" target="_blank" class="button--grey">Projects</a>
         <a href="ideas" target="_blank" class="button--grey">Ideas</a>
         <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
       </div>
-      <div class="links">
-        <!-- <a href="now" target="_blank" class="button--grey">Now</a> -->
-        <!-- <a href="github" target="_blank" class="button--grey">GitHub</a> -->
-        <!-- <a href="about" target="_blank" class="button--grey">About</a> -->
-        <!-- <a href="contact" target="_blank" class="button--grey">Contact</a> -->
-      </div>
-      <div class="links">
-        <!-- <a href="ideas" target="_blank" class="button--grey">Ideas</a> -->
-        <!-- <a href="quotes" target="_blank" class="button--grey">Quotes</a> -->
-        <!-- <a href="reads" target="_blank" class="button--grey">Reads</a> -->
-        <!-- <a href="writes" target="_blank" class="button--grey">Writes</a> -->
-      </div>
-      <div class="about">
+      <!-- <div class="links">
+        <a href="now" target="_blank" class="button--grey">Now</a>
+        <a href="github" target="_blank" class="button--grey">GitHub</a>
+        <a href="about" target="_blank" class="button--grey">About</a>
+        <a href="contact" target="_blank" class="button--grey">Contact</a>
+      </div> -->
+      <!-- <div class="links">
+        <a href="ideas" target="_blank" class="button--grey">Ideas</a>
+        <a href="quotes" target="_blank" class="button--grey">Quotes</a>
+        <a href="reads" target="_blank" class="button--grey">Reads</a>
+        <a href="writes" target="_blank" class="button--grey">Writes</a>
+      </div> -->
+      <!-- <div class="about">
         <a href="https://buttondown.email/swap/archive/7d5b3001-9ecc-4d58-abbc-0353e121633f" target="_blank" rel="noopener noreferrer">About Me</a> | <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">My Newsletter</a>
-      </div>
+      </div> -->
       <br>
       <div class="contact">
         You can use the chat widget at the bottom right to send me a message. 💬
