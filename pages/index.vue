@@ -12,9 +12,9 @@
       </h2>
       Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side | INTP turned INFP | <a href="http://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 My Newsletter</a> 📚🎵🎮
       <div class="links">
-        <a href="projects" target="_blank" class="button--grey">Projects</a>
-        <a href="ideas" target="_blank" class="button--grey">Ideas</a>
-        <a href="faq" target="_blank" class="button--grey">F.A.Q.</a>
+        <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
+        | <a href="ideas" target="_blank" rel="noopener noreferrer">🤔 Ideas</a>
+        | <a href="faq" target="_blank" rel="noopener noreferrer">❓ F.A.Q.</a>
       </div>
       <!-- <div class="links">
         <a href="now" target="_blank" class="button--grey">Now</a>
