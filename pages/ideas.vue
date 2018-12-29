@@ -11,6 +11,9 @@
             <li>
                 Cosplay for hospitals; we need more of that!
             </li>
+            <li>
+                Generic caching proxy as a service (for using as a wrapper over rate-limited APIs).
+            </li>
         </ul>
         If you end up making one of the above or know that it exists already, do let me know! I'll be quite thankful. 🙏
     </div>
