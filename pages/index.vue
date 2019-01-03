@@ -10,7 +10,7 @@
       <h2 class="subtitle">
         Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me "swap".
       </h2>
-      Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side | INTP turned INFP | <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 My Newsletter</a> 📚🎵🎮
+      Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side | INTP turned INFP
       <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
         | <a href="ideas" target="_blank" rel="noopener noreferrer">🤔 Ideas</a>
@@ -31,6 +31,12 @@
       <!-- <div class="about">
         <a href="https://buttondown.email/swap/archive/7d5b3001-9ecc-4d58-abbc-0353e121633f" target="_blank" rel="noopener noreferrer">About Me</a> | <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">My Newsletter</a>
       </div> -->
+      <br>
+      <div class="newsletter">
+        I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
+        <br>
+        Latest Post: <a href="https://buttondown.email/swap/archive/4c1a6e0a-4492-45e8-a0b5-2e47eae060f2" target="_blank" rel="noopener noreferrer">#12: 🔑 Password Manager w/o a Master Password</a>
+      </div>
       <br>
       <div class="contact">
         You can use the chat widget at the bottom right to send me a message. 💬
@@ -97,7 +103,7 @@ export default {
   padding-top: 15px;
 }
 
-.about {
+.newsletter {
   margin: auto;
 }
 
