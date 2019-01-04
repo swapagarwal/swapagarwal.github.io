@@ -46,6 +46,7 @@
                 <ul>
                     <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
                     <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
+                    <li class="list-item"><a target="_blank" href="https://todoist.com/r/swapnilagarwal1994_powvaa">Todoist</a></li>
                 </ul>
                 Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2EVajkQ">Kindle</a>!):<br>
                 <ul>
