@@ -10,7 +10,7 @@
       <h2 class="subtitle">
         Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me "swap".
       </h2>
-      Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side | INTP turned INFP
+      Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> + <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">@AnAwesomeConf</a> on the side | INTP turned INFP
       <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
         | <a href="ideas" target="_blank" rel="noopener noreferrer">🤔 Ideas</a>
