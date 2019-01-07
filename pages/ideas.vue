@@ -1,6 +1,6 @@
 <template>
     <div class="ideas">
-        <h2>I wish there existed:</h2>
+        <h2>I 🧞 wish there existed:</h2>
         <ul>
             <li>
                 A chrome extension to limit infinite scroll on social media to reduce content addiction!
