@@ -24,7 +24,7 @@
                 😎 swag opportunities for developers
                 <br>
                 <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" height="300px">
+                    <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" width="400px">
                 </a>
             </li>
             <br>
@@ -43,7 +43,7 @@
                 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
                 <br>
                 <a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">
-                    <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" height="300px">
+                    <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" width="400px">
                 </a>
             </li>
             <br>
@@ -62,7 +62,7 @@
                 👶 Technical concepts explained in layman terms! git.io/eli5
                 <br>
                 <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">
-                    <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" height="300px">
+                    <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" width="400px">
                 </a>
             </li>
             <br>
@@ -81,7 +81,7 @@
                 🔥 A curated list of content worth sharing to help you get inspired! ⚡️
                 <br>
                 <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">
-                    <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" height="300px">
+                    <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" width="400px">
                 </a>
             </li>
         </ul>
