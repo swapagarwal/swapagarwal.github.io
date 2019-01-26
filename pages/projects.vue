@@ -8,9 +8,8 @@
 		/>
         <br>
         <br>
-        <ul>
-            <li>
-                <h4><a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">swag-for-dev</a></h4>
+        <div class="card">
+            <div class="container padding">
                 <gh-btns-star
                     slug="swapagarwal/swag-for-dev"
                     show-count
@@ -19,17 +18,20 @@
                     slug="swapagarwal/swag-for-dev"
                     show-count
                 />
-                <br>
-                <br>
-                😎 swag opportunities for developers
-                <br>
-                <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" width="400px">
-                </a>
-            </li>
-            <br>
-            <li>
-                <h4><a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">JARVIS-on-Messenger</a></h4>
+            </div>
+            <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">
+                <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4>
+                        <b>swag-for-dev</b>
+                    </h4>
+                    <p>😎 swag opportunities for developers</p>
+                </div>
+            </a>
+        </div>
+        <br>
+        <div class="card">
+            <div class="container padding">
                 <gh-btns-star
                     slug="swapagarwal/JARVIS-on-Messenger"
                     show-count
@@ -38,17 +40,20 @@
                     slug="swapagarwal/JARVIS-on-Messenger"
                     show-count
                 />
-                <br>
-                <br>
-                💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
-                <br>
-                <a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">
-                    <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" width="400px">
-                </a>
-            </li>
-            <br>
-            <li>
-                <h4><a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">awesome-eli5</a></h4>
+            </div>
+            <a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">
+                <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4>
+                        <b>JARVIS-on-Messenger</b>
+                    </h4>
+                    <p>💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks</p>
+                </div>
+            </a>
+        </div>
+        <br>
+        <div class="card">
+            <div class="container padding">
                 <gh-btns-star
                     slug="swapagarwal/awesome-eli5"
                     show-count
@@ -57,17 +62,20 @@
                     slug="swapagarwal/awesome-eli5"
                     show-count
                 />
-                <br>
-                <br>
-                👶 Technical concepts explained in layman terms! git.io/eli5
-                <br>
-                <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">
-                    <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" width="400px">
-                </a>
-            </li>
-            <br>
-            <li>
-                <h4><a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">awesome-inspiration</a></h4>
+            </div>
+            <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">
+                <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4>
+                        <b>awesome-eli5</b>
+                    </h4>
+                    <p>👶 Technical concepts explained in layman terms! git.io/eli5</p>
+                </div>
+            </a>
+        </div>
+        <br>
+        <div class="card">
+            <div class="container padding">
                 <gh-btns-star
                     slug="swapagarwal/awesome-inspiration"
                     show-count
@@ -76,15 +84,17 @@
                     slug="swapagarwal/awesome-inspiration"
                     show-count
                 />
-                <br>
-                <br>
-                🔥 A curated list of content worth sharing to help you get inspired! ⚡️
-                <br>
-                <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">
-                    <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" width="400px">
-                </a>
-            </li>
-        </ul>
+            </div>
+            <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">
+                <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" alt="Avatar" style="width:100%">
+                <div class="container">
+                    <h4>
+                        <b>awesome-inspiration</b>
+                    </h4>
+                    <p>🔥 A curated list of content worth sharing to help you get inspired! ⚡️</p>
+                </div>
+            </a>
+        </div>
     </div>
 </template>
 
@@ -99,5 +109,33 @@
   width: 80%;
   margin: auto;
   margin-top: 100px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+a:hover, a:visited, a:link, a:active {
+    color: black;
+    text-decoration: none;
 }
 </style>
