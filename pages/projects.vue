@@ -95,6 +95,7 @@
                 </div>
             </a>
         </div>
+        <br>
     </div>
 </template>
 
@@ -127,11 +128,11 @@ img {
 }
 
 .container {
-  padding: 2px 16px;
+  padding: 8px 16px 0px 16px;
 }
 
 .padding {
-    padding: 10px;
+    padding: 12px 10px 12px 10px;
 }
 
 a:hover, a:visited, a:link, a:active {
