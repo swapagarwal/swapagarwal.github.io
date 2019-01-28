@@ -115,7 +115,7 @@
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 40%;
+  width: 400px;
   border-radius: 5px;
 }
 
@@ -132,11 +132,11 @@ img {
 }
 
 .padding {
-    padding: 12px 10px 12px 10px;
+  padding: 12px 10px 12px 10px;
 }
 
 a:hover, a:visited, a:link, a:active {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 </style>
