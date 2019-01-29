@@ -15,7 +15,7 @@
                 Generic caching proxy as a service (for using as a wrapper over rate-limited APIs).
             </li>
         </ul>
-        If you end up making one of the above or know that it exists already, do let me know! I'll be quite thankful. 🙏
+        Let me know if you end up making one of these / know that it exists already. I'll be quite thankful! 🙏
     </div>
 </template>
 
