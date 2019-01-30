@@ -35,7 +35,7 @@
       <div class="newsletter">
         I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
-        ✍️ Latest Post: <a href="https://buttondown.email/swap/archive/4c1a6e0a-4492-45e8-a0b5-2e47eae060f2" target="_blank" rel="noopener noreferrer">#12: 🔑 Password Manager w/o a Master Password</a>
+        ✍️ Latest Post: <a href="https://buttondown.email/swap/archive/cae315f3-99b8-4a2d-b4ed-8fd1a4397d25" target="_blank" rel="noopener noreferrer">#13: 📚 Book Notes: Deep Work: Rules for Focused Success in a Distracted World</a>
       </div>
       <br>
       <div class="contact">
