@@ -2,97 +2,117 @@
     <div class="container">
         <div style="display: inline-block; text-align: left;">
             <h1 class="title">Frequently Asked Questions</h1>
-            <br><br>
-            <ul>
-                <li class="list-item"><a href="#career">What should I do about my career?</a></li>
-                <li class="list-item"><a href="#code">How do I become a better programmer?</a></li>
-                <li class="list-item"><a href="#motivation">I need some quick motivation!</a></li>
-                <li class="list-item"><a href="#recommend">Which other things do you recommend?</a></li>
-                <li class="list-item"><a href="#advice">Any general advice?</a></li>
-            </ul>
             <br>
-            <hr id="career">
-            <br><br>
-            <h2 class="subtitle">What should I do about my career?</h2>
-            <br>
-            <p>
-                Read the book "<a target="_blank" href="https://amzn.to/2VHHwFO">So Good They Can't Ignore You</a>".
-                <br><br>
-                <a href="https://www.amazon.in/Good-They-Cant-Ignore-You/dp/0349420211/ref=as_li_ss_il?ie=UTF8&qid=1551967646&sr=8-1&keywords=so+good+they+can't+ignore+you+by+cal+newport&linkCode=li3&tag=swap0b-21&linkId=1728ac35bc38e84c9915174ee97b3c3c&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0349420211&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-            </p>
-            <br>
-            <hr id="code">
-            <br><br>
-            <h2 class="subtitle">How do I become a better programmer?</h2>
-            <br>
-            <p>
-                Read the book "<a target="_blank" href="https://amzn.to/2VLklul">Clean Code</a>".
-                <br><br>
-                <a href="https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/ref=as_li_ss_il?_encoding=UTF8&qid=1551967795&sr=8-3&linkCode=li3&tag=swap0b-21&linkId=231ba88a260ce463ff96b8d3794fcae1&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8131773388&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=8131773388" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-            </p>
-            <br>
-            <hr id="motivation">
-            <br><br>
-            <h2 class="subtitle">I need some quick motivation!</h2>
-            <br>
-            <p>Listen to "<a target="_blank" href="https://open.spotify.com/album/3LF93q2V8mFvMxR2tWIY5y">Fearless Motivation</a>" on Spotify.</p>
-            <br>
-            <hr id="recommend">
-            <br><br>
-            <h2 class="subtitle">Which other things do you recommend?</h2>
-            <br>
-            <p>
-                Apps:<br>
-                <ul>
-                    <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
-                    <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
-                    <li class="list-item"><a target="_blank" href="https://todoist.com/r/swapnilagarwal1994_powvaa">Todoist</a></li>
-                </ul>
-                Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2EVajkQ">Kindle</a>!):<br>
-                <ul>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2HkdHai">The Alchemist</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2VJrWJS">Sapiens: A Brief History of Humankind</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2H5pAl8">Hooked: How to Build Habit-Forming Products</a></li>
-                    <li class="list-item"><a target="_blank" href="https://amzn.to/2VKea9P">Anything You Want</a></li>
-                    <a href="https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/ref=as_li_ss_il?ie=UTF8&qid=1551967997&sr=8-3&keywords=the+alchemist&linkCode=li3&tag=swap0b-21&linkId=b648b1d1bc1d6208d99175faaf2a16dc&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8172234988&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=8172234988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                    <a href="https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=as_li_ss_il?ie=UTF8&qid=1551968056&sr=8-1&keywords=sapiens&linkCode=li3&tag=swap0b-21&linkId=c90e74e5db36c83dd09319b14d0b9ffc&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0099590085&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                    <a href="https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=as_li_ss_il?ie=UTF8&qid=1551968112&sr=8-1&keywords=hooked&linkCode=li3&tag=swap0b-21&linkId=33085d2f32788d6251306de1de1d90d9&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241184835&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                    <a href="https://www.amazon.in/Anything-You-Want-Derek-Sivers/dp/0241209048/ref=as_li_ss_il?ie=UTF8&qid=1551968163&sr=8-2&keywords=anything+you+want&linkCode=li3&tag=swap0b-21&linkId=e12e9092e81e5cf60e86b0754832744a&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241209048&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                </ul>
-                Games:<br>
-                <ul>
-                    <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight">Shadow Fight 2</a></li>
-                </ul>
-                Coding:<br>
-                <ul>
-                    <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
-                </ul>
-                Services I use:<br>
-                <ul>
-                    <li class="list-item"><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap: Domain Name Registration</a></li>
-                    <li class="list-item"><a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable: Looks Like A Spreadsheet | Acts Like A Database</a></li>
-                </ul>
-                Services I provide:<br>
-                <ul>
-                    <li class="list-item"><a href="https://www.buymeacoffee.com/l/cvraas" target="_blank" rel="noopener noreferrer">Review my CV</a></li>
-                </ul>
-            </p>
-            <br>
-            <hr id="advice">
-            <br><br>
-            <h2 class="subtitle">Any general advice?</h2>
-            <br>
-            <ul>
-                <li class="list-item">Ship every day. Every. Single. Day. Thank me later! :D</li>
-            </ul>
+            <VueFaqAccordion :items='faqs'/>
         </div>
     </div>
 </template>
 
 <script>
-    export default {
+import VueFaqAccordion from 'vue-faq-accordion'
 
+export default {
+  components: {
+    VueFaqAccordion
+  },
+  data () {
+    return {
+      faqs: [
+        {
+          title: 'What should I do about my career?',
+          value:
+            `<p>
+                Read the book "<a target="_blank" href="https://amzn.to/2VHHwFO">So Good They Can't Ignore You</a>".
+                <br><br>
+                <a href="https://www.amazon.in/Good-They-Cant-Ignore-You/dp/0349420211/ref=as_li_ss_il?ie=UTF8&qid=1551967646&sr=8-1&keywords=so+good+they+can't+ignore+you+by+cal+newport&linkCode=li3&tag=swap0b-21&linkId=1728ac35bc38e84c9915174ee97b3c3c&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0349420211&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+            </p>`,
+          category: 'Work'
+        },
+        {
+          title: 'How do I become a better programmer?',
+          value:
+            `<p>
+                Read the book "<a target="_blank" href="https://amzn.to/2VLklul">Clean Code</a>".
+                <br><br>
+                <a href="https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/ref=as_li_ss_il?_encoding=UTF8&qid=1551967795&sr=8-3&linkCode=li3&tag=swap0b-21&linkId=231ba88a260ce463ff96b8d3794fcae1&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8131773388&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=8131773388" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+            </p>`,
+          category: 'Work'
+        },
+        {
+          title: 'I need some quick motivation!',
+          value:
+            `<p>
+                Listen to "<a target="_blank" href="https://open.spotify.com/album/3LF93q2V8mFvMxR2tWIY5y">Fearless Motivation</a>" on Spotify.
+            </p>`,
+          category: 'Life'
+        },
+        {
+          title: 'Any general advice?',
+          value: 'Ship every day. Every. Single. Day. Thank me later! :D',
+          category: 'Life'
+        },
+        {
+          title: 'Apps',
+          value:
+            `<ul>
+                <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
+                <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
+                <li class="list-item"><a target="_blank" href="https://todoist.com/r/swapnilagarwal1994_powvaa">Todoist</a></li>
+            </ul>`,
+          category: 'Recommendations'
+        },
+        {
+          title: 'Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2EVajkQ">Kindle</a>!)',
+          value:
+            `<ul>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2HkdHai">The Alchemist</a></li>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2VJrWJS">Sapiens: A Brief History of Humankind</a></li>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2H5pAl8">Hooked: How to Build Habit-Forming Products</a></li>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2VKea9P">Anything You Want</a></li>
+                <a href="https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/ref=as_li_ss_il?ie=UTF8&qid=1551967997&sr=8-3&keywords=the+alchemist&linkCode=li3&tag=swap0b-21&linkId=b648b1d1bc1d6208d99175faaf2a16dc&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8172234988&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=8172234988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a href="https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=as_li_ss_il?ie=UTF8&qid=1551968056&sr=8-1&keywords=sapiens&linkCode=li3&tag=swap0b-21&linkId=c90e74e5db36c83dd09319b14d0b9ffc&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0099590085&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a href="https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=as_li_ss_il?ie=UTF8&qid=1551968112&sr=8-1&keywords=hooked&linkCode=li3&tag=swap0b-21&linkId=33085d2f32788d6251306de1de1d90d9&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241184835&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a href="https://www.amazon.in/Anything-You-Want-Derek-Sivers/dp/0241209048/ref=as_li_ss_il?ie=UTF8&qid=1551968163&sr=8-2&keywords=anything+you+want&linkCode=li3&tag=swap0b-21&linkId=e12e9092e81e5cf60e86b0754832744a&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241209048&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+            </ul>`,
+          category: 'Recommendations'
+        },
+        {
+          title: 'Games',
+          value:
+            `<ul>
+                <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight">Shadow Fight 2</a></li>
+            </ul>`,
+          category: 'Recommendations'
+        },
+        {
+          title: 'Coding',
+          value:
+            `<ul>
+                <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
+            </ul>`,
+          category: 'Recommendations'
+        },
+        {
+          title: 'Services I use',
+          value:
+            `<ul>
+                <li class="list-item"><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap: Domain Name Registration</a></li>
+                <li class="list-item"><a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable: Looks Like A Spreadsheet | Acts Like A Database</a></li>
+            </ul>`,
+          category: 'Recommendations'
+        },
+        {
+          title: 'Services I provide',
+          value:
+            `<ul>
+                <li class="list-item"><a href="https://www.buymeacoffee.com/l/cvraas" target="_blank" rel="noopener noreferrer">Review my CV</a></li>
+            </ul>`,
+          category: 'Recommendations'
+        }
+      ]
     }
+  }
+}
 </script>
 
 <style scoped>
