@@ -59,7 +59,7 @@ export default {
                 <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
                 <li class="list-item"><a target="_blank" href="https://todoist.com/r/swapnilagarwal1994_powvaa">Todoist</a></li>
             </ul>`,
-          category: 'Recommendations'
+          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
           title: 'Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2EVajkQ">Kindle</a>!)',
@@ -74,7 +74,7 @@ export default {
                 <a href="https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=as_li_ss_il?ie=UTF8&qid=1551968112&sr=8-1&keywords=hooked&linkCode=li3&tag=swap0b-21&linkId=33085d2f32788d6251306de1de1d90d9&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241184835&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
                 <a href="https://www.amazon.in/Anything-You-Want-Derek-Sivers/dp/0241209048/ref=as_li_ss_il?ie=UTF8&qid=1551968163&sr=8-2&keywords=anything+you+want&linkCode=li3&tag=swap0b-21&linkId=e12e9092e81e5cf60e86b0754832744a&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241209048&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             </ul>`,
-          category: 'Recommendations'
+          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
           title: 'Games',
@@ -82,7 +82,7 @@ export default {
             `<ul>
                 <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight">Shadow Fight 2</a></li>
             </ul>`,
-          category: 'Recommendations'
+          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
           title: 'Coding',
@@ -90,7 +90,7 @@ export default {
             `<ul>
                 <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
             </ul>`,
-          category: 'Recommendations'
+          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
           title: 'Services I use',
@@ -99,7 +99,7 @@ export default {
                 <li class="list-item"><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap: Domain Name Registration</a></li>
                 <li class="list-item"><a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable: Looks Like A Spreadsheet | Acts Like A Database</a></li>
             </ul>`,
-          category: 'Recommendations'
+          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
           title: 'Services I provide',
@@ -107,7 +107,7 @@ export default {
             `<ul>
                 <li class="list-item"><a href="https://www.buymeacoffee.com/l/cvraas" target="_blank" rel="noopener noreferrer">Review my CV</a></li>
             </ul>`,
-          category: 'Recommendations'
+          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         }
       ]
     }
