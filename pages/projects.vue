@@ -8,94 +8,92 @@
 		/>
         <br>
         <br>
-        <div class="card">
-            <div class="container padding">
-                <gh-btns-star
-                    slug="swapagarwal/swag-for-dev"
-                    show-count
-                />
-                <gh-btns-fork
-                    slug="swapagarwal/swag-for-dev"
-                    show-count
-                />
-            </div>
-            <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">
-                <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" alt="Avatar" style="width:100%">
-                <div class="container">
-                    <h4>
-                        <b>swag-for-dev</b>
-                    </h4>
-                    <p>😎 swag opportunities for developers</p>
+        <div style="display: flex;">
+            <div class="card">
+                <div class="container padding">
+                    <gh-btns-star
+                        slug="swapagarwal/swag-for-dev"
+                        show-count
+                    />
+                    <gh-btns-fork
+                        slug="swapagarwal/swag-for-dev"
+                        show-count
+                    />
                 </div>
-            </a>
-        </div>
-        <br>
-        <div class="card">
-            <div class="container padding">
-                <gh-btns-star
-                    slug="swapagarwal/JARVIS-on-Messenger"
-                    show-count
-                />
-                <gh-btns-fork
-                    slug="swapagarwal/JARVIS-on-Messenger"
-                    show-count
-                />
+                <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://partners.npmjs.com/weekly/weekly30/socks-1100x.jpg" alt="Avatar" style="width:100%">
+                    <div class="container">
+                        <h4>
+                            <b>swag-for-dev</b>
+                        </h4>
+                        <p>😎 swag opportunities for developers</p>
+                    </div>
+                </a>
             </div>
-            <a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">
-                <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" alt="Avatar" style="width:100%">
-                <div class="container">
-                    <h4>
-                        <b>JARVIS-on-Messenger</b>
-                    </h4>
-                    <p>💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks</p>
+            <div class="card">
+                <div class="container padding">
+                    <gh-btns-star
+                        slug="swapagarwal/JARVIS-on-Messenger"
+                        show-count
+                    />
+                    <gh-btns-fork
+                        slug="swapagarwal/JARVIS-on-Messenger"
+                        show-count
+                    />
                 </div>
-            </a>
-        </div>
-        <br>
-        <div class="card">
-            <div class="container padding">
-                <gh-btns-star
-                    slug="swapagarwal/awesome-eli5"
-                    show-count
-                />
-                <gh-btns-fork
-                    slug="swapagarwal/awesome-eli5"
-                    show-count
-                />
+                <a href="https://github.com/swapagarwal/JARVIS-on-Messenger" target="_blank" rel="noopener noreferrer">
+                    <img src="https://slideplayer.com/slide/8640299/26/images/1/Initializing%E2%80%A6.jpg" alt="Avatar" style="width:100%">
+                    <div class="container">
+                        <h4>
+                            <b>JARVIS-on-Messenger</b>
+                        </h4>
+                        <p>💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks</p>
+                    </div>
+                </a>
             </div>
-            <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">
-                <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" alt="Avatar" style="width:100%">
-                <div class="container">
-                    <h4>
-                        <b>awesome-eli5</b>
-                    </h4>
-                    <p>👶 Technical concepts explained in layman terms! git.io/eli5</p>
+            <div class="card">
+                <div class="container padding">
+                    <gh-btns-star
+                        slug="swapagarwal/awesome-eli5"
+                        show-count
+                    />
+                    <gh-btns-fork
+                        slug="swapagarwal/awesome-eli5"
+                        show-count
+                    />
                 </div>
-            </a>
-        </div>
-        <br>
-        <div class="card">
-            <div class="container padding">
-                <gh-btns-star
-                    slug="swapagarwal/awesome-inspiration"
-                    show-count
-                />
-                <gh-btns-fork
-                    slug="swapagarwal/awesome-inspiration"
-                    show-count
-                />
+                <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">
+                    <img src="https://howhttps.works/assets/images/how-https-works-open-graph.png" alt="Avatar" style="width:100%">
+                    <div class="container">
+                        <h4>
+                            <b>awesome-eli5</b>
+                        </h4>
+                        <p>👶 Technical concepts explained in layman terms! git.io/eli5</p>
+                    </div>
+                </a>
             </div>
-            <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">
-                <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" alt="Avatar" style="width:100%">
-                <div class="container">
-                    <h4>
-                        <b>awesome-inspiration</b>
-                    </h4>
-                    <p>🔥 A curated list of content worth sharing to help you get inspired! ⚡️</p>
+            <div class="card">
+                <div class="container padding">
+                    <gh-btns-star
+                        slug="swapagarwal/awesome-inspiration"
+                        show-count
+                    />
+                    <gh-btns-fork
+                        slug="swapagarwal/awesome-inspiration"
+                        show-count
+                    />
                 </div>
-            </a>
+                <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">
+                    <img src="https://callingdreams.com/wp-content/uploads/2016/02/Michael-Jordan-Quote-1.jpg" alt="Avatar" style="width:100%">
+                    <div class="container">
+                        <h4>
+                            <b>awesome-inspiration</b>
+                        </h4>
+                        <p>🔥 A curated list of content worth sharing to help you get inspired! ⚡️</p>
+                    </div>
+                </a>
+            </div>
         </div>
-        <br>
     </div>
 </template>
 
@@ -115,8 +113,9 @@
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 400px;
+  min-width: 400px;
   border-radius: 5px;
+  margin-right: 20px;
 }
 
 .card:hover {
