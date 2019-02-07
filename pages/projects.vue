@@ -1,13 +1,14 @@
 <template>
     <div class="projects">
-        Follow me on <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a> to see what I'm currently working on.
+        <div style="text-align: center;">
+            <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">Follow me on GitHub</a> to see what I'm currently working on!
+            <br><br>
+            <div class="github-card" data-github="swapagarwal" data-width="400" data-height="152" data-theme="default"></div>
+    <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+        </div>
         <br>
-        <gh-btns-follow
-			user="swapagarwal"
-			show-count
-		/>
-        <br>
-        <br>
+        Some of my projects include:
+        <br><br>
         <div style="display: flex;">
             <div class="card">
                 <div class="container padding">
