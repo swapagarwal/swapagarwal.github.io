@@ -99,6 +99,7 @@ export default {
             `<ul>
                 <li class="list-item"><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap: Domain Name Registration</a></li>
                 <li class="list-item"><a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable: Looks Like A Spreadsheet | Acts Like A Database</a></li>
+                <li class="list-item"><a href="https://www.notion.so/?r=ee9dea5d2e09438480bb97aa7a338770" target="_blank" rel="noopener noreferrer">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases</a></li>
             </ul>`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
