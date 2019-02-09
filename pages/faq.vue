@@ -57,7 +57,6 @@ export default {
             `<ul>
                 <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
                 <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
-                <li class="list-item"><a target="_blank" href="https://todoist.com/r/swapnilagarwal1994_powvaa">Todoist</a></li>
             </ul>`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
@@ -94,13 +93,9 @@ export default {
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
-          title: 'Services I use',
+          title: 'Things I use',
           value:
-            `<ul>
-                <li class="list-item"><a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap: Domain Name Registration</a></li>
-                <li class="list-item"><a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable: Looks Like A Spreadsheet | Acts Like A Database</a></li>
-                <li class="list-item"><a href="https://www.notion.so/?r=ee9dea5d2e09438480bb97aa7a338770" target="_blank" rel="noopener noreferrer">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases</a></li>
-            </ul>`,
+            `See <a href="/uses" target="_blank" rel="noopener noreferrer">/uses</a>.`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
