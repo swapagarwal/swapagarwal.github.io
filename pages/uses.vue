@@ -13,6 +13,9 @@
             <li>
                 ✍️ <a href="https://www.notion.so/?r=ee9dea5d2e09438480bb97aa7a338770" target="_blank" rel="noopener noreferrer">Notion</a> for documentation
             </li>
+            <li>
+                👨‍💻 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">Visual Studio Code</a> as my primary editor
+            </li>
         </ul>
     </div>
 </template>
