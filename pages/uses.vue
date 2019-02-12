@@ -16,6 +16,9 @@
             <li>
                 👨‍💻 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">Visual Studio Code</a> as my primary editor
             </li>
+            <li>
+                ⬛ <a href="https://www.iterm2.com/" target="_blank" rel="noopener noreferrer">iTerm2</a> as my terminal
+            </li>
         </ul>
     </div>
 </template>
