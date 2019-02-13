@@ -19,6 +19,9 @@
             <li>
                 ⬛ <a href="https://www.iterm2.com/" target="_blank" rel="noopener noreferrer">iTerm2</a> as my terminal
             </li>
+            <li>
+                🌙 <a href="https://justgetflux.com/" target="_blank" rel="noopener noreferrer">f.lux</a> to make life better
+            </li>
         </ul>
     </div>
 </template>
