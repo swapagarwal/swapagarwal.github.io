@@ -22,6 +22,9 @@
             <li>
                 🌙 <a href="https://justgetflux.com/" target="_blank" rel="noopener noreferrer">f.lux</a> to make life better
             </li>
+            <li>
+                🗒️ <a href="http://www.clipmenu.com/" target="_blank" rel="noopener noreferrer">ClipMenu</a> as my clipboard manager
+            </li>
         </ul>
     </div>
 </template>
