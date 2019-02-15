@@ -25,6 +25,9 @@
             <li>
                 🗒️ <a href="http://www.clipmenu.com/" target="_blank" rel="noopener noreferrer">ClipMenu</a> as my clipboard manager
             </li>
+            <li>
+                ☕ <a href="https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12" target="_blank" rel="noopener noreferrer">Amphetamine</a> for keeping mac awake
+            </li>
         </ul>
     </div>
 </template>
