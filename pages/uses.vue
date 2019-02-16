@@ -28,6 +28,9 @@
             <li>
                 ☕ <a href="https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12" target="_blank" rel="noopener noreferrer">Amphetamine</a> for keeping mac awake
             </li>
+            <li>
+                🚀 <a href="https://matthewpalmer.net/rocket/" target="_blank" rel="noopener noreferrer">Rocket</a> to keep emojis at my fingertips
+            </li>
         </ul>
     </div>
 </template>
