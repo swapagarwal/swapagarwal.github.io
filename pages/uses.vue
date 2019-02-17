@@ -31,6 +31,9 @@
             <li>
                 🚀 <a href="https://matthewpalmer.net/rocket/" target="_blank" rel="noopener noreferrer">Rocket</a> to keep emojis at my fingertips
             </li>
+            <li>
+                🔑 <a href="https://myki.com/" target="_blank" rel="noopener noreferrer">Myki</a> for managing passwords w/o a master password
+            </li>
         </ul>
     </div>
 </template>
