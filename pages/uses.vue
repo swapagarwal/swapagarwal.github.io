@@ -34,6 +34,9 @@
             <li>
                 🔑 <a href="https://myki.com/" target="_blank" rel="noopener noreferrer">Myki</a> for managing passwords w/o a master password
             </li>
+            <li>
+                💭 <a href="https://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> for capturing moments
+            </li>
         </ul>
     </div>
 </template>
