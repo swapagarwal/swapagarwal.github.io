@@ -37,6 +37,9 @@
             <li>
                 💭 <a href="https://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> for capturing moments
             </li>
+            <li>
+                🗃️ <a href="https://www.dropbox.com/" target="_blank" rel="noopener noreferrer">Dropbox</a> for backup purposes
+            </li>
         </ul>
     </div>
 </template>
