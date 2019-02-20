@@ -40,6 +40,9 @@
             <li>
                 🗃️ <a href="https://www.dropbox.com/" target="_blank" rel="noopener noreferrer">Dropbox</a> for backup purposes
             </li>
+            <li>
+                🎵 <a href="https://www.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify</a> for its awesome dose of discover weekly
+            </li>
         </ul>
     </div>
 </template>
