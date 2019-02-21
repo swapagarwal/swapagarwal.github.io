@@ -43,6 +43,9 @@
             <li>
                 🎵 <a href="https://www.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify</a> for its awesome dose of discover weekly
             </li>
+            <li>
+                🦊 <a href="https://www.mozilla.org/en-US/firefox/mobile/" target="_blank" rel="noopener noreferrer">Firefox Focus</a> for mobile browsing
+            </li>
         </ul>
     </div>
 </template>
