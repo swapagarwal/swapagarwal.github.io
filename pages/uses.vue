@@ -46,6 +46,9 @@
             <li>
                 🦊 <a href="https://www.mozilla.org/en-US/firefox/mobile/" target="_blank" rel="noopener noreferrer">Firefox Focus</a> for mobile browsing
             </li>
+            <li>
+                📌 <a href="https://www.pushbullet.com/" target="_blank" rel="noopener noreferrer">PushBullet</a> to share stuff b/w devices
+            </li>
         </ul>
     </div>
 </template>
