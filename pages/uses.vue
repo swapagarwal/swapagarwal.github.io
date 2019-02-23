@@ -38,7 +38,7 @@
                 💭 <a href="https://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> for capturing moments
             </li>
             <li>
-                🗃️ <a href="https://www.dropbox.com/" target="_blank" rel="noopener noreferrer">Dropbox</a> for backup purposes
+                🗃️ <a href="https://db.tt/OYuASVR3HM" target="_blank" rel="noopener noreferrer">Dropbox</a> for backup purposes
             </li>
             <li>
                 🎵 <a href="https://www.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify</a> for its awesome dose of discover weekly
