@@ -3,7 +3,7 @@
         <h2>Things I use:</h2>
         <ul>
             <li>
-                ⚔️ <a target="_blank" href="https://todoist.com/r/swapnilagarwal1994_powvaa">Todoist</a> for Task Management
+                ⚔️ <a href="https://todoist.com/r/swapnilagarwal1994_powvaa" target="_blank" rel="noopener noreferrer">Todoist</a> for Task Management
             <li>
                 🌐 <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a> for Domain Name Registration
             </li>
