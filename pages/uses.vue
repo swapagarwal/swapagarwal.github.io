@@ -3,9 +3,9 @@
         <h2>Things I use:</h2>
         <ul>
             <li>
-                ⚔️ <a href="https://todoist.com/r/swapnilagarwal1994_powvaa" target="_blank" rel="noopener noreferrer">Todoist</a> for Task Management
+                ⚔️ <a href="https://todoist.com/r/swapnilagarwal1994_powvaa" target="_blank" rel="noopener noreferrer">Todoist</a> for task management
             <li>
-                🌐 <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a> for Domain Name Registration
+                🌐 <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a> for registering domains
             </li>
             <li>
                 🏃‍♂️ <a href="https://airtable.com/invite/r/3vcHWIIt" target="_blank" rel="noopener noreferrer">Airtable</a> for spinning up a quick database
