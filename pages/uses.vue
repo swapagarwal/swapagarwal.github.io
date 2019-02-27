@@ -1,6 +1,6 @@
 <template>
     <div class="uses">
-        <h2>Things I use:</h2>
+        <h2>🦄 Things I use:</h2>
         <ul>
             <li>
                 ⚔️ <a href="https://todoist.com/r/swapnilagarwal1994_powvaa" target="_blank" rel="noopener noreferrer">Todoist</a> for task management
