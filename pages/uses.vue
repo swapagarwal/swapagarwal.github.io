@@ -17,7 +17,7 @@
                 👨‍💻 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">Visual Studio Code</a> as my primary editor
             </li>
             <li>
-                ⬛ <a href="https://www.iterm2.com/" target="_blank" rel="noopener noreferrer">iTerm2</a> as my terminal
+                ⬛ <a href="https://www.iterm2.com/" target="_blank" rel="noopener noreferrer">iTerm2</a> as my terminal (with <a href="https://github.com/robbyrussell/oh-my-zsh" target="_blank" rel="noopener noreferrer">oh-my-zsh</a> framework)
             </li>
             <li>
                 🌙 <a href="https://justgetflux.com/" target="_blank" rel="noopener noreferrer">f.lux</a> to make life better
