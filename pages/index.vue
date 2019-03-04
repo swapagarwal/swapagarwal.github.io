@@ -35,7 +35,7 @@
       <div class="newsletter">
         I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
-        Latest Post: <a href="https://buttondown.email/swap/archive/d691e233-795d-4d0c-bab1-6574816c887f" target="_blank" rel="noopener noreferrer">#14: ✍️ Write tests. Not too many. Mostly integration.</a> 🆕
+        Latest Post: <a href="https://buttondown.email/swap/archive/0918c541-22ae-424b-90da-3fbdbcefb984" target="_blank" rel="noopener noreferrer">#15: 📚 Book Notes: Sapiens: A Brief History of Humankind</a> 🆕
       </div>
       <br>
       <div class="contact">
