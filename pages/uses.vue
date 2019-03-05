@@ -35,7 +35,7 @@
                 🔑 <a href="https://myki.com/" target="_blank" rel="noopener noreferrer">Myki</a> for managing passwords w/o a master password <a href="https://buttondown.email/swap/archive/4c1a6e0a-4492-45e8-a0b5-2e47eae060f2" target="_blank" rel="noopener noreferrer">Read more...</a>
             </li>
             <li>
-                💭 <a href="https://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> for capturing moments
+                💭 <a href="https://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> for capturing moments <a href="https://buttondown.email/swap/archive/5d7b889b-3ef6-4861-9a5b-671cd668322b" target="_blank" rel="noopener noreferrer">Read more...</a>
             </li>
             <li>
                 🗃️ <a href="https://db.tt/OYuASVR3HM" target="_blank" rel="noopener noreferrer">Dropbox</a> for backup purposes
