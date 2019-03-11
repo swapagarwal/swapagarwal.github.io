@@ -3,7 +3,7 @@
         <h2>🦄 Things I use:</h2>
         <ul>
             <li>
-                ⚔️ <a href="https://todoist.com/r/swapnilagarwal1994_powvaa" target="_blank" rel="noopener noreferrer">Todoist</a> for task management
+                ⚔️ <a href="https://todoist.com/r/swapnilagarwal1994_powvaa" target="_blank" rel="noopener noreferrer">Todoist</a> for task management <a href="https://buttondown.email/swap/archive/21073491-4637-4235-a9e7-a9ebe6a21f5f" target="_blank" rel="noopener noreferrer">Read more...</a>
             <li>
                 🌐 <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a> for registering domains
             </li>
