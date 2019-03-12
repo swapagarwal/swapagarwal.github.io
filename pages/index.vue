@@ -35,7 +35,7 @@
       <div class="newsletter">
         I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
-        Latest Post: <a href="https://buttondown.email/swap/archive/8ef83932-198b-4054-bff4-a25862e352e3" target="_blank" rel="noopener noreferrer">#17: 📚 Book Notes: The Design of Everyday Things</a> 🆕
+        Latest Post: <a href="https://buttondown.email/swap/archive/21073491-4637-4235-a9e7-a9ebe6a21f5f" target="_blank" rel="noopener noreferrer">#18: ⚔️ A Personal Assistant to Maximize your Productivity</a> 🆕
       </div>
       <br>
       <div class="contact">
