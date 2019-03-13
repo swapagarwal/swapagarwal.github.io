@@ -1,6 +1,7 @@
 <template>
   <section class="container">
     <div>
+      <Header/>
       <!-- <logo/> -->
       <!-- <h1 class="title">
         127.0.0.1 sweet 127.0.0.1
@@ -61,10 +62,11 @@
 <script>
 import Logo from '~/components/Logo.vue'
 import Footer from '~/components/Footer.vue'
+import Header from '~/components/Header.vue'
 
 export default {
   components: {
-    Logo, Footer
+    Logo, Footer, Header
   }
 }
 </script>
