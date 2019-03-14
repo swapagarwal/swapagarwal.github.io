@@ -17,6 +17,10 @@ export default {
 .header {
   display: flex;
   margin-bottom: 20px;
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 a {
   margin-right: 20px;
