@@ -1,7 +1,7 @@
 <template>
   <section class="container">
+    <Header/>
     <div>
-      <Header/>
       <!-- <logo/> -->
       <!-- <h1 class="title">
         127.0.0.1 sweet 127.0.0.1
