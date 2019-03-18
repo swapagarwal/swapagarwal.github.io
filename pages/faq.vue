@@ -1,19 +1,23 @@
 <template>
-    <div class="container">
-        <div style="display: inline-block; text-align: left;">
-            <h1 class="title">Frequently Asked Questions</h1>
-            <br>
-            <VueFaqAccordion :items='faqs'/>
+    <div>
+        <Header/>
+        <div class="container">
+            <div style="display: inline-block; text-align: left;">
+                <h1 class="title">Frequently Asked Questions</h1>
+                <br>
+                <VueFaqAccordion :items='faqs'/>
+            </div>
         </div>
     </div>
 </template>
 
 <script>
 import VueFaqAccordion from 'vue-faq-accordion'
+import Header from '~/components/Header.vue'
 
 export default {
   components: {
-    VueFaqAccordion
+    VueFaqAccordion, Header
   },
   data () {
     return {
