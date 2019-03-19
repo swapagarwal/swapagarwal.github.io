@@ -12,11 +12,11 @@
         Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me "swap".
       </h2>
       Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> + <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">@AnAwesomeConf</a> on the side | INTP turned INFP
-      <div class="links">
+      <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
         | <a href="ideas" target="_blank" rel="noopener noreferrer">🤔 Ideas</a>
         | <a href="faq" target="_blank" rel="noopener noreferrer">❓ F.A.Q.</a>
-      </div>
+      </div> -->
       <!-- <div class="links">
         <a href="now" target="_blank" class="button--grey">Now</a>
         <a href="github" target="_blank" class="button--grey">GitHub</a>
@@ -32,7 +32,7 @@
       <!-- <div class="about">
         <a href="https://buttondown.email/swap/archive/7d5b3001-9ecc-4d58-abbc-0353e121633f" target="_blank" rel="noopener noreferrer">About Me</a> | <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">My Newsletter</a>
       </div> -->
-      <br>
+      <br><br>
       <div class="newsletter">
         I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
