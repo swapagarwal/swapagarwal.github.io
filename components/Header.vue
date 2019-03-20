@@ -41,7 +41,6 @@ a:hover {
 }
 a.nuxt-link-active {
   color: #333;
-  border-top: 1px solid #333;
   border-bottom: 1px solid #333;
   font-weight: 600;
 }
