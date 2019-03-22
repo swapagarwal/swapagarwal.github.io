@@ -52,21 +52,23 @@
         | <a href="https://www.linkedin.com/in/swapagarwal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         | <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a>
       </div>
-      <no-ssr>
+      <!-- <no-ssr>
         <Footer/>
-      </no-ssr>
+      </no-ssr> -->
     </div>
   </section>
 </template>
 
 <script>
 import Logo from '~/components/Logo.vue'
-import Footer from '~/components/Footer.vue'
+// import Footer from '~/components/Footer.vue'
 import Header from '~/components/Header.vue'
 
 export default {
   components: {
-    Logo, Footer, Header
+    Logo,
+    // Footer,
+    Header
   }
 }
 </script>
