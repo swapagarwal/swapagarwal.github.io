@@ -25,7 +25,7 @@ export default {
 a {
   margin-right: 20px;
   font-size: 14px;
-  color: #999;
+  color: #333;
   text-decoration: none;
   text-transform: uppercase;
   padding-top: 2px;
@@ -37,11 +37,11 @@ a {
   line-height: normal;
 }
 a:hover {
-  color: #333;
+  color: #000;
 }
 a.nuxt-link-active {
-  color: #333;
-  border-bottom: 1px solid #333;
+  color: #000;
+  border-bottom: 1px solid #000;
   font-weight: 600;
 }
 </style>
