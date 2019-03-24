@@ -36,6 +36,17 @@
       <div class="newsletter">
         I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/swap"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/swap', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <input type="email" name="email" id="bd-email" placeholder="drop your email">
+          <input type="hidden" value="1" name="embed"/>
+          <input type="submit" value="subscribe" />
+        </form>
         Latest Post: <a href="https://buttondown.email/swap/archive/21073491-4637-4235-a9e7-a9ebe6a21f5f" target="_blank" rel="noopener noreferrer">#18: ⚔️ A Personal Assistant to Maximize your Productivity</a> 🆕
       </div>
       <br>
