@@ -2,7 +2,7 @@
   <div class="header">
     <nuxt-link to="/" exact>🏡 Home</nuxt-link>
     <nuxt-link to="/projects">🏗️ Projects</nuxt-link>
-    <nuxt-link to="/ideas">🤔 Ideas</nuxt-link>
+    <nuxt-link to="/ideas">💭 Ideas</nuxt-link>
     <nuxt-link to="/faq">❓ F.A.Q.</nuxt-link>
   </div>
 </template>
