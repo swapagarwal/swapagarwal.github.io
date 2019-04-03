@@ -11,7 +11,7 @@
             <br>
             Some of my projects include:
             <br><br>
-            <div style="display: flex;">
+            <div style="display: flex; flex-wrap: wrap;">
                 <div class="card">
                     <div class="container padding">
                         <gh-btns-star
@@ -128,6 +128,8 @@ export default {
   min-width: 400px;
   border-radius: 5px;
   margin-right: 20px;
+  margin-bottom: 20px;
+  flex: 1;
 }
 
 .card:hover {
