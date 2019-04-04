@@ -1,5 +1,5 @@
 <template>
-  <div class="header">
+  <div class="header" align="center">
     <nuxt-link to="/" exact>&nbsp;🏡 Home&nbsp;</nuxt-link>
     <nuxt-link to="/projects">&nbsp;📂 Projects&nbsp;</nuxt-link>
     <nuxt-link to="/ideas">&nbsp;🧠 Ideas&nbsp;</nuxt-link>
@@ -21,6 +21,7 @@ export default {
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
+  display: block;
 }
 a {
   margin-right: 20px;
