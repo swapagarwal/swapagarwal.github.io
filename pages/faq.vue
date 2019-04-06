@@ -99,7 +99,7 @@ export default {
         {
           title: 'Things I use',
           value:
-            `See <a href="/uses" target="_blank" rel="noopener noreferrer">/uses</a>.`,
+            `See <a href="/uses">/uses</a>.`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
