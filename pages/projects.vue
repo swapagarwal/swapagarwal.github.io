@@ -126,10 +126,10 @@ export default {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   min-width: 400px;
+  max-width: 400px;
   border-radius: 5px;
   margin-right: 20px;
   margin-bottom: 20px;
-  flex: 1;
 }
 
 .card:hover {
