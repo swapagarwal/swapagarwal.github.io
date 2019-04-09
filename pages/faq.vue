@@ -47,7 +47,7 @@ export default {
           value:
             `<p>
                 YES! YES! YES! I have lots of them:<br>
-                1. <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">Website</a> for <a href="https://github.com/swapagarwal/swag-for-dev" target="_blank" rel="noopener noreferrer">swag-for-dev</a><br>
+                1. <strike><a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">Website</a> for <a href="https://github.com/swapagarwal/swag-for-dev" target="_blank" rel="noopener noreferrer">swag-for-dev</a></strike> <a href="https://github.com/swapagarwal/swag-for-dev/issues/52" target="_blank" rel="noopener noreferrer">DONE</a><br>
                 2. Website for <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">awesome-eli5</a><br>
                 3. Website for <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">awesome-inspiration</a><br>
 
