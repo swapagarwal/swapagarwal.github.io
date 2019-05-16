@@ -9,7 +9,8 @@
         <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
             </div>
             <br>
-            Some of my projects include:
+            Some of my projects include:<br>
+            (P.S. If the layout seems broken, please refresh the page.)
             <br><br>
             <div style="display: flex; flex-wrap: wrap;">
                 <div class="card">
