@@ -47,7 +47,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-made-to-stick-why-some-ideas-survive/" target="_blank" rel="noopener noreferrer">#23: 📚 Book Notes: Made to Stick: Why Some Ideas Survive and Others Die</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/the-netflix-of-mac-apps/" target="_blank" rel="noopener noreferrer">#24: 💎 The Netflix of Mac Apps</a>
       </div>
       <br>
       <div class="contact">
