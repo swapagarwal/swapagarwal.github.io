@@ -8,16 +8,22 @@
                 <VueFaqAccordion :items='faqs'/>
             </div>
         </div>
+        <no-ssr>
+          <Footer/>
+        </no-ssr>
     </div>
 </template>
 
 <script>
 import VueFaqAccordion from 'vue-faq-accordion'
 import Header from '~/components/Header.vue'
+import Footer from '~/components/Footer.vue'
 
 export default {
   components: {
-    VueFaqAccordion, Header
+    VueFaqAccordion,
+    Header,
+    Footer
   },
   data () {
     return {

@@ -19,15 +19,20 @@
             </ul>
             Let me know if you end up making one of these / know that it exists already. I'll be quite thankful! 🙏
         </div>
+        <no-ssr>
+            <Footer/>
+        </no-ssr>
     </div>
 </template>
 
 <script>
 import Header from '~/components/Header.vue'
+import Footer from '~/components/Footer.vue'
 
 export default {
   components: {
-    Header
+    Header,
+    Footer
   }
 }
 </script>
