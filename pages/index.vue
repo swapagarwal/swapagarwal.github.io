@@ -86,7 +86,7 @@ export default {
 
 <style>
 .container {
-  min-height: 80vh;
+  min-height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
