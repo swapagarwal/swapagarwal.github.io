@@ -47,7 +47,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-the-mom-test-how-to-talk-to-customers/" target="_blank" rel="noopener noreferrer">#27: 📚 Book Notes: The Mom Test: How to Talk to Customers & Learn If Your Business Is a Good Idea When Everyone Is Lying to You</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/ethical-marketing/" target="_blank" rel="noopener noreferrer">#28: 🚯 Ethical Marketing</a>
       </div>
       <br>
       <div class="contact">
