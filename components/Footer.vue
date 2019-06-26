@@ -21,7 +21,7 @@ export default {
     return {
       lastUpdatedOn: new Date(document.lastModified).toDateString(),
       bgColor: '#000000',
-      position: 'bottom-left',
+      position: 'top-left',
       mainIcon: 'menu',
       iconSize: 'small',
       fabActions: [
