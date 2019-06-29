@@ -6,10 +6,7 @@
       :main-icon="mainIcon"
       :icon-size="iconSize"
       :actions="fabActions"
-      @home="home"
-      @projects="projects"
-      @ideas="ideas"
-      @faq="faq"
+      @uses="uses"
     ></fab>
     <!-- Last updated on: {{ lastUpdatedOn }} -->
   </div>
@@ -26,40 +23,16 @@ export default {
       iconSize: 'small',
       fabActions: [
         {
-          name: 'home',
-          icon: 'home',
-          tooltip: 'Home'
-        },
-        {
-          name: 'projects',
-          icon: 'folder_special',
-          tooltip: 'Projects'
-        },
-        {
-          name: 'ideas',
-          icon: 'highlight',
-          tooltip: 'Ideas'
-        },
-        {
-          name: 'faq',
-          icon: 'question_answer',
-          tooltip: 'F.A.Q.'
+          name: 'uses',
+          icon: 'school',
+          tooltip: 'Uses'
         }
       ]
     }
   },
   methods: {
-    home () {
-      window.open('/', '_self')
-    },
-    projects () {
-      window.open('/projects', '_self')
-    },
-    ideas () {
-      window.open('/ideas', '_self')
-    },
-    faq () {
-      window.open('/faq', '_self')
+    uses () {
+      window.open('/uses', '_self')
     }
   }
 }
