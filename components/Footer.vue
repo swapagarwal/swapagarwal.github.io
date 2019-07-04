@@ -7,6 +7,7 @@
       :icon-size="iconSize"
       :actions="fabActions"
       @uses="uses"
+      @fund="fund"
     ></fab>
     <!-- Last updated on: {{ lastUpdatedOn }} -->
   </div>
@@ -26,6 +27,11 @@ export default {
           name: 'uses',
           icon: 'school',
           tooltip: 'Uses'
+        },
+        {
+          name: 'fund',
+          icon: 'attach_money',
+          tooltip: 'Fund'
         }
       ]
     }
@@ -33,6 +39,9 @@ export default {
   methods: {
     uses () {
       window.open('/uses', '_self')
+    },
+    fund () {
+      window.open('/fund', '_self')
     }
   }
 }
