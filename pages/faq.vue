@@ -72,7 +72,7 @@ export default {
         },
         {
           title: 'Any general advice?',
-          value: 'Ship every day. Every. Single. Day. Thank me later! :D',
+          value: 'Ship every day. Every. Single. Day. Thank me later! :D<br>If you\'d like a nudge to start a streak, I have a <a href="/fund">100-day challenge</a> for you.',
           category: 'Life'
         },
         {
@@ -127,6 +127,7 @@ export default {
           value:
             `<ul>
                 <li class="list-item"><a href="https://www.buymeacoffee.com/l/cvraas" target="_blank" rel="noopener noreferrer">Review my CV</a></li>
+                <li class="list-item"><a href="/fund">Fund</a></li>
             </ul>`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         }
