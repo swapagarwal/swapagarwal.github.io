@@ -127,9 +127,9 @@ export default {
           value:
             `<ul>
                 <li class="list-item"><a href="https://www.buymeacoffee.com/l/cvraas" target="_blank" rel="noopener noreferrer">Review my CV</a></li>
+                <li class="list-item">Mentoring session</li>
                 <li class="list-item"><a href="/fund">Fund</a></li>
                 <li class="list-item">I'm currently accepting business consulting contracts.</li>
-                <li class="list-item">Mentoring session</li>
             </ul>`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         }
