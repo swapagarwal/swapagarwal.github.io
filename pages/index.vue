@@ -47,7 +47,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/from-couch-to-10k/" target="_blank" rel="noopener noreferrer">#30: 🏃‍♂️ From Couch to 10K</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-quiet-the-power-of-introverts-in-a/" target="_blank" rel="noopener noreferrer">#31: 📚 Book Notes: Quiet: The Power of Introverts in a World That Can't Stop Talking</a>
       </div>
       <br>
       <div class="contact">
