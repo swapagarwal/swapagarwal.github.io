@@ -16,7 +16,15 @@
                    caret-animation='smooth'
         ></vue-typer>
       </h2>
-      Developer @Amazon | running <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">@VueBLR</a> + <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> + <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">@AnAwesomeConf</a> on the side | INTP turned INFP
+      <div style="text-align:left">
+        I'm currently <b>exploring career #3</b>. In the past, I have worked as a <b>Software Developer at Amazon</b> and as a <b>Product Manager at Meesho</b>.
+        <br>
+        I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">🤓 Vue Bangalore</a> meetups.
+        <br>
+        I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as that swag guy!
+        <br>
+        INTP turned INFP
+      </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
         | <a href="ideas" target="_blank" rel="noopener noreferrer">🤔 Ideas</a>
@@ -37,7 +45,7 @@
       <!-- <div class="about">
         <a href="https://buttondown.email/swap/archive/7d5b3001-9ecc-4d58-abbc-0353e121633f" target="_blank" rel="noopener noreferrer">About Me</a> | <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">My Newsletter</a>
       </div> -->
-      <br><br>
+      <br>
       <div class="newsletter">
         I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
