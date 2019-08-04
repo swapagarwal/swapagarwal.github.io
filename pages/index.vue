@@ -47,7 +47,23 @@
       </div> -->
       <br>
       <div class="newsletter">
-        I maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
+        In the next 6 months, I plan to learn new skills and test them out professionally. Follow along and become part of my journey.
+        <br>
+        <form
+          action="https://tinyletter.com/swap"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://tinyletter.com/swap', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+        >
+          <input type="text" placeholder="drop your email" style="width: 400px; padding: 8px 124px 6px 16px; border-radius: 10px; outline: none; border: 1px solid;" name="email" id="tlemail" />
+          <input type="hidden" value="1" name="embed"/>
+          <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
+        </form>
+        Past issues can be found here: <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">tinyletter.com/swap/archive</a>
+      </div>
+      <br>
+      <div class="newsletter">
+        I also maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
         <form
           action="https://buttondown.email/api/emails/embed-subscribe/swap"
