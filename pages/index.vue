@@ -23,7 +23,7 @@
         <br>
         I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as that swag guy!
         <br>
-        INTP turned INFP
+        INTP turned INFP | Speaker at Conferences & Meetups | Open-Source Contributor at Night
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
@@ -47,7 +47,7 @@
       </div> -->
       <br>
       <div class="newsletter">
-        In the next 6 months, I plan to learn new skills and test them out professionally. Follow along and become part of my journey.
+        In the next 6 months, I plan to learn new skills and test them out professionally. Follow along and become part of my journey!
         <br>
         <form
           action="https://tinyletter.com/swap"
