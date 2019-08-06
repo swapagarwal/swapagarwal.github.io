@@ -76,7 +76,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-why-we-sleep/" target="_blank" rel="noopener noreferrer">#33: 📚 Book Notes: Why We Sleep</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/c9e22e48-62d1-493a-86a4-e5868334fb1d/" target="_blank" rel="noopener noreferrer">#34: 😕 Differential Pricing</a>
       </div>
       <br>
       <div class="contact">
