@@ -47,6 +47,7 @@
       </div> -->
       <br>
       <div class="newsletter">
+        <span class="badge badge-danger" style="margin-left: 10px; font-size: 12px;">New</span>
         In the next 6 months, I plan to learn new skills and test them out professionally. Follow along and become part of my journey!
         <br>
         <form
@@ -60,6 +61,7 @@
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
         Past issues can be found here: <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">tinyletter.com/swap/archive</a>
+        <span class="badge badge-danger" style="margin-left: 10px; font-size: 12px;">New</span>
       </div>
       <br>
       <div class="newsletter">
