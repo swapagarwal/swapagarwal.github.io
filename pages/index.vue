@@ -11,8 +11,8 @@
       <h2 class="subtitle">
         <vue-typer text="Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me 'swap'."
                    :repeat='0'
-                   pre-type-delay='1000'
-                   type-delay='100'
+                   :pre-type-delay='1000'
+                   :type-delay='100'
                    caret-animation='smooth'
         ></vue-typer>
       </h2>
