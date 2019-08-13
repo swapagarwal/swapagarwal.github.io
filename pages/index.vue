@@ -78,7 +78,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/c9e22e48-62d1-493a-86a4-e5868334fb1d/" target="_blank" rel="noopener noreferrer">#34: 😕 Differential Pricing</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-the-art-of-war/" target="_blank" rel="noopener noreferrer">#35: 📚 Book Notes: The Art of War</a>
       </div>
       <br>
       <div class="contact">
