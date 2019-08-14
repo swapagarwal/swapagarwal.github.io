@@ -18,7 +18,7 @@ export default {
   data: function () {
     return {
       lastUpdatedOn: new Date(document.lastModified).toDateString(),
-      bgColor: '#000000',
+      bgColor: '#808080',
       position: 'top-right',
       mainIcon: 'menu',
       iconSize: 'small',
