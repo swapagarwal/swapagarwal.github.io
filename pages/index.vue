@@ -17,7 +17,7 @@
         ></vue-typer>
       </h2>
       <div>
-        I'm currently <b>exploring career #3</b>. In the past, I have worked as a <b>Software Developer at Amazon</b> and as a <b>Product Manager at Meesho</b>.
+        I'm currently <b>Exploring Career #3</b>. In the past, I have worked as a <b>Software Developer at Amazon</b> and as a <b>Product Manager at Meesho</b>.
         <br>
         I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">🤓 Vue Bangalore</a> meetups.
         <br>
