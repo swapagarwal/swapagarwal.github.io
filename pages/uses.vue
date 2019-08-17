@@ -25,7 +25,7 @@
                     🌙 <a href="https://justgetflux.com/" target="_blank" rel="noopener noreferrer">f.lux</a> to make life better
                 </li>
                 <li>
-                    🗒️ <a href="http://www.clipmenu.com/" target="_blank" rel="noopener noreferrer">ClipMenu</a> as my clipboard manager
+                    🗒️ <strike><a href="http://www.clipmenu.com/" target="_blank" rel="noopener noreferrer">ClipMenu</a></strike>&nbsp;<a href="https://pasteapp.me/" target="_blank" rel="noopener noreferrer">Paste</a> as my clipboard manager
                 </li>
                 <li>
                     ☕ <a href="https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12" target="_blank" rel="noopener noreferrer">Amphetamine</a> for keeping mac awake
