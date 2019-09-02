@@ -78,7 +78,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form>
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-the-culture-code-the-secrets-of-highly/" target="_blank" rel="noopener noreferrer">#37: 📚 Book Notes: The Culture Code: The Secrets of Highly Successful Groups</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/dragoon-dranzer-driger-draciel/" target="_blank" rel="noopener noreferrer">#38: 🧸 Dragoon, Dranzer, Driger, Draciel</a>
       </div>
       <br>
       <div class="contact">
