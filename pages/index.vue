@@ -67,7 +67,7 @@
       <div class="newsletter">
         I also maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
         <br>
-        <form
+        <!-- <form
           action="https://buttondown.email/api/emails/embed-subscribe/swap"
           method="post"
           target="popupwindow"
@@ -77,7 +77,7 @@
           <input type="email" name="email" id="bd-email" placeholder="drop your email" style="width: 400px; padding: 8px 124px 6px 16px; border-radius: 10px; outline: none; border: 1px solid;">
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
-        </form>
+        </form> -->
         🔥 Latest Post: <a href="https://buttondown.email/swap/archive/dragoon-dranzer-driger-draciel/" target="_blank" rel="noopener noreferrer">#38: 🧸 Dragoon, Dranzer, Driger, Draciel</a>
       </div>
       <br>
