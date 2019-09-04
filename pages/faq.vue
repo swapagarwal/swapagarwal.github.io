@@ -32,9 +32,9 @@ export default {
           title: 'What should I do about my career?',
           value:
             `<p>
-                Read the book "<a target="_blank" href="https://amzn.to/2VHHwFO">So Good They Can't Ignore You</a>".
+                Read the book "<a target="_blank" href="https://amzn.to/32zoQvd">So Good They Can't Ignore You</a>".
                 <br><br>
-                <a href="https://www.amazon.in/Good-They-Cant-Ignore-You/dp/0349420211/ref=as_li_ss_il?ie=UTF8&qid=1551967646&sr=8-1&keywords=so+good+they+can't+ignore+you+by+cal+newport&linkCode=li3&tag=swap0b-21&linkId=1728ac35bc38e84c9915174ee97b3c3c&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0349420211&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank" href="https://www.amazon.in/gp/product/0349420211/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0349420211&linkCode=as2&tag=swap0e-21&linkId=0339582d6f553465620320a718cfcc9f">So Good They Can't Ignore You</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=0349420211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             </p>`,
           category: 'Work'
         },
@@ -42,9 +42,9 @@ export default {
           title: 'How do I become a better programmer?',
           value:
             `<p>
-                Read the book "<a target="_blank" href="https://amzn.to/2VLklul">Clean Code</a>".
+                Read the book "<a target="_blank" href="https://amzn.to/2ULzI6A">Clean Code</a>".
                 <br><br>
-                <a href="https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/ref=as_li_ss_il?_encoding=UTF8&qid=1551967795&sr=8-3&linkCode=li3&tag=swap0b-21&linkId=231ba88a260ce463ff96b8d3794fcae1&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8131773388&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=8131773388" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank" href="https://www.amazon.in/gp/product/B001GSTOAM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001GSTOAM&linkCode=as2&tag=swap0e-21&linkId=3380c616a477c2ff95261ba8ec9e726e">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=B001GSTOAM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             </p>`,
           category: 'Work'
         },
@@ -85,18 +85,18 @@ export default {
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
         {
-          title: 'Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2EVajkQ">Kindle</a>!)',
+          title: 'Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2N5xluB">Kindle</a>!)',
           value:
             `<ul>
-                <li class="list-item"><a target="_blank" href="https://amzn.to/2HkdHai">The Alchemist</a></li>
-                <li class="list-item"><a target="_blank" href="https://amzn.to/2VJrWJS">Sapiens: A Brief History of Humankind</a></li>
-                <li class="list-item"><a target="_blank" href="https://amzn.to/2H5pAl8">Hooked: How to Build Habit-Forming Products</a></li>
-                <li class="list-item"><a target="_blank" href="https://amzn.to/2VKea9P">Anything You Want</a></li>
-                <a href="https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/ref=as_li_ss_il?ie=UTF8&qid=1551967997&sr=8-3&keywords=the+alchemist&linkCode=li3&tag=swap0b-21&linkId=b648b1d1bc1d6208d99175faaf2a16dc&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8172234988&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=8172234988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                <a href="https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=as_li_ss_il?ie=UTF8&qid=1551968056&sr=8-1&keywords=sapiens&linkCode=li3&tag=swap0b-21&linkId=c90e74e5db36c83dd09319b14d0b9ffc&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0099590085&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2Q0nVmc">The Alchemist</a></li>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2LOGtRg">Sapiens: A Brief History of Humankind</a></li>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2QdsrOy">Hooked: How to Build Habit-Forming Products</a></li>
+                <li class="list-item"><a target="_blank" href="https://amzn.to/2ZQvwYZ">Anything You Want</a></li>
+                <a target="_blank" href="https://www.amazon.in/gp/product/8172234988/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8172234988&linkCode=as2&tag=swap0e-21&linkId=3398247d5b2c8ab5db9bbeda9b318396">The Alchemist</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=8172234988" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank" href="https://www.amazon.in/gp/product/0099590085/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0099590085&linkCode=as2&tag=swap0e-21&linkId=6da68db061e43da7abe235e66bb9f800">Sapiens: A Brief History of Humankind</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
                 <br>
-                <a href="https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products/dp/0241184835/ref=as_li_ss_il?ie=UTF8&qid=1551968112&sr=8-1&keywords=hooked&linkCode=li3&tag=swap0b-21&linkId=33085d2f32788d6251306de1de1d90d9&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241184835&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-                <a href="https://www.amazon.in/Anything-You-Want-Derek-Sivers/dp/0241209048/ref=as_li_ss_il?ie=UTF8&qid=1551968163&sr=8-2&keywords=anything+you+want&linkCode=li3&tag=swap0b-21&linkId=e12e9092e81e5cf60e86b0754832744a&language=en_IN" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241209048&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=swap0b-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=swap0b-21&language=en_IN&l=li3&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank" href="https://www.amazon.in/gp/product/0241184835/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0241184835&linkCode=as2&tag=swap0e-21&linkId=eb7418d3bc7917a42f4cfffd23543c73">Hooked: How to Build Habit-Forming Products</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=0241184835" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <a target="_blank" href="https://www.amazon.in/gp/product/0241209048/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0241209048&linkCode=as2&tag=swap0e-21&linkId=cdc8f09be9004f4c4710707b2705d0a7">Anything You Want</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=0241209048" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
             </ul>`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
