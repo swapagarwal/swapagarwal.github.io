@@ -78,7 +78,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form> -->
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/digital-detox/" target="_blank" rel="noopener noreferrer">#40: 💊 Digital Detox</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-the-48-laws-of-power/" target="_blank" rel="noopener noreferrer">#41: 📚 Book Notes: The 48 Laws Of Power</a>
       </div>
       <br>
       <div class="contact">
