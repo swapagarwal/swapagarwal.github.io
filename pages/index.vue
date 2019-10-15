@@ -78,7 +78,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form> -->
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-flow-the-psychology-of-optimal/" target="_blank" rel="noopener noreferrer">#43: 📚 Book Notes: Flow: The Psychology of Optimal Experience</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/the-art-of-being-a-good-mentee/" target="_blank" rel="noopener noreferrer">#44: 🎓 The Art of Being a Good Mentee</a>
       </div>
       <br>
       <div class="contact">
