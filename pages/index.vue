@@ -78,7 +78,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form> -->
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/the-art-of-being-a-good-mentee/" target="_blank" rel="noopener noreferrer">#44: 🎓 The Art of Being a Good Mentee</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-nonviolent-communication-a-language-of/" target="_blank" rel="noopener noreferrer">#45: 📚 Book Notes: Nonviolent Communication: A Language of Life</a>
       </div>
       <br>
       <div class="contact">
