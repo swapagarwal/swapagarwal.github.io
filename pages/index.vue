@@ -78,7 +78,7 @@
           <input type="hidden" value="1" name="embed"/>
           <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
         </form> -->
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/book-notes-nonviolent-communication-a-language-of/" target="_blank" rel="noopener noreferrer">#45: 📚 Book Notes: Nonviolent Communication: A Language of Life</a>
+        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/were-we-let-in-for-our-looks-no-will-we-be-judged/" target="_blank" rel="noopener noreferrer">#46: 🔥 Were we let in for our looks? No. Will we be judged on them? Yes.</a>
       </div>
       <br>
       <div class="contact">
