@@ -47,38 +47,11 @@
       </div> -->
       <br>
       <div class="newsletter">
-        <span class="badge badge-danger" style="margin-left: 10px; font-size: 12px;">New</span>
-        In the next 6 months, I plan to learn new skills and test them out professionally. Follow along and become part of my journey!
+        I maintain two newsletters:
         <br>
-        <form
-          action="https://tinyletter.com/swap"
-          method="post"
-          target="popupwindow"
-          onsubmit="window.open('https://tinyletter.com/swap', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
-        >
-          <input type="text" placeholder="drop your email" style="width: 400px; padding: 8px 124px 6px 16px; border-radius: 10px; outline: none; border: 1px solid;" name="email" id="tlemail" />
-          <input type="hidden" value="1" name="embed"/>
-          <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
-        </form>
-        Past issues can be found here: <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">tinyletter.com/swap/archive</a>
-        <span class="badge badge-danger" style="margin-left: 10px; font-size: 12px;">New</span>
-      </div>
-      <br>
-      <div class="newsletter">
-        I also maintain a <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">little 💌 email digest</a> to share what I'm 📚 reading, 🎵 listening to, and 🎮 find interesting.
+        1. What I'm doing now? <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">tinyletter.com/swap/archive</a>
         <br>
-        <!-- <form
-          action="https://buttondown.email/api/emails/embed-subscribe/swap"
-          method="post"
-          target="popupwindow"
-          onsubmit="window.open('https://buttondown.email/swap', 'popupwindow')"
-          class="embeddable-buttondown-form"
-        >
-          <input type="email" name="email" id="bd-email" placeholder="drop your email" style="width: 400px; padding: 8px 124px 6px 16px; border-radius: 10px; outline: none; border: 1px solid;">
-          <input type="hidden" value="1" name="embed"/>
-          <input type="submit" value="subscribe" style="cursor: pointer; margin-left: -112px; border-radius: 10px; background-color: #0069FF; color: #fff; border: none; font-size: 18px;"/>
-        </form> -->
-        🔥 Latest Post: <a href="https://buttondown.email/swap/archive/were-we-let-in-for-our-looks-no-will-we-be-judged/" target="_blank" rel="noopener noreferrer">#46: 🔥 Were we let in for our looks? No. Will we be judged on them? Yes.</a>
+        2. swap's musings: <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">buttondown.email/swap/archive</a>
       </div>
       <br>
       <div class="contact">
