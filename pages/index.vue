@@ -49,9 +49,9 @@
       <div class="newsletter">
         I maintain two newsletters:
         <br>
-        1. swap's musings: <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">buttondown.email/swap/archive</a>
+        1. swap's musings <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 buttondown.email/swap/archive</a>
         <br>
-        2. What I'm doing now? <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">tinyletter.com/swap/archive</a>
+        2. What I'm doing now <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">❓ tinyletter.com/swap/archive</a>
       </div>
       <br>
       <div class="contact">
