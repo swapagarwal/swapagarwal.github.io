@@ -49,11 +49,13 @@
       </div> -->
       <br>
       <div class="newsletter">
-        I maintain two newsletters:
+        Here are some of my newsletters:
         <br>
         1. swap's musings <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 buttondown.email/swap/archive</a>
         <br>
-        2. What I'm doing now <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">❓ tinyletter.com/swap/archive</a>
+        2. swap's life updates <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">🌱 tinyletter.com/swap/archive</a>
+        <br>
+        3. swap's startup journey <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 getrevue.co/profile/swap#archive</a>
       </div>
       <br>
       <div class="contact">
