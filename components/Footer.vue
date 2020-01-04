@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <fab
+    <!-- <fab
       :position="position"
       :bg-color="bgColor"
       :main-icon="mainIcon"
@@ -8,7 +8,7 @@
       :actions="fabActions"
       @uses="uses"
       @fund="fund"
-    ></fab>
+    ></fab> -->
     <!-- Last updated on: {{ lastUpdatedOn }} -->
   </div>
 </template>
