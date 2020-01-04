@@ -2,6 +2,7 @@
   <div class="header" align="center">
     <nuxt-link to="/" exact>&nbsp;🏡 Home&nbsp;</nuxt-link>
     <!-- <nuxt-link to="/projects">&nbsp;📂 Projects&nbsp;</nuxt-link> -->
+    <nuxt-link to="/uses">&nbsp;🎁 Uses&nbsp;</nuxt-link>
     <nuxt-link to="/ideas">&nbsp;🧠 Ideas&nbsp;</nuxt-link>
     <nuxt-link to="/faq">&nbsp;❓ F.A.Q.&nbsp;</nuxt-link>
   </div>
