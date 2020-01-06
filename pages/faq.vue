@@ -3,7 +3,7 @@
         <Header/>
         <div class="container">
             <div style="display: inline-block; text-align: left;">
-                <h1 class="title">Frequently Asked Questions</h1>
+                <h2 style="text-align: center;">Frequently Asked Questions</h2>
                 <br>
                 <VueFaqAccordion :items='faqs'/>
             </div>
