@@ -51,11 +51,11 @@
       <div class="newsletter">
         Here are some of my newsletters:
         <br>
-        1. swap's musings <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 buttondown.email/swap/archive</a> (free, started in Dec '18)
+        1. <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 swap's musings</a> (free, started in Dec '18)
         <br>
-        2. swap's life updates <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">🌱 tinyletter.com/swap/archive</a> (free, started in Sept '19)
+        2. <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">🌱 swap's life updates</a> (free, started in Sept '19)
         <br>
-        3. swap's startup journey <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 getrevue.co/profile/swap#archive</a> (paid, starts in Feb '20)
+        3. <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a> (paid, starts in Feb '20)
       </div>
       <br>
       <div class="contact">
