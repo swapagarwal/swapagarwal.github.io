@@ -55,7 +55,7 @@
         <br>
         2. <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">🌱 swap's life updates</a> (free, started in Sept '19)
         <br>
-        3. <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a> (paid, starts in Feb '20)
+        3. <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a> (paid, started in Jan '20)
       </div>
       <br>
       <div class="contact">
