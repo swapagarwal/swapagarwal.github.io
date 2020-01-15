@@ -25,7 +25,7 @@
       <h2>Reading Buddy</h2>
       If you've always wanted to read more but can't seem to do so, I can help you here.
       <br>
-      We'll pick the books according to your interests. I'll make a guided plan for you and check-in with you regularly.
+      We'll pick the books according to your interests and read together. I'll make a guided plan for you and check-in with you regularly.
       <br>
       Note that this comes with a refund-clause, i.e. <b>you get a refund if you aren't able to read them all in the stipulated time-frame</b>.
       <br>
