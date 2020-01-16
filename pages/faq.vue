@@ -52,13 +52,7 @@ export default {
           title: 'Do you have any collaboration opportunities for students?',
           value:
             `<p>
-                YES! YES! YES! I have lots of them:<br>
-                1. <strike><a href="https://github.com/swapagarwal/swag-for-dev/issues/52" target="_blank" rel="noopener noreferrer">Website</a> for <a href="https://github.com/swapagarwal/swag-for-dev" target="_blank" rel="noopener noreferrer">😎 swag-for-dev</a></strike> <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">DONE ✅</a> (I'm all ears for any improvements though!)<br>
-                2. Website for <a href="https://github.com/swapagarwal/awesome-eli5" target="_blank" rel="noopener noreferrer">👶 awesome-eli5</a><br>
-                3. Website for <a href="https://github.com/swapagarwal/awesome-inspiration" target="_blank" rel="noopener noreferrer">🔥 awesome-inspiration</a><br>
-                4. <strike><a href="https://github.com/swapagarwal/mediumship/issues/5" target="_blank" rel="noopener noreferrer">Feature Request</a> for <a href="https://github.com/swapagarwal/mediumship" target="_blank" rel="noopener noreferrer">📚 mediumship</a></strike> DONE ✅<br>
-                Working on real-world projects is the best way to learn!<br>
-                Let me know if you'd like to work on any of the above. 👊
+                YES! YES! YES! I have lots of them. See <a href="/mentor">/mentor</a>.
             </p>`,
           category: 'Work'
         },
