@@ -45,6 +45,8 @@ export default {
                 Read the book "<a target="_blank" href="https://amzn.to/2ULzI6A">Clean Code</a>".
                 <br><br>
                 <a target="_blank"  href="https://www.amazon.in/gp/product/B001GSTOAM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B001GSTOAM&linkCode=as2&tag=swap0e-21&linkId=e96c435c88c48492b504dd442a9bcc18"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B001GSTOAM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=swap0e-21" ></a><img src="//ir-in.amazon-adsystem.com/e/ir?t=swap0e-21&l=am2&o=31&a=B001GSTOAM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+                <br><br>
+                Better yet, join the <a target="_blank" href="http://dxclub.io/books">Bottom Line Book Club</a>!
             </p>`,
           category: 'Work'
         },
