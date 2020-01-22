@@ -4,14 +4,14 @@
     <div class="reads">
       This page tracks the books I've read from Jan 2020!
       <br>
-      <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal">View all my reviews on Goodreads</a>
+      <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
       <div v-for="book in books" :key="book.title">
         <hr>
-        <a :href="book.link" style="float: left; padding-right: 20px">
+        <a :href="book.link" style="float: left; padding-right: 20px" target="_blank" rel="noopener noreferrer">
           <img border="0" :alt="book.title" :src="book.image" />
         </a>
-        <a :href="book.link">{{ book.title }}</a> by {{ book.author }}
+        <a :href="book.link" target="_blank" rel="noopener noreferrer">{{ book.title }}</a> by {{ book.author }}
         <br/>
         My rating: {{ book.rating }}
         <br/><br/>
