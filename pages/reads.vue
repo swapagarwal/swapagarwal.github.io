@@ -2,7 +2,7 @@
   <div>
     <Header/>
     <div class="reads">
-      This page tracks the books I've read from Jan 2020!
+      In 2020, I want to read 50 books. This page tracks the challenge progress (updated weekly, well hopefully weekly!).
       <br>
       <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
