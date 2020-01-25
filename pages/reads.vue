@@ -43,6 +43,14 @@ import Footer from '~/components/Footer.vue'
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385119008l/11357844._SX98_.jpg',
             review: `I LOL'd twice in the first five pages but overall it wasn't a great sci-fi for me. Maybe because I have read Ready Player One and The Gamer before!`,
             rating: '3 of 5 stars'
+          },
+          {
+            title: 'Indistractable',
+            author: 'Nir Eyal',
+            link: 'https://amzn.to/2SwX3tr',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559847987l/44595007._SX98_.jpg',
+            review: `I liked part 6 - raising indistractable children. 🤞<br />Rest was skippable - I’ve already learnt these over the years; would’ve been super helpful 5 years ago!`,
+            rating: '2 of 5 stars'
           }
         ]
       }
