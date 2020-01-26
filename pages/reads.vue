@@ -15,7 +15,7 @@
         <br/>
         My rating: {{ book.rating }}
         <br/><br/>
-        {{ book.review }}
+        <p v-html="book.review"></p>
       </div>
     </div>
     <no-ssr>
