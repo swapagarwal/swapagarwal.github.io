@@ -16,6 +16,11 @@
         My rating: {{ book.rating }}
         <br/><br/>
         <p v-html="book.review"></p>
+        <p v-if="book.notes">
+          <a :href="book.notes" target="_blank" rel="noopener noreferrer">
+            Read my notes
+          </a>
+        </p>
       </div>
     </div>
     <no-ssr>
@@ -50,7 +55,8 @@ import Footer from '~/components/Footer.vue'
             link: 'https://amzn.to/2SwX3tr',
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559847987l/44595007._SX98_.jpg',
             review: `I liked part 6 - raising indistractable children. 🤞<br />Rest was skippable - I’ve already learnt these over the years; would’ve been super helpful 5 years ago!`,
-            rating: '2 of 5 stars'
+            rating: '2 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-indistractable-7af2f832a3a6'
           }
         ]
       }
