@@ -57,6 +57,14 @@ import Footer from '~/components/Footer.vue'
             review: `I liked part 6 - raising indistractable children. 🤞<br />Rest was skippable - I’ve already learnt these over the years; would’ve been super helpful 5 years ago!`,
             rating: '2 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-indistractable-7af2f832a3a6'
+          },
+          {
+            title: 'Clean Code',
+            author: 'Robert C. Martin',
+            link: 'https://amzn.to/2vaAbqu',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX98_.jpg',
+            review: `This is the first book you should read when you're starting out as a developer.<br />Pro Tip: Read the first 10 chapters; skip the rest!`,
+            rating: '5 of 5 stars'
           }
         ]
       }
