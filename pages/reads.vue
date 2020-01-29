@@ -6,7 +6,7 @@
       <br>
       <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
-      <div v-for="book in books" :key="book.title">
+      <div v-for="book in books" :key="book.title" style="min-height: 175px;">
         <hr>
         <a :href="book.link" style="float: left; padding-right: 20px" target="_blank" rel="noopener noreferrer">
           <img border="0" :alt="book.title" :src="book.image" />
