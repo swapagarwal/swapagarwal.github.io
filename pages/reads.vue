@@ -65,6 +65,14 @@ import Footer from '~/components/Footer.vue'
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX98_.jpg',
             review: `This is the first book you should read when you're starting out as a developer.<br />Pro Tip: Read the first 10 chapters; skip the rest!`,
             rating: '5 of 5 stars'
+          },
+          {
+            title: 'Dark Matter',
+            author: 'Blake Crouch',
+            link: 'https://amzn.to/2T42crX',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SX98_.jpg',
+            review: `The best sci-fi I've read so far!<br />Tackles some real questions along the lines of are you happy with your life / what if / the road not taken.<br />You wouldn't be able to put it down; just read the first chapter!!`,
+            rating: '5 of 5 stars'
           }
         ]
       }
