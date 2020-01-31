@@ -73,6 +73,15 @@ import Footer from '~/components/Footer.vue'
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SX98_.jpg',
             review: `The best sci-fi I've read so far!<br />Tackles some real questions along the lines of are you happy with your life / what if / the road not taken.<br />You wouldn't be able to put it down; just read the first chapter!!`,
             rating: '5 of 5 stars'
+          },
+          {
+            title: 'The Obstacle is the Way',
+            author: 'Ryan Holiday',
+            link: 'https://amzn.to/2uEwkC6',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX98_.jpg',
+            review: `Could've been a blog post.`,
+            rating: '1 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-the-obstacle-is-the-way-db44f4e69ab0'
           }
         ]
       }
