@@ -2,7 +2,9 @@
   <div>
     <Header/>
     <div class="reads">
-      In 2020, I want to read 50 books. This page tracks the challenge progress (updated weekly, well hopefully weekly!).
+      In 2020, I want to read 50 books.
+      <br>
+      Challenge progress: {{ progress }} books down, {{ 50 - progress }} more to go. (updated weekly, well hopefully weekly!)
       <br>
       <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
@@ -84,6 +86,11 @@ import Footer from '~/components/Footer.vue'
             notes: 'https://medium.com/@swap/book-notes-the-obstacle-is-the-way-db44f4e69ab0'
           }
         ]
+      }
+    },
+    computed: {
+      progress: function () {
+        return this.books.length
       }
     }
   }
