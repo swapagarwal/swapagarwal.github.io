@@ -8,7 +8,7 @@
       <br>
       <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
-      <div v-for="book in books" :key="book.title" style="min-height: 175px;">
+      <div v-for="book in books" :key="book.title" style="min-height: 175px;" :id="slug(book.title)">
         <hr>
         <a :href="book.link" style="float: left; padding-right: 20px" target="_blank" rel="noopener noreferrer">
           <img border="0" :alt="book.title" :src="book.image" />
@@ -91,6 +91,11 @@ import Footer from '~/components/Footer.vue'
     computed: {
       progress: function () {
         return this.books.length
+      }
+    },
+    methods: {
+      slug: function (url) {
+        return url.toLowerCase().replace(/ +/g, '-')
       }
     }
   }
