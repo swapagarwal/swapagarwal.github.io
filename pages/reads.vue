@@ -84,6 +84,14 @@ import Footer from '~/components/Footer.vue'
             review: `Could've been a blog post.`,
             rating: '1 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-the-obstacle-is-the-way-db44f4e69ab0'
+          },
+          {
+            title: 'Alice in Wonderland',
+            author: 'Lewis Carroll',
+            link: 'https://amzn.to/2vKwubk',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391458382l/13023._SX98_.jpg',
+            review: `Loved Alice's curiosity in this short and sweet adventure! And life lessons are thrown around here so casually.`,
+            rating: '3 of 5 stars'
           }
         ]
       }
