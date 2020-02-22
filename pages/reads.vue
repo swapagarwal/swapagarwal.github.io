@@ -92,6 +92,15 @@ import Footer from '~/components/Footer.vue'
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391458382l/13023._SX98_.jpg',
             review: `Loved Alice's curiosity in this short and sweet adventure! And life lessons are thrown around here so casually.`,
             rating: '3 of 5 stars'
+          },
+          {
+            title: 'Shoe Dog',
+            author: 'Phil Knight',
+            link: 'https://amzn.to/2IkbJGn',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg',
+            review: `Loved the candid account of everyday struggles. It’s motivating to see someone’s behind-the-scenes (while the system tends to focus only on the highlight-reel!) and I wish more people share their stories.`,
+            rating: '5 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-shoe-dog-c2116be07df5'
           }
         ]
       }
