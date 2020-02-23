@@ -101,6 +101,14 @@ import Footer from '~/components/Footer.vue'
             review: `Loved the candid account of everyday struggles. It’s motivating to see someone’s behind-the-scenes (while the system tends to focus only on the highlight-reel!) and I wish more people share their stories.`,
             rating: '5 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-shoe-dog-c2116be07df5'
+          },
+          {
+            title: 'The Pragmatic Programmer',
+            author: 'David Thomas and Andrew Hunt',
+            link: 'https://amzn.to/2STvyKR',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562150630l/45280024._SX98_.jpg',
+            review: `You can make this book your mentor! Some great advice here, viz. Your Knowledge Portfolio, Estimating, and many more.`,
+            rating: '4 of 5 stars'
           }
         ]
       }
