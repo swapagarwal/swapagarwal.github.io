@@ -109,6 +109,14 @@ import Footer from '~/components/Footer.vue'
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562150630l/45280024._SX98_.jpg',
             review: `You can make this book your mentor! Some great advice here, viz. Your Knowledge Portfolio, Estimating, and many more.`,
             rating: '4 of 5 stars'
+          },
+          {
+            title: 'The Hitchhiker\'s Guide to the Galaxy',
+            author: 'Douglas Adams',
+            link: 'https://amzn.to/3czok6p',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX98_.jpg',
+            review: `First of all: Don't Panic! It's a quick read and will make you wonder about the ultimate question. Why? 42. So long, and thanks for all the fish.`,
+            rating: '5 of 5 stars'
           }
         ]
       }
