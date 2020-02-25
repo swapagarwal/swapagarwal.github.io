@@ -117,6 +117,15 @@ import Footer from '~/components/Footer.vue'
             image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX98_.jpg',
             review: `First of all: Don't Panic! It's a quick read and will make you wonder about the ultimate question. Why? 42. So long, and thanks for all the fish.`,
             rating: '5 of 5 stars'
+          },
+          {
+            title: 'Who Owns the Future?',
+            author: 'Jaron Lanier',
+            link: 'https://amzn.to/2PME640',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362536648l/15802693._SX98_.jpg',
+            review: `With more and more jobs getting automated, this book posits an economy of micropayments that compensates people for original material they post to the web.`,
+            rating: '4 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-who-owns-the-future-8a18f33f572f'
           }
         ]
       }
