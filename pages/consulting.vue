@@ -20,7 +20,7 @@
           <li>Ask the right questions</li>
           <li>Anything related to Product / Marketing / Sales</li>
         </ul>
-        <a href="https://www.paypal.me/SwapnilAgarwal/49" target="_blank" rel="noopener noreferrer">Click here to pay via PayPal and book a one-hour session.</a> I'll get in touch to arrange a time.
+        <a href="https://www.paypal.me/SwapnilAgarwal/50" target="_blank" rel="noopener noreferrer">Click here to pay via PayPal and book a one-hour session.</a> I'll get in touch to arrange a time.
       </p>
       <h2>Reading Buddy</h2>
       If you've always wanted to read more but can't seem to do so, I can help you here.
