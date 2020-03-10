@@ -32,8 +32,8 @@
       Pick one of the packages below:
       <ul>
         <li><a href="https://www.paypal.me/SwapnilAgarwal/9" target="_blank" rel="noopener noreferrer">Commit to reading one book in one month!</a></li>
-        <li><a href="https://www.paypal.me/SwapnilAgarwal/19" target="_blank" rel="noopener noreferrer">Commit to reading three books in two months!</a></li>
-        <li><a href="https://www.paypal.me/SwapnilAgarwal/29" target="_blank" rel="noopener noreferrer">Commit to reading five books in three months!</a></li>
+        <li><a href="https://www.paypal.me/SwapnilAgarwal/19" target="_blank" rel="noopener noreferrer">Commit to reading one book in two weeks!</a></li>
+        <li><a href="https://www.paypal.me/SwapnilAgarwal/29" target="_blank" rel="noopener noreferrer">Commit to reading two books in one month!</a></li>
       </ul>
       P.S. Here are some of the books that I highly recommend everyone to read:
       <ul>
