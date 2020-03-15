@@ -22,7 +22,7 @@
         </ul>
         <a href="https://www.paypal.me/SwapnilAgarwal/100" target="_blank" rel="noopener noreferrer">Click here to pay via PayPal and book a one-hour session.</a> I'll get in touch to arrange a time.
       </p>
-      <h2>Reading Buddy</h2>
+      <h2>Build a Reading Habit</h2>
       If you've always wanted to read more but can't seem to do so, I can help you here.
       <br>
       We'll pick the books according to your interests and read together. I'll make a guided plan for you and check-in with you regularly.
