@@ -126,7 +126,15 @@ import Footer from '~/components/Footer.vue'
             review: `With more and more jobs getting automated, this book posits an economy of micropayments that compensates people for original material they post to the web.`,
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-who-owns-the-future-8a18f33f572f'
-          }
+          },
+          {
+            title: 'The Catcher in the Rye',
+            author: 'J.D. Salinger',
+            link: 'https://amzn.to/2JvsnDk',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg',
+            review: `It's a coming-of-age story where we get a good look inside a teenager's mind. The writing is in the form of a narrative and it might take some time before you get accustomed to Holden's thoughts.`,
+            rating: '3 of 5 stars'
+          },
         ]
       }
     },
