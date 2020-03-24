@@ -135,6 +135,15 @@ import Footer from '~/components/Footer.vue'
             review: `It's a coming-of-age story where we get a good look inside a teenager's mind. The writing is in the form of a narrative and it might take some time before you get accustomed to Holden's thoughts.`,
             rating: '3 of 5 stars'
           },
+          {
+            title: 'Remote',
+            author: 'David Heinemeier Hansson and Jason Fried',
+            link: 'https://amzn.to/2UxTtQL',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363265098l/17316682._SX98_.jpg',
+            review: `Pick this up if you need to convince your manager (or even yourself) on the benefits of remote work, which includes access to the best talent, freedom from soul-crushing commutes, and increased productivity outside the traditional office. It also debunks various myths, for example, innovation only happens face-to-face, people can’t be trusted to be productive at home, company culture would wither away, etc.`,
+            rating: '4 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-remote-2c66ae1dc4dd'
+          },
         ]
       }
     },
