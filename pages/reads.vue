@@ -144,6 +144,14 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-remote-2c66ae1dc4dd'
           },
+          {
+            title: 'Don\'t Make Me Think',
+            author: 'Steve Krug',
+            link: 'https://amzn.to/3dDgDwn',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384736553l/18197267._SX98_.jpg',
+            review: `It's a nice introduction to UX and you'll be tempted to read more! The language is easy and you can read quite a bit in one stretch. It'll motivate you to do usability testing and also keep accessibility in mind. It also provides great insights into how we use the web today.`,
+            rating: '4 of 5 stars'
+          },
         ]
       }
     },
