@@ -152,6 +152,14 @@ import Footer from '~/components/Footer.vue'
             review: `It's a nice introduction to UX and you'll be tempted to read more! The language is easy and you can read quite a bit in one stretch. It'll motivate you to do usability testing and also keep accessibility in mind. It also provides great insights into how we use the web today.`,
             rating: '4 of 5 stars'
           },
+          {
+            title: 'To Kill a Mockingbird',
+            author: 'Harper Lee',
+            link: 'https://amzn.to/3aAbxPF',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SX98_.jpg',
+            review: `Lee takes time to set up the background for the story well; quite well now that I think about it. I was well-invested into the characters, especially the way how Atticus raises his children. Written from an innocent child's point of view, the book deals with themes of race, morality, class, gender, etc.`,
+            rating: '4 of 5 stars'
+          },
         ]
       }
     },
