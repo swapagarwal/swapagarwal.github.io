@@ -160,6 +160,15 @@ import Footer from '~/components/Footer.vue'
             review: `Lee takes time to set up the background for the story well; quite well now that I think about it. I was well-invested into the characters, especially the way how Atticus raises his children. Written from an innocent child's point of view, the book deals with themes of race, morality, class, gender, etc.`,
             rating: '4 of 5 stars'
           },
+          {
+            title: 'The 7 Habits of Highly Effective People',
+            author: 'Stephen R. Covey',
+            link: 'https://amzn.to/3dGRTn3',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SX98_.jpg',
+            review: `I avoided this book for the longest time, because the title seemed clickbaity! However, it contains some really great guiding principles for life including the importance of keeping promises, empathy, etc.`,
+            rating: '4 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-the-7-habits-of-highly-effective-people-ec5fb4c45f1b'
+          },
         ]
       }
     },
