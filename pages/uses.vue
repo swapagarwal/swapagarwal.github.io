@@ -52,6 +52,7 @@
                     📌 <a href="https://www.pushbullet.com/" target="_blank" rel="noopener noreferrer">PushBullet</a> to share stuff b/w devices
                 </li>
             </ul>
+            <div class="commentbox"></div>
         </div>
         <no-ssr>
             <Footer/>
@@ -67,6 +68,9 @@ export default {
   components: {
     Header,
     Footer
+  },
+  mounted() {
+    commentBox('5665346656665600-proj')
   }
 }
 </script>
