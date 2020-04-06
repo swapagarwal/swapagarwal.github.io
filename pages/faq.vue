@@ -143,6 +143,10 @@ export default {
   margin-bottom: 100px;
 }
 
+/deep/ .faq-wrapper {
+  margin: 0 auto;
+}
+
 .list-item {
   margin-top: 5px;
   margin-bottom: 1em;
