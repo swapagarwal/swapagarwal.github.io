@@ -1,12 +1,10 @@
 <template>
     <div>
         <Header/>
-        <div class="container">
-            <div style="display: inline-block; text-align: left;">
-                <h2 style="text-align: center;">Frequently Asked Questions</h2>
-                <br>
-                <VueFaqAccordion :items='faqs'/>
-            </div>
+        <div class="faqs">
+            <h2 style="text-align: center;">Frequently Asked Questions</h2>
+            <br>
+            <VueFaqAccordion :items='faqs'/>
         </div>
         <no-ssr>
           <Footer/>
@@ -138,42 +136,15 @@ export default {
 </script>
 
 <style scoped>
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  padding-bottom: 200px;
-}
-
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
+.faqs {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .list-item {
-    margin-top: 5px;
-    margin-bottom: 1em;
-}
-
-.h2 {
-    margin-top: 30px;
-    line-height: 60px;
+  margin-top: 5px;
+  margin-bottom: 1em;
 }
 </style>
