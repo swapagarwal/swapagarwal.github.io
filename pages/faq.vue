@@ -101,6 +101,7 @@ export default {
           value:
             `<ul>
                 <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight">Shadow Fight 2</a></li>
+                <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.habby.archero">Archero</a></li>
             </ul>`,
           category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
         },
