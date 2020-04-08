@@ -169,6 +169,14 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-the-7-habits-of-highly-effective-people-ec5fb4c45f1b'
           },
+          {
+            title: 'The Elements of Style',
+            author: 'William Strunk Jr. and E.B. White',
+            link: 'https://amzn.to/2wp77MF',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393947922l/33514._SX98_.jpg',
+            review: `The content is presented as a handy reference of dos and don'ts. Terms like split infinitive and gerund made me feel nostalgic for the grammar classes back in my school days.`,
+            rating: '3 of 5 stars'
+          },
         ]
       }
     },
