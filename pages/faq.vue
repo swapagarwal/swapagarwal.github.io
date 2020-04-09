@@ -5,6 +5,7 @@
             <h2 style="text-align: center;">Frequently Asked Questions</h2>
             <br>
             <VueFaqAccordion :items='faqs'/>
+            <div class="commentbox"></div>
         </div>
         <no-ssr>
           <Footer/>
@@ -22,6 +23,9 @@ export default {
     VueFaqAccordion,
     Header,
     Footer
+  },
+  mounted() {
+    commentBox('5665346656665600-proj')
   },
   data () {
     return {
