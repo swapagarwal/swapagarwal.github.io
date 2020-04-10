@@ -5,6 +5,7 @@
             <h2 style="text-align: center;">Frequently Asked Questions</h2>
             <br>
             <VueFaqAccordion :items='faqs'/>
+            <br>
             <div class="commentbox"></div>
         </div>
         <no-ssr>
