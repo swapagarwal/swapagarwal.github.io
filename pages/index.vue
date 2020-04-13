@@ -6,7 +6,7 @@
       <!-- <h1 class="title">
         127.0.0.1 sweet 127.0.0.1
       </h1> -->
-      <img src="/avatar.jpg" style="border-radius:100%" width="140"><br>
+      <img src="/avatar.png" style="border-radius:100%" width="140"><br>
       <br>
       <h2 class="subtitle">
         <vue-typer text="Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me 'swap'."
