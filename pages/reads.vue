@@ -177,6 +177,15 @@ import Footer from '~/components/Footer.vue'
             review: `The content is presented as a handy reference of dos and don'ts. Terms like split infinitive and gerund made me feel nostalgic for the grammar classes back in my school days.`,
             rating: '3 of 5 stars'
           },
+          {
+            title: 'How to Win Friends & Influence People',
+            author: 'Dale Carnegie',
+            link: 'https://amzn.to/3ecRU2i',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg',
+            review: `I could relate to many situations where I mishandled them in the past. The ideas presented in this book are simple yet effective. I've seen them work for many people, including myself. Don't just treat them as life hacks! If you're praising, do it sincerely. I'm pretty sure I need to revise it.`,
+            rating: '5 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-how-to-win-friends-influence-people-f2a30951b749'
+          },
         ]
       }
     },
