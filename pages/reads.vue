@@ -186,6 +186,14 @@ import Footer from '~/components/Footer.vue'
             rating: '5 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-how-to-win-friends-influence-people-f2a30951b749'
           },
+          {
+            title: 'Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future',
+            author: 'Ashlee Vance',
+            link: 'https://amzn.to/2JwgTzG',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg',
+            review: `In a world where the best minds of our generation are thinking about how to make people click ads, Musk is on a quest to start a colony on Mars! Love him or hate him, he certainly deserves respect for pushing clean-tech and humanity forward.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
