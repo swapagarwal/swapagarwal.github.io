@@ -2,9 +2,7 @@
   <div>
     <Header/>
     <div class="reads">
-      In 2020, I want to read 50 books.
-      <br>
-      Challenge progress: {{ progress }} books down, {{ 50 - progress }} more to go. (updated weekly, well hopefully weekly!)
+      2020 Reading Challenge: I have read {{ progress }} of 50 books (updated weekly, well hopefully weekly!).
       <br>
       <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
