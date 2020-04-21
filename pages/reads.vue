@@ -4,7 +4,7 @@
     <div class="reads">
       2020 Reading Challenge: I have read {{ progress }} of 50 books (updated weekly, well hopefully weekly!).
       <br>
-      <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
+      <a href="https://www.goodreads.com/review/list/50197980-swapnil-agarwal?shelf=read&sort=date_read" target="_blank" rel="noopener noreferrer">View all my reviews on Goodreads</a>
       <br>
       <div v-for="book in books" :key="book.title" style="min-height: 175px;" :id="slug(book.title)">
         <hr>
