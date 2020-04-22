@@ -192,6 +192,14 @@ import Footer from '~/components/Footer.vue'
             review: `In a world where the best minds of our generation are thinking about how to make people click ads, Musk is on a quest to start a colony on Mars! Love him or hate him, he certainly deserves respect for pushing clean-tech and humanity forward.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'On Writing Well',
+            author: 'William Zinsser',
+            link: 'https://amzn.to/2Y5axiW',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538764251l/53343._SX98_.jpg',
+            review: `Writing is everywhere. You might as well learn how to write well. Topics like science and sports are also within your reach if you enjoy learning. William teaches us, among other things, how to structure a piece and write about people and places, with numerous examples. An element of surprise refreshes and delights readers. Be confident. Resist using an exclamation point! Add humor subtly.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
