@@ -49,13 +49,13 @@
       <div class="newsletter">
         Here are some of my newsletters:
         <br>
-        <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 swap's musings</a>
+        <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 my musings</a>
         |
-        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">🌱 swap's life updates</a>
+        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">🌱 my life updates</a>
         |
-        <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
+        <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 my startup journey</a>
         |
-        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
+        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 my creative lab</a>
       </div>
       <br>
       <div class="contact">
