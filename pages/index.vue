@@ -66,10 +66,14 @@
       <br>
       <div class="social">
         <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a>
-        | <a href="https://www.twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">Twitter</a>
-        | <a href="https://medium.com/@swap" target="_blank" rel="noopener noreferrer">Medium</a>
-        | <a href="https://www.linkedin.com/in/swapagarwal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        | <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a>
+        |
+        <a href="https://www.twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">Twitter</a>
+        |
+        <a href="https://medium.com/@swap" target="_blank" rel="noopener noreferrer">Medium</a>
+        |
+        <a href="https://www.linkedin.com/in/swapagarwal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        |
+        <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a>
       </div>
     </div>
     <no-ssr>
