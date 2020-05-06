@@ -48,7 +48,6 @@
       <br>
       <div class="newsletter">
         Here are some of my newsletters:
-        <br>
         <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 my musings</a>
         |
         <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">🌱 my life updates</a>
