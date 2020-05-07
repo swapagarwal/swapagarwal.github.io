@@ -50,7 +50,7 @@
         Here are some of my newsletters:
         <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 my musings</a>
         |
-        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">🌱 my life updates</a>
+        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ my life updates</a>
         |
         <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 my startup journey</a>
         |
