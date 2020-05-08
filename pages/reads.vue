@@ -200,6 +200,15 @@ import Footer from '~/components/Footer.vue'
             review: `Writing is everywhere. You might as well learn how to write well. Topics like science and sports are also within your reach if you enjoy learning. William teaches us, among other things, how to structure a piece and write about people and places, with numerous examples. An element of surprise refreshes and delights readers. Be confident. Resist using an exclamation point! Add humor subtly.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Zen and the Art of Motorcycle Maintenance',
+            author: 'Robert M. Pirsig',
+            link: 'https://amzn.to/2SRvE4S',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410136019l/629._SX98_.jpg',
+            review: `It was a very heavy read. Maybe because it's a weird mix of fiction and non-fiction. Or maybe because I'm simply not ready for philosophy yet.`,
+            rating: '1 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-zen-and-the-art-of-motorcycle-maintenance-184a8061206f'
+          },
         ]
       }
     },
