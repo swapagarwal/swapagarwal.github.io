@@ -209,6 +209,14 @@ import Footer from '~/components/Footer.vue'
             rating: '1 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-zen-and-the-art-of-motorcycle-maintenance-184a8061206f'
           },
+          {
+            title: 'Hyperbole and a Half',
+            author: 'Allie Brosh',
+            link: 'https://amzn.to/2WXjAkb',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409522492l/17571564._SX98_.jpg',
+            review: `I thoroughly enjoyed Allie's voice and her illustrations, especially the ones involving dogs. It's pure gold. Oh, and did I say I laughed a lot? My only regret is that I finished reading it too soon. Please don't do that. Savor it.`,
+            rating: '4 of 5 stars'
+          },
         ]
       }
     },
