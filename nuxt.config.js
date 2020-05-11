@@ -58,4 +58,7 @@ module.exports = {
     { src: '~/plugins/vue-fab', ssr: false },
     { src: '~/plugins/vue-typer', ssr: false }
   ],
+  generate: {
+    fallback: true
+  },
 }
