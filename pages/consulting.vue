@@ -25,16 +25,12 @@
       <h2>Build a Reading Habit</h2>
       If you've always wanted to read more but can't seem to do so, I can help you here.
       <br>
-      We'll pick the books according to your interests and read together. I'll make a guided plan for you and check-in with you regularly.
+      We'll pick the book according to your interests and read together. I'll make a guided plan for you and check-in with you regularly.
       <br>
-      Note that this comes with a refund-clause, i.e. <b>you get a refund if you aren't able to read them all in the stipulated time-frame</b>.
+      Note that this comes with a refund-clause, i.e. <b>you get a refund if you aren't able to complete the book</b>.
       <br>
-      Pick one of the packages below:
-      <ul>
-        <li><a href="https://www.paypal.me/SwapnilAgarwal/30" target="_blank" rel="noopener noreferrer">Commit to reading one book in one month!</a></li>
-        <li><a href="https://www.paypal.me/SwapnilAgarwal/40" target="_blank" rel="noopener noreferrer">Commit to reading one book in two weeks!</a></li>
-        <li><a href="https://www.paypal.me/SwapnilAgarwal/50" target="_blank" rel="noopener noreferrer">Commit to reading two books in one month!</a></li>
-      </ul>
+      <a href="https://www.paypal.me/SwapnilAgarwal/50" target="_blank" rel="noopener noreferrer">Commit to reading a book!</a>
+      <br><br>
       P.S. Here are some of the books that I highly recommend everyone to read:
       <ul>
         <li><a href="https://amzn.to/2EubI0p" target="_blank" rel="noopener noreferrer">The Mom Test</a></li>
