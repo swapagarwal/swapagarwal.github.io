@@ -31,14 +31,13 @@
       <br>
       <a href="https://www.paypal.me/SwapnilAgarwal/50" target="_blank" rel="noopener noreferrer">Commit to reading a book!</a>
       <br><br>
-      P.S. Here are some of the books that I highly recommend everyone to read:
-      <ul>
-        <li><a href="https://amzn.to/2EubI0p" target="_blank" rel="noopener noreferrer">The Mom Test</a></li>
-        <li><a href="https://amzn.to/2QuYsyk" target="_blank" rel="noopener noreferrer">Nonviolent Communication</a></li>
-        <li><a href="https://amzn.to/2QBVWXa" target="_blank" rel="noopener noreferrer">Getting Things Done</a></li>
-      </ul>
       <h2>Corporate Workshops</h2>
-      Use the chat widget to enquire about my availability for trainings in Vue.js / Productivity (GTD) / Communication.
+      Use the chat widget to enquire about my availability for trainings in:
+      <ul>
+        <li>Vue.js</li>
+        <li>Productivity (Getting Things Done)</li>
+        <li>Communication</li>
+      </ul>
     </div>
     <no-ssr>
       <Footer/>
