@@ -34,6 +34,7 @@
       <h2>Corporate Workshops</h2>
       Use the chat widget to enquire about my availability for trainings in:
       <ul>
+        <li>Writing Clean Code</li>
         <li>Vue.js</li>
         <li>Productivity (Getting Things Done)</li>
         <li>Communication</li>
