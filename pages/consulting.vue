@@ -35,6 +35,7 @@
       Use the chat widget to enquire about my availability for trainings in:
       <ul>
         <li>Writing Clean Code</li>
+        <li>Design Patterns</li>
         <li>Vue.js</li>
         <li>Productivity (Getting Things Done)</li>
         <li>Communication</li>
