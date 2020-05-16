@@ -36,7 +36,7 @@
       <ul>
         <li>Writing Clean Code</li>
         <li>Design Patterns</li>
-        <li>Vue.js</li>
+        <li>Vue.js (Zero to One)</li>
         <li>Productivity (Getting Things Done)</li>
         <li>Communication</li>
       </ul>
