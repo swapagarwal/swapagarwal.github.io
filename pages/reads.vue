@@ -154,7 +154,7 @@ import Footer from '~/components/Footer.vue'
             title: 'To Kill a Mockingbird',
             author: 'Harper Lee',
             link: 'https://amzn.to/3aAbxPF',
-            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SX98_.jpg',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427698656l/22138225._SX98_.jpg',
             review: `Lee takes time to set up the background for the story well; quite well now that I think about it. I was well-invested into the characters, especially the way how Atticus raises his children. Written from an innocent child's point of view, the book deals with themes of race, morality, class, gender, etc.`,
             rating: '4 of 5 stars'
           },
