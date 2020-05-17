@@ -217,6 +217,15 @@ import Footer from '~/components/Footer.vue'
             review: `I thoroughly enjoyed Allie's voice and her illustrations, especially the ones involving dogs. It's pure gold. Oh, and did I say I laughed a lot? My only regret is that I finished reading it too soon. Please don't do that. Savor it.`,
             rating: '4 of 5 stars'
           },
+          {
+            title: 'Antifragile',
+            author: 'Nassim Nicholas Taleb',
+            link: 'https://amzn.to/2LGLPhH',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SX98_.jpg',
+            review: `I really liked the concept of antifragility. Having read The Black Swan, I knew Taleb's style. I find him hard to read but the content is presented in myriad applications. So I skimmed it, making lots of notes along the way. These include the need for redundancy, stocking up for emergencies, the barbell strategy, having skin in the game, etc.`,
+            rating: '4 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-antifragile-f5891474f579'
+          },
         ]
       }
     },
