@@ -221,7 +221,7 @@ import Footer from '~/components/Footer.vue'
             title: 'Antifragile',
             author: 'Nassim Nicholas Taleb',
             link: 'https://amzn.to/2LGLPhH',
-            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352422827l/13530973._SX98_.jpg',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380257334l/18589083._SX98_.jpg',
             review: `I really liked the concept of antifragility. Having read The Black Swan, I knew Taleb's style. I find him hard to read but the content is presented in myriad applications. So I skimmed it, making lots of notes along the way. These include the need for redundancy, stocking up for emergencies, the barbell strategy, having skin in the game, etc.`,
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-antifragile-f5891474f579'
