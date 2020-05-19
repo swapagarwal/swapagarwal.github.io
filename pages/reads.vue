@@ -226,6 +226,14 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-antifragile-f5891474f579'
           },
+          {
+            title: 'Head First Design Patterns',
+            author: 'Eric Freeman and Elisabeth Robson',
+            link: 'https://amzn.to/2VPx6Xq',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463912451l/30250151._SX98_.jpg',
+            review: `I always wanted to formally study design patterns. Like algorithms, you just need to know of their existence. If you understand their usage, there's no need to memorize them. I loved this book's style of delivering content; so conversational and full of visual examples. All technical books should be like this! Just read "How to Use This Book: Intro" and you'll know what I'm talking about.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
