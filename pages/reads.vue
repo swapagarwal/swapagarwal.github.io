@@ -234,6 +234,14 @@ import Footer from '~/components/Footer.vue'
             review: `I always wanted to formally study design patterns. Like algorithms, you just need to know of their existence. If you understand their usage, there's no need to memorize them. I loved this book's style of delivering content; so conversational and full of visual examples. All technical books should be like this! Just read "How to Use This Book: Intro" and you'll know what I'm talking about.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Adulthood Is a Myth',
+            author: 'Sarah Andersen',
+            link: 'https://amzn.to/2WLclge',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481219756l/25855506._SX98_.jpg',
+            review: `Adulting sucks, and this is a nice reminder that you are not alone. As an introvert, this hit the spot at so many levels: the evergreen question of why are you so quiet, making excuses for not picking up the phone, people trying to help without you asking, and many more!`,
+            rating: '3 of 5 stars'
+          },
         ]
       }
     },
