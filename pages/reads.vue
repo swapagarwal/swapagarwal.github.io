@@ -242,6 +242,15 @@ import Footer from '~/components/Footer.vue'
             review: `Adulting sucks, and this is a nice reminder that you are not alone. As an introvert, this hit the spot at so many levels: the evergreen question of why are you so quiet, making excuses for not picking up the phone, people trying to help without you asking, and many more!`,
             rating: '3 of 5 stars'
           },
+          {
+            title: 'Losing My Virginity',
+            author: 'Richard Branson',
+            link: 'https://amzn.to/2ZAVY7P',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388216295l/211099._SX98_.jpg',
+            review: `I loved the first half; the second half not so much. The diversity of Branson's businesses and his willingness to try everything once are commendable. Oh screw it, let's do it!`,
+            rating: '4 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-losing-my-virginity-55c496878d8a'
+          },
         ]
       }
     },
