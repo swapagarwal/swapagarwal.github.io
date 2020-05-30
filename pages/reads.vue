@@ -38,6 +38,13 @@ import Footer from '~/components/Footer.vue'
       Header,
       Footer
     },
+    head () {
+      return {
+        meta: [
+          { hid: 'description', name: 'description', content: 'In 2020, Swapnil wants to read 50 books. Will he be able to do it?' }
+        ]
+      }
+    },
     data () {
       return {
         books: [
