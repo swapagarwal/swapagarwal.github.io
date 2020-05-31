@@ -97,6 +97,13 @@ import Footer from '~/components/Footer.vue'
     components: {
       Header,
       Footer
+    },
+    head () {
+      return {
+        meta: [
+          { hid: 'description', name: 'description', content: 'Working on real-world projects is the best way to learn! I have some side-projects which I\'m currently not able to devote time to so I\'ve opened them up for collaboration.' }
+        ]
+      }
     }
   }
 </script>
