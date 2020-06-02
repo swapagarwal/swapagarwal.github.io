@@ -258,6 +258,14 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-losing-my-virginity-55c496878d8a'
           },
+          {
+            title: 'Understanding Comics',
+            author: 'Scott McCloud',
+            link: 'https://amzn.to/2XMXHUY',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519650031l/38763983._SX98_.jpg',
+            review: `It's a comic book about comics.`,
+            rating: '3 of 5 stars'
+          },
         ]
       }
     },
