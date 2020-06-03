@@ -51,6 +51,9 @@
                 <li>
                     📌 <a href="https://www.pushbullet.com/" target="_blank" rel="noopener noreferrer">PushBullet</a> to share stuff b/w devices
                 </li>
+                <li>
+                    🎨 <strike><a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer">Sketch</a></strike>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">Figma</a> for design
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
