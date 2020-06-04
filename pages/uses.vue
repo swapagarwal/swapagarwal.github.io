@@ -54,6 +54,9 @@
                 <li>
                     🎨 <strike><a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer">Sketch</a></strike>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">Figma</a> for design
                 </li>
+                <li>
+                    📚 <a href="https://amzn.to/37E0O6k" target="_blank" rel="noopener noreferrer">Kindle</a> to read non-fiction books
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
