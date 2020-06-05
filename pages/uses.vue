@@ -57,6 +57,9 @@
                 <li>
                     📚 <a href="https://amzn.to/37E0O6k" target="_blank" rel="noopener noreferrer">Kindle</a> to read non-fiction books
                 </li>
+                <li>
+                    🎹 <a href="https://amzn.to/2YJ7rQv" target="_blank" rel="noopener noreferrer">Yamaha F51</a> as my musical keyboard
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
