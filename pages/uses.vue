@@ -60,6 +60,9 @@
                 <li>
                     🎹 <a href="https://amzn.to/2YJ7rQv" target="_blank" rel="noopener noreferrer">Yamaha F51</a> as my musical keyboard
                 </li>
+                <li>
+                    🎸 <a href="https://amzn.to/3hxqFRM" target="_blank" rel="noopener noreferrer">Yamaha F310</a> as my guitar
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
