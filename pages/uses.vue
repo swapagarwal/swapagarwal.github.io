@@ -63,6 +63,9 @@
                 <li>
                     🎸 <a href="https://amzn.to/3hxqFRM" target="_blank" rel="noopener noreferrer">Yamaha F310</a> as my guitar
                 </li>
+                <li>
+                    🥁 <a href="https://amzn.to/3eePHmE" target="_blank" rel="noopener noreferrer">Clapbox CB11</a> as my cajon
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
