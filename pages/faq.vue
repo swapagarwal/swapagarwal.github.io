@@ -83,7 +83,7 @@ export default {
                 <li class="list-item"><a target="_blank" href="http://blinki.st/a3d9d82bdf9d">Blinkist</a></li>
                 <li class="list-item"><a target="_blank" href="https://www.headspace.com/">Headspace</a></li>
             </ul>`,
-          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
+          category: 'Recommendations'
         },
         {
           title: 'Books (Read a lot. Buy a <a target="_blank" href="https://amzn.to/2N5xluB">Kindle</a>!)',
@@ -100,7 +100,7 @@ export default {
                 <br><br>
                 For more, join <a target="_blank" href="https://reademy.xyz/">Reademy</a>!
             </ul>`,
-          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
+          category: 'Recommendations'
         },
         {
           title: 'Games',
@@ -109,7 +109,7 @@ export default {
                 <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.nekki.shadowfight">Shadow Fight 2</a></li>
                 <li class="list-item"><a target="_blank" href="https://play.google.com/store/apps/details?id=com.habby.archero">Archero</a></li>
             </ul>`,
-          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
+          category: 'Recommendations'
         },
         {
           title: 'Coding',
@@ -117,13 +117,13 @@ export default {
             `<ul>
                 <li class="list-item">Best Programming Courses & Tutorials: <a target="_blank" href="https://hackr.io/">https://hackr.io/</a></li>
             </ul>`,
-          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
+          category: 'Recommendations'
         },
         {
           title: 'Things I use',
           value:
             `See <a href="/uses">/uses</a>.`,
-          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
+          category: 'Recommendations'
         },
         {
           title: 'Services I provide',
@@ -134,7 +134,7 @@ export default {
                 <li class="list-item"><a href="/fund">Fund</a></li>
                 <li class="list-item">I'm currently accepting business consulting contracts.</li>
             </ul>`,
-          category: '&nbsp;&nbsp;Recommendations&nbsp;&nbsp;'
+          category: 'Recommendations'
         }
       ]
     }
