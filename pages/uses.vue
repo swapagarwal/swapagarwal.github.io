@@ -66,6 +66,9 @@
                 <li>
                     🥁 <a href="https://amzn.to/3eePHmE" target="_blank" rel="noopener noreferrer">Clapbox CB11</a> as my cajon
                 </li>
+                <li>
+                    📺 <a href="https://trakt.tv/users/swap" target="_blank" rel="noopener noreferrer">Trakt.tv</a> to keep track of the TV shows I'm watching
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
