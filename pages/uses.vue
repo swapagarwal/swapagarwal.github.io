@@ -55,7 +55,7 @@
                     🎨 <strike><a href="https://www.sketch.com/" target="_blank" rel="noopener noreferrer">Sketch</a></strike>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">Figma</a> for design
                 </li>
                 <li>
-                    📚 <a href="https://amzn.to/37E0O6k" target="_blank" rel="noopener noreferrer">Kindle</a> to read non-fiction books
+                    📖 <a href="https://amzn.to/37E0O6k" target="_blank" rel="noopener noreferrer">Kindle</a> to read non-fiction books
                 </li>
                 <li>
                     🎹 <a href="https://amzn.to/2YJ7rQv" target="_blank" rel="noopener noreferrer">Yamaha F51</a> as my musical keyboard
@@ -68,6 +68,9 @@
                 </li>
                 <li>
                     📺 <a href="https://trakt.tv/users/swap" target="_blank" rel="noopener noreferrer">Trakt.tv</a> to keep track of the TV shows I'm watching
+                </li>
+                <li>
+                    📚 <a href="https://www.goodreads.com/user/show/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">Goodreads</a> to keep track of the books I'm reading
                 </li>
             </ul>
             <div class="commentbox"></div>
