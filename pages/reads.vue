@@ -266,6 +266,15 @@ import Footer from '~/components/Footer.vue'
             review: `It's a comic book about comics.`,
             rating: '3 of 5 stars'
           },
+          {
+            title: 'Homo Deus',
+            author: 'Yuval Noah Harari',
+            link: 'https://amzn.to/3hKXaw2',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556._SX98_.jpg',
+            review: `After reading Sapiens last year, I was looking forward to reading this - another thought-provoking one from Harari!`,
+            rating: '4 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-homo-deus-d49cdb114b03'
+          },
         ]
       }
     },
