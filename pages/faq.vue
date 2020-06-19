@@ -132,6 +132,7 @@ export default {
                 <li class="list-item"><a href="https://www.buymeacoffee.com/l/cvraas" target="_blank" rel="noopener noreferrer">Review my CV</a></li>
                 <li class="list-item">Mentoring session</li>
                 <li class="list-item"><a href="/fund">Fund</a></li>
+                <li class="list-item">Landing Page Design</li>
             </ul>`,
           category: 'Recommendations'
         }
