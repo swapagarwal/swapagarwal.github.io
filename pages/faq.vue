@@ -133,6 +133,7 @@ export default {
                 <li class="list-item">Mentoring session</li>
                 <li class="list-item"><a href="/fund">Fund</a></li>
                 <li class="list-item">Landing Page Design</li>
+                <li class="list-item">All things UX</li>
             </ul>`,
           category: 'Recommendations'
         }
