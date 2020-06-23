@@ -275,6 +275,14 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-homo-deus-d49cdb114b03'
           },
+          {
+            title: 'No Hard Feelings',
+            author: 'Liz Fosslien and Mollie West Duffy',
+            link: 'https://amzn.to/36QN73a',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541734762l/42734244._SX98_.jpg',
+            review: `No one talks about emotion at work! Liz and Mollie present actionable ideas for making life better. The future of work is emotional so we might as well begin to work on it.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
