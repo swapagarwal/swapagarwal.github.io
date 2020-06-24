@@ -283,6 +283,14 @@ import Footer from '~/components/Footer.vue'
             review: `No one talks about emotion at work! Liz and Mollie present actionable ideas for making life better. The future of work is emotional so we might as well begin to work on it.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Steal Like an Artist',
+            author: 'Austin Kleon',
+            link: 'https://amzn.to/3dr6ilR',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576602l/13099738._SX98_.jpg',
+            review: `Everything's a remix! Everything that needs to be said has already been said. But, since no one was listening, everything must be said again. This book came to me at the right time. If you're picking this, pair it up with The War of Art.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
