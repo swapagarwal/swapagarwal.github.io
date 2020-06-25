@@ -291,6 +291,15 @@ import Footer from '~/components/Footer.vue'
             review: `Everything's a remix! Everything that needs to be said has already been said. But, since no one was listening, everything must be said again. This book came to me at the right time. If you're picking this, pair it up with The War of Art.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Digital Minimalism',
+            author: 'Cal Newport',
+            link: 'https://amzn.to/3hZqOO9',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549433350l/40672036._SX98_.jpg',
+            review: `Skip the first half! The second half has practical advice to incorporate into your life. I've already been doing most of them hence the low rating.`,
+            rating: '2 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-digital-minimalism-30897b872688'
+          },
         ]
       }
     },
