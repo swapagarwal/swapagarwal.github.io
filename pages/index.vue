@@ -47,14 +47,15 @@
       </div> -->
       <br>
       <div class="newsletter">
-        Here are some of my newsletters:
+        My personal blog has moved to a new place: <a href="/writes">/writes</a>
+        <!-- Here are some of my newsletters:
         <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 my musings</a>
         |
         <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ my life updates</a>
         |
         <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 my startup journey</a>
         |
-        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 my creative lab</a>
+        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 my creative lab</a> -->
       </div>
       <br>
       <div class="contact">
@@ -62,7 +63,7 @@
         <br>
         I'd love to connect online or over a cup of ☕ coffee. <a href="https://calendly.com/swapnilagarwal" target="_blank" rel="noopener noreferrer">Here's my 🗓️ calendar link</a> to make finding time easy.
       </div>
-      <br>
+      <!-- <br>
       <div class="social">
         <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a>
         |
@@ -73,7 +74,7 @@
         <a href="https://www.linkedin.com/in/swapagarwal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         |
         <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a>
-      </div>
+      </div> -->
     </div>
     <no-ssr>
       <Footer/>
