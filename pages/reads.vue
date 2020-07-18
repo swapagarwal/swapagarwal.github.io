@@ -300,6 +300,14 @@ import Footer from '~/components/Footer.vue'
             rating: '2 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-digital-minimalism-30897b872688'
           },
+          {
+            title: 'Show Your Work!',
+            author: 'Austin Kleon',
+            link: 'https://amzn.to/3bjlnXh',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404580714l/18290401._SX98_.jpg',
+            review: `"All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer." ― Ira Glass`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
