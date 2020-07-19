@@ -308,6 +308,15 @@ import Footer from '~/components/Footer.vue'
             review: `"All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer." ― Ira Glass`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Prisoners of Geography',
+            author: 'Tim Marshall',
+            link: 'https://amzn.to/2QGlByr',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432827094l/25135194._SX98_.jpg',
+            review: `This is a good primer on geography and politics. It's not meant to be read in one sitting; the information can be overwhelming! Keep a map handy for better understanding.`,
+            rating: '3 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-prisoners-of-geography-1b33646d4a32'
+          },
         ]
       }
     },
