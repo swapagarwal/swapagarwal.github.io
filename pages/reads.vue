@@ -317,6 +317,14 @@ import Footer from '~/components/Footer.vue'
             rating: '3 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-prisoners-of-geography-1b33646d4a32'
           },
+          {
+            title: 'Algorithms to Live By',
+            author: 'Brian Christian and Tom Griffiths',
+            link: 'https://amzn.to/32IgxPE',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SX98_.jpg',
+            review: `Optimal stopping tells us when to look and when to leap. The explore/exploit tradeoff tells us how to find the balance between trying new things and enjoying our favorites. Sorting theory tells us how (and whether) to arrange our offices. Caching theory tells us how to fill our closets. Scheduling theory tells us how to fill our time.`,
+            rating: '3 of 5 stars'
+          },
         ]
       }
     },
