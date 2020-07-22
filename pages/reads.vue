@@ -333,6 +333,15 @@ import Footer from '~/components/Footer.vue'
             review: `This made me realize that the world of design is quite vast and I've just scratched the surface.`,
             rating: '3 of 5 stars'
           },
+          {
+            title: '12 Rules for Life',
+            author: 'Jordan B. Peterson',
+            link: 'https://amzn.to/32CopBW',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512705866l/30257963._SX98_.jpg',
+            review: `Some of the analogies are good. It started out strong but the book is way too long for its content.`,
+            rating: '1 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-12-rules-for-life-97f4aaf156'
+          },
         ]
       }
     },
