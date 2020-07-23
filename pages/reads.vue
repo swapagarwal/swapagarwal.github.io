@@ -8,8 +8,10 @@
       <br>
       <div v-for="book in books" :key="book.title" style="min-height: 175px;" :id="slug(book.title)">
         <hr>
-        <a :href="book.link" style="float: left; padding-right: 20px" target="_blank" rel="noopener noreferrer">
-          <img border="0" :alt="book.title" :src="book.image" />
+        <a :href="book.link" class="book-container" style="float: left; padding-right: 20px" target="_blank" rel="noopener noreferrer">
+          <div class="book">
+            <img border="0" :alt="book.title" :src="book.image" />
+          </div>
         </a>
         <a :href="book.link" target="_blank" rel="noopener noreferrer">{{ book.title }}</a> by {{ book.author }}
         <br/>
@@ -364,5 +366,95 @@ import Footer from '~/components/Footer.vue'
   margin: auto;
   margin-top: 100px;
   margin-bottom: 100px;
+}
+
+.book-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 600px;
+}
+
+@keyframes initAnimation {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(-30deg);
+  }
+}
+
+.book {
+  width: 100px;
+  height: 150px;
+  position: relative;
+  transform-style: preserve-3d;
+  transform: rotateY(-30deg);
+  transition: 1s ease;
+  animation: 1s ease 0s 1 initAnimation;
+}
+
+.book:hover {
+  transform: rotateY(0deg);
+}
+
+.book > :first-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: red;
+  width: 100px;
+  height: 150px;
+  transform: translateZ(12.5px);
+  background-color: #01060f;
+  border-radius: 0 2px 2px 0;
+  box-shadow: 5px 5px 20px #666;
+}
+
+.book::before {
+  position: absolute;
+  content: ' ';
+  background-color: blue;
+  left: 0;
+  top: 3px;
+  width: 23px;
+  height: 144px;
+  transform: translateX(84.5px) rotateY(90deg);
+  background: linear-gradient(90deg,
+    #fff 0%,
+    #f9f9f9 5%,
+    #fff 10%,
+    #f9f9f9 15%,
+    #fff 20%,
+    #f9f9f9 25%,
+    #fff 30%,
+    #f9f9f9 35%,
+    #fff 40%,
+    #f9f9f9 45%,
+    #fff 50%,
+    #f9f9f9 55%,
+    #fff 60%,
+    #f9f9f9 65%,
+    #fff 70%,
+    #f9f9f9 75%,
+    #fff 80%,
+    #f9f9f9 85%,
+    #fff 90%,
+    #f9f9f9 95%,
+    #fff 100%
+    );
+}
+
+.book::after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: ' ';
+  width: 100px;
+  height: 150px;
+  transform: translateZ(-12.5px);
+  background-color: #01060f;
+  border-radius: 0 2px 2px 0;
+  box-shadow: -10px 0 50px 10px #666;
 }
 </style>
