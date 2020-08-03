@@ -408,7 +408,7 @@ import Footer from '~/components/Footer.vue'
   transform: translateZ(12.5px);
   background-color: #01060f;
   border-radius: 0 2px 2px 0;
-  box-shadow: 5px 5px 20px #666;
+  box-shadow: 2px 2px 10px #666;
 }
 
 .book::before {
@@ -455,6 +455,6 @@ import Footer from '~/components/Footer.vue'
   transform: translateZ(-12.5px);
   background-color: #01060f;
   border-radius: 0 2px 2px 0;
-  box-shadow: -10px 0 50px 10px #666;
+  box-shadow: -5px 0 25px 5px #666;
 }
 </style>
