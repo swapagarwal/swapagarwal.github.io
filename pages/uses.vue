@@ -76,7 +76,10 @@
                     📚 <a href="https://www.goodreads.com/user/show/50197980-swapnil-agarwal" target="_blank" rel="noopener noreferrer">Goodreads</a> to keep track of the books I'm reading
                 </li>
                 <li>
-                    ☕ <a href="http://i.refs.cc/lYsJLgcX?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjpudWxsfQ%3D%3D" target="_blank" rel="noopener noreferrer">Rage Coffee</a> to get my morning kick!
+                    ☕ <a href="http://i.refs.cc/lYsJLgcX?smile_ref=eyJzbWlsZV9zb3VyY2UiOiJzbWlsZV91aSIsInNtaWxlX21lZGl1bSI6IiIsInNtaWxlX2NhbXBhaWduIjoicmVmZXJyYWxfcHJvZ3JhbSIsInNtaWxlX2N1c3RvbWVyX2lkIjpudWxsfQ%3D%3D" target="_blank" rel="noopener noreferrer">Rage Coffee</a> to get my morning kick
+                </li>
+                <li>
+                    🍫 <a href="https://amzn.to/33NRCL7" target="_blank" rel="noopener noreferrer">Yogabar Baked Brownie</a> as my protein-source for breakfast
                 </li>
             </ul>
             <div class="commentbox"></div>
