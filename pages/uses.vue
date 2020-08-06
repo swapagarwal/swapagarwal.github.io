@@ -81,6 +81,9 @@
                 <li>
                     🍫 <a href="https://amzn.to/33NRCL7" target="_blank" rel="noopener noreferrer">Yogabar Baked Brownie</a> as my protein-source for breakfast
                 </li>
+                <li>
+                    🙅 <a href="https://github.com/gorhill/uBlock" target="_blank" rel="noopener noreferrer">uBlock Origin</a> to block ads and trackers
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
