@@ -84,6 +84,9 @@
                 <li>
                     🙅 <a href="https://github.com/gorhill/uBlock" target="_blank" rel="noopener noreferrer">uBlock Origin</a> to block ads and trackers
                 </li>
+                <li>
+                    📹 <a href="https://www.loom.com/" target="_blank" rel="noopener noreferrer">Loom</a> for camera and screen recordings
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
