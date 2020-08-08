@@ -87,6 +87,9 @@
                 <li>
                     📹 <a href="https://www.loom.com/" target="_blank" rel="noopener noreferrer">Loom</a> for camera and screen recordings
                 </li>
+                <li>
+                    🎙️ <a href="https://ref.krisp.ai/u/u2240d175a" target="_blank" rel="noopener noreferrer">Krisp</a> for removing background noise
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
