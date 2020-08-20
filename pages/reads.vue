@@ -331,7 +331,7 @@ import Footer from '~/components/Footer.vue'
             title: 'Design as Art',
             author: 'Bruno Munari',
             link: 'https://amzn.to/32IqAUT',
-            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359388850l/6095883._SY160_.jpg',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359388850l/6095883._SX98_.jpg',
             review: `This made me realize that the world of design is quite vast and I've just scratched the surface.`,
             rating: '3 of 5 stars'
           },
