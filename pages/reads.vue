@@ -344,6 +344,14 @@ import Footer from '~/components/Footer.vue'
             rating: '1 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-12-rules-for-life-97f4aaf156'
           },
+          {
+            title: 'Rich Dad Poor Dad',
+            author: 'Robert T. Kiyosaki',
+            link: 'https://amzn.to/3kEvDwZ',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524451661l/39924789._SX98_.jpg',
+            review: `I resonated quite a lot with the ideas presented in this book. It's a nice introduction and you'll realize that there are a lot of things you don't know. Now I need a companion book to go deep into the financial world.`,
+            rating: '4 of 5 stars'
+          },
         ]
       }
     },
