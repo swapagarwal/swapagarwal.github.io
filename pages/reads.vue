@@ -352,6 +352,15 @@ import Footer from '~/components/Footer.vue'
             review: `I resonated quite a lot with the ideas presented in this book. It's a nice introduction and you'll realize that there are a lot of things you don't know. Now I need a companion book to go deep into the financial world.`,
             rating: '4 of 5 stars'
           },
+          {
+            title: 'Tao Te Ching',
+            author: 'Lao Tzu',
+            link: 'https://amzn.to/31LzT7c',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558122428l/45869611._SX98_.jpg',
+            review: `YMMV`,
+            rating: '1 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-tao-te-ching-beff666deb60'
+          },
         ]
       }
     },
