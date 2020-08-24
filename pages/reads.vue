@@ -361,6 +361,14 @@ import Footer from '~/components/Footer.vue'
             rating: '1 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-tao-te-ching-beff666deb60'
           },
+          {
+            title: 'The Clean Coder',
+            author: 'Robert C. Martin',
+            link: 'https://amzn.to/2ZxecFp',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347470803l/10284614._SX98_.jpg',
+            review: `Although the content is similar to The Pragmatic Programmer, I liked this book more because a) it was written by Uncle Bob and b) it has a lot of personal stories. I loved the concept of wildly optimistic, nominal, and wildly pessimistic estimates. We tend to estimate projects optimistically; having the above 3 estimates laid out can help paint a better picture here.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
