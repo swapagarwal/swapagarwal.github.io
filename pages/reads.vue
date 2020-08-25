@@ -369,6 +369,14 @@ import Footer from '~/components/Footer.vue'
             review: `Although the content is similar to The Pragmatic Programmer, I liked this book more because a) it was written by Uncle Bob and b) it has a lot of personal stories. I loved the concept of wildly optimistic, nominal, and wildly pessimistic estimates. We tend to estimate projects optimistically; having the above 3 estimates laid out can help paint a better picture here.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Think and Grow Rich',
+            author: 'Napoleon Hill',
+            link: 'https://amzn.to/35Q2ASQ',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579600057l/50614141._SX98_.jpg',
+            review: `I tried hard to find any takeaways from this book. Not for me!`,
+            rating: '1 of 5 stars'
+          },
         ]
       }
     },
