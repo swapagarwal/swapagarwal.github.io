@@ -377,6 +377,15 @@ import Footer from '~/components/Footer.vue'
             review: `I tried hard to find any takeaways from this book. Not for me!`,
             rating: '1 of 5 stars'
           },
+          {
+            title: 'Influence',
+            author: 'Robert B. Cialdini',
+            link: 'https://amzn.to/2YXiart',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391026083l/28815._SX98_.jpg',
+            review: `Robert explains the concepts behind manipulation techniques which are widely in use today. There are some heuristics we use in our everyday life to get by. They serve us right for the most part but leave us vulnerable to get tricked easily. Being aware of such tactics is a good first step to start recognizing them and remain uninfluenced.`,
+            rating: '5 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-influence-da8e40cce3c1'
+          },
         ]
       }
     },
