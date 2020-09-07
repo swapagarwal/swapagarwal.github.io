@@ -7,7 +7,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '127.0.0.1 sweet 127.0.0.1' }
+      { hid: 'description', name: 'description', content: 'Swapnil is an Entrepreneur, Developer, and Public Speaker. He has worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
