@@ -8,9 +8,9 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Swapnil is an Entrepreneur, Developer, and Public Speaker. He has worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past.' },
-      { hid: 'og:title', name: 'og:title', content: 'Swapnil Agarwal' },
-      { hid: 'og:description', name: 'og:description', content: 'Swapnil is an Entrepreneur, Developer, and Public Speaker. He has worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past.' },
-      { hid: 'og:image', name: 'og:image', content: 'https://swapnil.net/avatar.jpg' },
+      { hid: 'og:title', property: 'og:title', content: 'Swapnil Agarwal' },
+      { hid: 'og:description', property: 'og:description', content: 'Swapnil is an Entrepreneur, Developer, and Public Speaker. He has worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past.' },
+      { hid: 'og:image', property: 'og:image', content: 'https://swapnil.net/avatar.jpg' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
