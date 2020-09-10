@@ -11,6 +11,7 @@ module.exports = {
       { hid: 'og:title', property: 'og:title', content: 'Swapnil Agarwal' },
       { hid: 'og:description', property: 'og:description', content: 'Swapnil is an Entrepreneur, Developer, and Public Speaker. He has worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past.' },
       { hid: 'og:image', property: 'og:image', content: 'https://swapnil.net/avatar.jpg' },
+      { hid: 'twitter:card', property: 'twitter:card', content: 'summary' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
