@@ -42,14 +42,16 @@ import Footer from '~/components/Footer.vue'
     },
     head () {
       return {
-        title: '2020 Reading Challenge - Swapnil Agarwal',
+        title: this.title,
         meta: [
-          { hid: 'description', name: 'description', content: 'In 2020, Swapnil wants to read 50 books. Will he be able to do it?' }
+          { hid: 'description', name: 'description', content: this.description }
         ]
       }
     },
     data () {
       return {
+        title: '2020 Reading Challenge - Swapnil Agarwal',
+        description: 'In 2020, Swapnil wants to read 50 books. Will he be able to do it?',
         books: [
           {
             title: 'Snow Crash',
