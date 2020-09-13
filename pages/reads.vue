@@ -42,6 +42,7 @@ import Footer from '~/components/Footer.vue'
     },
     head () {
       return {
+        title: '2020 Reading Challenge - Swapnil Agarwal',
         meta: [
           { hid: 'description', name: 'description', content: 'In 2020, Swapnil wants to read 50 books. Will he be able to do it?' }
         ]
