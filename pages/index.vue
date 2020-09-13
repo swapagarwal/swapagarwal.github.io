@@ -92,13 +92,6 @@ export default {
     Logo,
     Header,
     Footer
-  },
-  head () {
-    return {
-      meta: [
-        { hid: 'description', name: 'description', content: 'Swapnil is an Entrepreneur, Developer, and Public Speaker. He has worked as a Software Developer at Amazon and as a Product Manager at Meesho in the past.' }
-      ]
-    }
   }
 }
 </script>
