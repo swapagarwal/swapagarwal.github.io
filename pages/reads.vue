@@ -44,18 +44,17 @@ import Footer from '~/components/Footer.vue'
       return {
         title: this.title,
         meta: [
-          { hid: 'description', name: 'description', content: this.description },
+          { hid: 'description', name: 'description', content: 'Swapnil has read ' + this.progress + ' of 50 books.' },
           { hid: 'og:title', property: 'og:title', content: this.title },
-          { hid: 'og:description', property: 'og:description', content: this.description },
+          { hid: 'og:description', property: 'og:description', content: 'Swapnil has read ' + this.progress + ' of 50 books.' },
           { hid: 'twitter:title', name: 'twitter:title', content: this.title },
-          { hid: 'twitter:description', name: 'twitter:description', content: this.description },
+          { hid: 'twitter:description', name: 'twitter:description', content: 'Swapnil has read ' + this.progress + ' of 50 books.' },
         ]
       }
     },
     data () {
       return {
         title: '2020 Reading Challenge - Swapnil Agarwal',
-        description: 'In 2020, Swapnil wants to read 50 books. Will he be able to do it?',
         books: [
           {
             title: 'Snow Crash',
