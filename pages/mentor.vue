@@ -100,11 +100,22 @@ import Footer from '~/components/Footer.vue'
     },
     head () {
       return {
+        title: this.title,
         meta: [
-          { hid: 'description', name: 'description', content: 'Working on real-world projects is the best way to learn! I have some side-projects which I\'m currently not able to devote time to so I\'ve opened them up for collaboration.' }
+          { hid: 'description', name: 'description', content: this.description },
+          { hid: 'og:title', property: 'og:title', content: this.title },
+          { hid: 'og:description', property: 'og:description', content: this.description },
+          { hid: 'twitter:title', name: 'twitter:title', content: this.title },
+          { hid: 'twitter:description', name: 'twitter:description', content: this.description },
         ]
       }
-    }
+    },
+    data () {
+      return {
+        title: 'Mentorship - Swapnil Agarwal',
+        description: 'Working on real-world projects is the best way to learn! I have some side-projects which I\'m currently not able to devote time to so I\'ve opened them up for collaboration.'
+      }
+    },
   }
 </script>
 
