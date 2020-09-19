@@ -108,9 +108,27 @@ export default {
     Header,
     Footer
   },
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: this.description },
+        { hid: 'og:title', property: 'og:title', content: this.title },
+        { hid: 'og:description', property: 'og:description', content: this.description },
+        { hid: 'twitter:title', name: 'twitter:title', content: this.title },
+        { hid: 'twitter:description', name: 'twitter:description', content: this.description },
+      ]
+    }
+  },
+  data () {
+    return {
+      title: 'Uses - Swapnil Agarwal',
+      description: 'A comprehensive list of things I use frequently.'
+    }
+  },
   mounted() {
     commentBox('5665346656665600-proj')
-  }
+  },
 }
 </script>
 
