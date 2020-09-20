@@ -27,11 +27,22 @@ export default {
     Header,
     Footer
   },
-  mounted() {
-    commentBox('5665346656665600-proj')
+  head () {
+    return {
+      title: this.title,
+      meta: [
+        { hid: 'description', name: 'description', content: this.description },
+        { hid: 'og:title', property: 'og:title', content: this.title },
+        { hid: 'og:description', property: 'og:description', content: this.description },
+        { hid: 'twitter:title', name: 'twitter:title', content: this.title },
+        { hid: 'twitter:description', name: 'twitter:description', content: this.description },
+      ]
+    }
   },
   data () {
     return {
+      title: 'Frequently Asked Questions - Swapnil Agarwal',
+      description: 'A list of questions related to various aspects of life.',
       faqs: [
         {
           title: 'What should I do about my career?',
@@ -139,7 +150,10 @@ export default {
         }
       ]
     }
-  }
+  },
+  mounted() {
+    commentBox('5665346656665600-proj')
+  },
 }
 </script>
 
