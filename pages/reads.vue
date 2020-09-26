@@ -392,6 +392,14 @@ import Footer from '~/components/Footer.vue'
             rating: '5 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-influence-da8e40cce3c1'
           },
+          {
+            title: 'The 4-Hour Body',
+            author: 'Timothy Ferriss',
+            link: 'https://amzn.to/36W4Mc3',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413132348l/17429690._SX98_.jpg',
+            review: `I loved how actionable this is! Tim provides a low-friction approach to reap benefits; you don't need to read the whole book, just skip to the sections that are most relevant to your body right now. I made lots of notes along the way (skimmed the parts mentioning supplements) and have already started incorporating some of the changes in my day-to-day life.`,
+            rating: '4 of 5 stars'
+          },
         ]
       }
     },
