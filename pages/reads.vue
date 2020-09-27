@@ -400,6 +400,15 @@ import Footer from '~/components/Footer.vue'
             review: `I loved how actionable this is! Tim provides a low-friction approach to reap benefits; you don't need to read the whole book, just skip to the sections that are most relevant to your body right now. I made lots of notes along the way (skimmed the parts mentioning supplements) and have already started incorporating some of the changes in my day-to-day life.`,
             rating: '4 of 5 stars'
           },
+          {
+            title: 'On the Shortness of Life',
+            author: 'Seneca',
+            link: 'https://amzn.to/3lQ6znl',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574250997l/1384442._SX98_.jpg',
+            review: `It's a good reminder that life is short, so do things that you love doing. There's no point toiling to acquire things you wouldn't enjoy for long. My main problem with this is that the language used is unnecessarily complex (both in terms of sentence structure and words). The book consists of 3 letters. The first is quite good and I'll probably read it again next year. Skip the second one, skim the third.`,
+            rating: '3 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-on-the-shortness-of-life-f5f0377ebe29'
+          },
         ]
       }
     },
