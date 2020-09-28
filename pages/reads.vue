@@ -409,6 +409,14 @@ import Footer from '~/components/Footer.vue'
             rating: '3 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-on-the-shortness-of-life-f5f0377ebe29'
           },
+          {
+            title: 'Lean In',
+            author: 'Sheryl Sandberg',
+            link: 'https://amzn.to/3ihV71l',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364250803l/16071764._SX98_.jpg',
+            review: `This has takeaways for everyone in the tech industry. For a preview, watch her TED talk. Sheryl doesn't rant or blame anyone for the current situation. Rather, she shares anecdotes acknowledging it and suggests ways we can improve the ratio of women in leadership roles. It's time to lean in!`,
+            rating: '4 of 5 stars'
+          },
         ]
       }
     },
