@@ -417,6 +417,14 @@ import Footer from '~/components/Footer.vue'
             review: `This has takeaways for everyone in the tech industry. For a preview, watch her TED talk. Sheryl doesn't rant or blame anyone for the current situation. Rather, she shares anecdotes acknowledging it and suggests ways we can improve the ratio of women in leadership roles. It's time to lean in!`,
             rating: '4 of 5 stars'
           },
+          {
+            title: 'Born to Run',
+            author: 'Christopher McDougall',
+            link: 'https://amzn.to/3drkFID',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507647408l/11398264._SX98_.jpg',
+            review: `I ran a 10k last year and was done with running. Reading this memoir has rekindled my interest. Now I want to push myself more. Half-marathon, here I come!`,
+            rating: '3 of 5 stars'
+          },
         ]
       }
     },
