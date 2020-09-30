@@ -425,6 +425,15 @@ import Footer from '~/components/Footer.vue'
             review: `I ran a 10k last year and was done with running. Reading this memoir has rekindled my interest. Now I want to push myself more. Half-marathon, here I come!`,
             rating: '3 of 5 stars'
           },
+          {
+            title: 'The Hard Thing About Hard Things',
+            author: 'Ben Horowitz',
+            link: 'https://amzn.to/30UAX7F',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg',
+            review: `Ben goes deep into the struggles a CEO faces on a daily basis. Pick this up (along with The Culture Code) if you're already running a business or aspire to start one. It made me understand the reasons behind the processes at large companies.`,
+            rating: '5 of 5 stars',
+            notes: 'https://medium.com/@swap/book-notes-the-hard-thing-about-hard-things-3fc6e9093061'
+          },
         ]
       }
     },
