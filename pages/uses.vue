@@ -85,7 +85,7 @@
                     🙅 <a href="https://github.com/gorhill/uBlock" target="_blank" rel="noopener noreferrer">uBlock Origin</a> to block ads and trackers
                 </li>
                 <li>
-                    📹 <a href="https://www.loom.com/" target="_blank" rel="noopener noreferrer">Loom</a> for camera and screen recordings
+                    📹 <strike><a href="https://www.loom.com/" target="_blank" rel="noopener noreferrer">Loom</a></strike>&nbsp;<a href="https://cleanshot.com/" target="_blank" rel="noopener noreferrer">CleanShot X</a> for camera and screen recordings
                 </li>
                 <li>
                     🎙️ <a href="https://ref.krisp.ai/u/u2240d175a" target="_blank" rel="noopener noreferrer">Krisp</a> for removing background noise
