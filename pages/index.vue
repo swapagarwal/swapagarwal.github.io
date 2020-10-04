@@ -47,7 +47,7 @@
       </div> -->
       <br>
       <div class="newsletter">
-        My personal blog has moved to a new place: <a href="/writes">/writes</a>
+        My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
         <!-- Here are some of my newsletters:
         <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 my musings</a>
         |
