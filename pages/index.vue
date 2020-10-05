@@ -48,14 +48,15 @@
       <br>
       <div class="newsletter">
         My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
-        <!-- Here are some of my newsletters:
-        <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 my musings</a>
+        <br>
+        Here are some of my raw newsletters:
+        <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 swap's musings</a>
         |
-        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ my life updates</a>
+        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
         |
-        <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 my startup journey</a>
+        <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         |
-        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 my creative lab</a> -->
+        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
       </div>
       <br>
       <div class="contact">
