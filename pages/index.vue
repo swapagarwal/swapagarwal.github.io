@@ -21,8 +21,8 @@
         <br>
         In the past, I have worked as a <b>Software Developer at Amazon</b> and as a <b>Product Manager at Meesho</b>.
         <br>
-        I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
-        <br>
+        <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
+        <br> -->
         INTP turned INFP | Speaker at Conferences & Meetups | <a href="/reads">📚 Avid Reader</a> | Budding Polymath
       </div>
       <!-- <div class="links">
