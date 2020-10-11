@@ -26,7 +26,7 @@
         <br>
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
-        <a href="/reads">📚 Avid Reader</a> | Modern Polymath / Multipotentialite | Speaker at Conferences & Meetups | INTP turned INFP
+        <a href="/reads">📚 Avid Reader</a> | Modern Polymath | Speaker at Conferences & Meetups | INTP turned INFP
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
