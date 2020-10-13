@@ -26,7 +26,7 @@
         <br> -->
         <a href="/reads">📚 Avid Reader</a> | Modern Polymath | Speaker at Conferences & Meetups | INTP turned INFP
         <br>
-        In the past, I have worked as a <b>Software Developer at Amazon</b> and as a <b>Product Manager at Meesho</b>.
+        In the past, I have worked as a Software Developer at Amazon and as a Product Manager at Meesho.
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
