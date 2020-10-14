@@ -22,7 +22,7 @@
         </ul>
         <a href="https://www.paypal.me/SwapnilAgarwal/100" target="_blank" rel="noopener noreferrer">Click here to pay via PayPal and book a one-hour session.</a> I'll get in touch to arrange a time.
       </p>
-      <h2>Build a Reading Habit</h2>
+      <!-- <h2>Build a Reading Habit</h2>
       If you've always wanted to read more but can't seem to do so, I can help you here.
       <br>
       We'll pick the book according to your interests and read together. I'll make a guided plan for you and check-in with you regularly.
@@ -30,7 +30,7 @@
       Note that this comes with a refund-clause, i.e. <b>you get a refund if you aren't able to complete the book</b>.
       <br>
       <a href="https://www.paypal.me/SwapnilAgarwal/50" target="_blank" rel="noopener noreferrer">Commit to reading a book!</a>
-      <br><br>
+      <br><br> -->
       <h2>Corporate Workshops</h2>
       Use the chat widget to enquire about my availability for trainings in:
       <ul>
