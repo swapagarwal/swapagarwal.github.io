@@ -60,6 +60,8 @@
         <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         |
         <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
+        <br><br>
+        <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a>
       </div>
       <br>
       <div class="contact">
