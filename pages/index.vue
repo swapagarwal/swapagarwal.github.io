@@ -24,7 +24,7 @@
         <br> -->
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
-        <a href="/reads">📚 Avid Reader</a> | Modern Polymath | Speaker at Conferences & Meetups | INTP turned INFP
+        <a href="/reads">📚 Avid Reader</a> &bull; Modern Polymath &bull; Speaker at Conferences & Meetups &bull; INTP turned INFP
         <br>
         In the past, I have worked as a Software Developer at Amazon and as a Product Manager at Meesho.
       </div>
