@@ -8,7 +8,7 @@
         If you're just starting out or are in your early-growth stage, you are at the right place.
         If you need help with any of the below, let's talk.
         <br>
-        <b>You will get my undivided attention for one hour</b>, with tips, advice, and actionable insights you will be able to use straight away.
+        You will get my undivided attention for one hour, with tips, advice, and actionable insights you will be able to use straight away.
         Depending on your needs, this hour can be used for a conversation, or a more practical workshop. Whatever the topic, I promise you awesome value. You will leave inspired and equipped to tackle your next challenge.
         <ul>
           <li>Define your priorities</li>
