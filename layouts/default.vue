@@ -49,4 +49,8 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+a {
+  color: #1972f5;
+}
 </style>
