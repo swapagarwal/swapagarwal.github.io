@@ -18,13 +18,13 @@
       </h2>
       <div>
         I'm fixing tech hiring at <a @click="track" href="https://elevatelabs.tech/" target="_blank" rel="noopener noreferrer">🚀 Elevate Labs</a>.
-        I also run a private community of mastermind groups at <a href="https://dxclub.io/" target="_blank" rel="noopener noreferrer">⚡️ The DX Club</a>.
+        I also run a private community of mastermind groups at <a @click="track" href="https://dxclub.io/" target="_blank" rel="noopener noreferrer">⚡️ The DX Club</a>.
         <br>
         <!-- I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://dxclub.io/taboo" target="_blank" rel="noopener noreferrer">🙅 Screw the Taboo meetups</a>.
         <br> -->
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
-        <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="/reads">📚 Avid Reader</a> &bull; Speaker at Conferences & Meetups</span>
+        <span>Modern Polymath &bull; INTP turned INFP &bull; <a @click="track" href="/reads">📚 Avid Reader</a> &bull; Speaker at Conferences & Meetups</span>
         <br>
         In the past, I have worked as a Software Developer at Amazon and as a Product Manager at Meesho.
       </div>
@@ -50,24 +50,24 @@
       </div> -->
       <br>
       <div class="newsletter">
-        My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
+        My polished thoughts can be found here: <a @click="track" href="/writes">💡 swap's insights</a>
         <br>
         Here are some of my raw newsletters:
-        <a href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 swap's musings</a>
+        <a @click="track" href="https://buttondown.email/swap" target="_blank" rel="noopener noreferrer">💌 swap's musings</a>
         &bull;
-        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
+        <a @click="track" href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
         &bull;
-        <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
+        <a @click="track" href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         &bull;
-        <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
+        <a @click="track" href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
         <br><br>
-        <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a>
+        <a @click="track" href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a>
       </div>
       <br>
       <div class="contact">
-        You can use the chat widget at the bottom right to send me a <a href="http://www.nohello.com/" target="_blank" rel="noopener noreferrer">💬 message</a>.
+        You can use the chat widget at the bottom right to send me a <a @click="track" href="http://www.nohello.com/" target="_blank" rel="noopener noreferrer">💬 message</a>.
         <br>
-        I'd love to connect online or over a cup of ☕ coffee. <a href="https://calendly.com/swapnilagarwal" target="_blank" rel="noopener noreferrer">Here's my 🗓️ calendar link</a> to make finding time easy.
+        I'd love to connect online or over a cup of ☕ coffee. <a @click="track" href="https://calendly.com/swapnilagarwal" target="_blank" rel="noopener noreferrer">Here's my 🗓️ calendar link</a> to make finding time easy.
       </div>
       <!-- <br>
       <div class="social">
