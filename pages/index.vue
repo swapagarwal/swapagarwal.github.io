@@ -101,7 +101,7 @@ export default {
   },
   methods: {
     track: function(event) {
-      this.$ga.event('Home Page', 'Clicked Link', event.target.href);
+      this.$ga.event(window.location.pathname, 'Clicked Link', event.target.href);
     }
   },
   mounted() {
