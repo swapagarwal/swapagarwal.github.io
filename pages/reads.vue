@@ -445,8 +445,17 @@ import Footer from '~/components/Footer.vue'
     methods: {
       slug: function (url) {
         return url.toLowerCase().replace(/ +/g, '-')
+      },
+      track: function(event) {
+        this.$ga.event(window.location.pathname, 'Clicked Link', event.target.href);
       }
-    }
+    },
+    mounted() {
+      window.addEventListener('click', this.track)
+    },
+    destroyed() {
+      window.removeEventListener('click', this.track)
+    },
   }
 </script>
 
