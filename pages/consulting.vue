@@ -74,6 +74,17 @@ import Footer from '~/components/Footer.vue'
         description: 'Get 1:1 support to grow your business to the next level.'
       }
     },
+    methods: {
+      track: function(event) {
+        this.$ga.event(window.location.pathname, 'Clicked Link', event.target.href);
+      }
+    },
+    mounted() {
+      window.addEventListener('click', this.track)
+    },
+    destroyed() {
+      window.removeEventListener('click', this.track)
+    },
   }
 </script>
 
