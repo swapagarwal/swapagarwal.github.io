@@ -151,8 +151,17 @@ export default {
       ]
     }
   },
+  methods: {
+    track: function(event) {
+      this.$ga.event(window.location.pathname, 'Clicked Link', event.target.href);
+    }
+  },
   mounted() {
     commentBox('5665346656665600-proj')
+    window.addEventListener('click', this.track)
+  },
+  destroyed() {
+    window.removeEventListener('click', this.track)
   },
 }
 </script>
