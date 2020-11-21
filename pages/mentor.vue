@@ -116,6 +116,17 @@ import Footer from '~/components/Footer.vue'
         description: 'Working on real-world projects is the best way to learn! I have some side-projects which I\'m currently not able to devote time to so I\'ve opened them up for collaboration.'
       }
     },
+    methods: {
+      track: function(event) {
+        this.$ga.event(window.location.pathname, 'Clicked Link', event.target.href);
+      }
+    },
+    mounted() {
+      window.addEventListener('click', this.track)
+    },
+    destroyed() {
+      window.removeEventListener('click', this.track)
+    },
   }
 </script>
 
