@@ -434,6 +434,15 @@ import Footer from '~/components/Footer.vue'
             rating: '5 of 5 stars',
             notes: 'https://medium.com/@swap/book-notes-the-hard-thing-about-hard-things-3fc6e9093061'
           },
+          {
+            title: 'The Checklist Manifesto',
+            author: 'Atul Gawande',
+            link: 'https://amzn.to/3nvYIfX',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312061594l/6667514._SX98_.jpg',
+            review: `Have you noticed that the construction and aviation industries have very low error rates? Well, it might sound boring but they use checklists! Loaded with stories, Atul takes us on a journey to create a 90-second checklist in the world of surgery that ended up reducing the fatality rate by a third.`,
+            rating: '3 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-the-checklist-manifesto-a1d549dc8af9'
+          },
         ]
       }
     },
