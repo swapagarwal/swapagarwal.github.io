@@ -443,6 +443,15 @@ import Footer from '~/components/Footer.vue'
             rating: '3 of 5 stars',
             notes: 'https://swap.medium.com/book-notes-the-checklist-manifesto-a1d549dc8af9'
           },
+          {
+            title: 'Mastery',
+            author: 'Robert Greene',
+            link: 'https://amzn.to/3abRwRZ',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348274726l/13589182._SX98_.jpg',
+            review: `The best part about this book is the long-form stories of 10+ people instead of cherry-picked anecdotes.`,
+            rating: '3 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-mastery-3e950f3262f9'
+          },
         ]
       }
     },
