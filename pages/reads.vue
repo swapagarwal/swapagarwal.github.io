@@ -452,6 +452,15 @@ import Footer from '~/components/Footer.vue'
             rating: '3 of 5 stars',
             notes: 'https://swap.medium.com/book-notes-mastery-3e950f3262f9'
           },
+          {
+            title: 'Mindset',
+            author: 'Carol S. Dweck',
+            link: 'https://amzn.to/3oVJXmE',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436227012l/40745._SX98_.jpg',
+            review: `My key takeaway is that parents’ praise molds their children’s mindsets. It's a very slippery slope - focusing on outcomes vs efforts can result in quite different mindsets. Growth mindset has compound effects in life so the earlier someone has it, the better.`,
+            rating: '4 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-mindset-e6cc859705d0'
+          },
         ]
       }
     },
