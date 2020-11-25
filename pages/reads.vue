@@ -461,6 +461,15 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://swap.medium.com/book-notes-mindset-e6cc859705d0'
           },
+          {
+            title: 'A Short History of Nearly Everything',
+            author: 'Bill Bryson',
+            link: 'https://amzn.to/3r12CiH',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293l/21._SX98_.jpg',
+            review: `It was a good refresher of my school days. It's worth noticing that the majority of people who did advance technology had the freedom to do it. Also, many of the discoveries were made by people who dabbled in multiple fields or simply serendipity. Advancements are not necessarily made by the smartest of people but by people willing to do a lot of experiments and observations.`,
+            rating: '3 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-a-short-history-of-nearly-everything-8ced57e5066a'
+          },
         ]
       }
     },
