@@ -470,6 +470,15 @@ import Footer from '~/components/Footer.vue'
             rating: '3 of 5 stars',
             notes: 'https://swap.medium.com/book-notes-a-short-history-of-nearly-everything-8ced57e5066a'
           },
+          {
+            title: 'Stumbling on Happiness',
+            author: 'Daniel Todd Gilbert',
+            link: 'https://amzn.to/387vixZ',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327947323l/56627._SX98_.jpg',
+            review: `Daniel does a great job at explaining why we are so bad at predicting what will make us happy in the first place. Once we have an experience, we cannot simply set it aside and see the world as we would have seen it had the experience never happened. Wonderful things are especially wonderful the first time they happen, but their wonderfulness wanes with repetition.`,
+            rating: '4 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-stumbling-on-happiness-56111e808c70'
+          },
         ]
       }
     },
