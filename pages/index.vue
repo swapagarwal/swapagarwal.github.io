@@ -26,7 +26,7 @@
         <br> -->
         <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="/reads">📚 Avid Reader</a> &bull; Speaker at Conferences & Meetups</span>
         <br>
-        In the past, I have worked as a Software Developer at Amazon and as a Product Manager at Meesho.
+        In the past, I have worked as a Software Developer at Amazon and as a Product Manager at Meesho (YC S16).
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
