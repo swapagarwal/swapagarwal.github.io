@@ -9,12 +9,7 @@
       <img src="/avatar.png" style="border-radius:100%" width="140"><br>
       <br>
       <h2 class="subtitle">
-        <vue-typer text="Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me 'swap'."
-                   :repeat='0'
-                   :pre-type-delay='1000'
-                   :type-delay='100'
-                   caret-animation='smooth'
-        ></vue-typer>
+        Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me 'swap'.
       </h2>
       <div>
         I'm fixing tech hiring at <a href="https://elevatelabs.tech/" target="_blank" rel="noopener noreferrer">🚀 Elevate Labs</a>.
