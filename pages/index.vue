@@ -57,7 +57,7 @@
         &bull;
         <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
         &bull;
-        <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
+        <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         &bull;
         <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
         <br><br>
