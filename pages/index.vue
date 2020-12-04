@@ -55,7 +55,7 @@
         Here are some of my raw newsletters:
         <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 swap's musings</a>
         &bull;
-        <a href="https://tinyletter.com/swap" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
+        <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
         &bull;
         <a href="https://www.getrevue.co/profile/swap" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         &bull;
