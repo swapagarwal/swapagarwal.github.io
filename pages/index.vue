@@ -6,7 +6,7 @@
       <!-- <h1 class="title">
         127.0.0.1 sweet 127.0.0.1
       </h1> -->
-      <img src="/avatar.png" style="border-radius:100%" width="140"><br>
+      <img src="/avatar.png" style="border-radius:100%" width="100" height="100"><br>
       <br>
       <h2 class="subtitle">
         Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me 'swap'.
