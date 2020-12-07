@@ -64,18 +64,18 @@
         <br>
         I'd love to connect online or over a cup of ☕ coffee. <a href="https://calendly.com/swapnilagarwal" target="_blank" rel="noopener noreferrer">Here's my 🗓️ calendar link</a> to make finding time easy.
       </div>
-      <!-- <br>
+      <br>
       <div class="social">
-        <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a>
-        |
         <a href="https://www.twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">Twitter</a>
-        |
-        <a href="https://medium.com/@swap" target="_blank" rel="noopener noreferrer">Medium</a>
-        |
+        &bull;
+        <a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">GitHub</a>
+        &bull;
+        <!-- <a href="https://medium.com/@swap" target="_blank" rel="noopener noreferrer">Medium</a> -->
+        <!-- &bull; -->
         <a href="https://www.linkedin.com/in/swapagarwal/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        |
-        <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a>
-      </div> -->
+        <!-- &bull; -->
+        <!-- <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a> -->
+      </div>
     </div>
     <no-ssr>
       <Footer/>
