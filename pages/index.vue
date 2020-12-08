@@ -58,12 +58,12 @@
         <br><br>
         <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a>
       </div>
-      <br>
+      <!-- <br>
       <div class="contact">
         You can use the chat widget at the bottom right to send me a <a href="http://www.nohello.com/" target="_blank" rel="noopener noreferrer">💬 message</a>.
         <br>
         I'd love to connect online or over a cup of ☕ coffee. <a href="https://calendly.com/swapnilagarwal" target="_blank" rel="noopener noreferrer">Here's my 🗓️ calendar link</a> to make finding time easy.
-      </div>
+      </div> -->
       <br>
       <div class="social">
         <a href="https://www.twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">Twitter</a>
