@@ -24,6 +24,7 @@ export default {
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
   display: block;
+  background-color: #fff;
 }
 a {
   margin-right: 20px;
