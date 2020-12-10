@@ -1,11 +1,18 @@
 <template>
   <div class="header" align="center">
-    <nuxt-link to="/" exact>&nbsp;🏡 Home&nbsp;</nuxt-link>
-    <!-- <nuxt-link to="/projects">&nbsp;📂 Projects&nbsp;</nuxt-link> -->
-    <nuxt-link to="/consulting">&nbsp;🤝 Consulting&nbsp;</nuxt-link>
-    <nuxt-link to="/uses">&nbsp;🎁 Uses&nbsp;</nuxt-link>
-    <!-- <nuxt-link to="/ideas">&nbsp;🧠 Ideas&nbsp;</nuxt-link> -->
-    <nuxt-link to="/faq">&nbsp;❓ F.A.Q.&nbsp;</nuxt-link>
+    <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px">
+      <div style="float:left">
+        <img src="/avatar.png" style="border-radius:100%" width="100" height="100">
+      </div>
+      <div style="float:left; margin-left: 20px">
+        <nuxt-link to="/" exact>&nbsp;🏡 Home&nbsp;</nuxt-link>
+        <!-- <nuxt-link to="/projects">&nbsp;📂 Projects&nbsp;</nuxt-link> -->
+        <nuxt-link to="/consulting">&nbsp;🤝 Consulting&nbsp;</nuxt-link>
+        <nuxt-link to="/uses">&nbsp;🎁 Uses&nbsp;</nuxt-link>
+        <!-- <nuxt-link to="/ideas">&nbsp;🧠 Ideas&nbsp;</nuxt-link> -->
+        <nuxt-link to="/faq">&nbsp;❓ F.A.Q.&nbsp;</nuxt-link>
+      </div>
+    </div>
   </div>
 </template>
 
