@@ -9,7 +9,9 @@
       <br>
       <br>
       <h2 class="subtitle">
-        Hi! 👋 I'm Swapnil Agarwal. 🗣️ People call me 'swap'.
+        Hi! 👋 I'm Swapnil Agarwal.
+        <br>
+        🗣️ People call me 'swap'.
       </h2>
       <div>
         I'm fixing tech hiring at <a href="https://elevatelabs.tech/" target="_blank" rel="noopener noreferrer">🚀 Elevate Labs</a>.
