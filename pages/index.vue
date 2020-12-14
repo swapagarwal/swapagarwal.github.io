@@ -15,15 +15,16 @@
       </h2>
       <div>
         I'm fixing tech hiring at <a href="https://elevatelabs.tech/" target="_blank" rel="noopener noreferrer">🚀 Elevate Labs</a>.
-        I also run a private community of mastermind groups at <a href="https://dxclub.io/" target="_blank" rel="noopener noreferrer">⚡️ The DX Club</a>.
         <br>
+        I also run a bunch of cohorts and mastermind groups at <a href="https://dxclub.io/" target="_blank" rel="noopener noreferrer">🚧 The DX Club</a>.
+        <br><br>
         <!-- I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://dxclub.io/taboo" target="_blank" rel="noopener noreferrer">🙅 Screw the Taboo meetups</a>.
         <br> -->
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
-        <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="/reads">📚 Avid Reader</a> &bull; Speaker at Conferences & Meetups</span>
+        Previously, I was a SDE at Amazon and a PM at Meesho (YC S16).
         <br>
-        In the past, I have worked as a Software Developer at Amazon and as a Product Manager at Meesho (YC S16).
+        I built the first Indian Vue.js community to 1000+ members. And started AwesomeConf.
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
@@ -47,18 +48,20 @@
       </div> -->
       <br>
       <div class="newsletter">
-        My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
-        <br>
-        Here are some of my raw newsletters:
-        <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">💌 swap's musings</a>
+        <!-- My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
+        <br> -->
+        <!-- Here are some of my raw newsletters: -->
+        <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">🤔 swap's musings</a>
         &bull;
-        <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">✍️ swap's life updates</a>
+        <a href="https://tinyletter.com/swap/archive" target="_blank" rel="noopener noreferrer">💌 swap's life updates</a>
         &bull;
         <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         &bull;
         <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
         <br><br>
         <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a>
+        <br><br>
+        <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="http://devswag.io/">😎 That Swag Guy</a> &bull; Speaker at Conferences & Meetups</span>
       </div>
       <!-- <br>
       <div class="contact">
