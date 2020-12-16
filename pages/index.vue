@@ -48,8 +48,19 @@
       </div> -->
       <br>
       <div class="newsletter">
+        Here's something for you to read:
+        <a href="https://buttondown.email/swap/archive/advice-to-younger-me/" target="_blank" rel="noopener noreferrer">🥳 Advice to Younger Me</a>
+        &bull;
+        <a href="https://buttondown.email/swap/archive/the-art-of-being-a-good-mentee/" target="_blank" rel="noopener noreferrer">🎓 The Art of Being a Good Mentee</a>
+        &bull;
+        <a href="https://buttondown.email/swap/archive/plant-seeds-strategically/" target="_blank" rel="noopener noreferrer">🌱 Plant Seeds Strategically</a>
+        &bull;
+        <a href="https://buttondown.email/swap/archive/the-oeps-framework-of-giving-feedback/" target="_blank" rel="noopener noreferrer">🤝 The OEPS Framework of Giving Feedback</a>
+        &bull;
+        <a href="https://buttondown.email/swap/archive/seek-the-context-behind-the-advice/" target="_blank" rel="noopener noreferrer">🔍️ Seek the Context behind the Advice</a>
         <!-- My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
         <br> -->
+        <br><br>
         <!-- Here are some of my raw newsletters: -->
         <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">🤔 swap's musings</a>
         &bull;
