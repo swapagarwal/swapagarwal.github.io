@@ -25,6 +25,8 @@
         Previously, I was a SDE at Amazon and a PM at Meesho (YC S16).
         <br>
         I built the first Indian Vue.js community to 1000+ members. And started AwesomeConf.
+        <br>
+        <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="http://devswag.io/">😎 That Swag Guy</a> &bull; Speaker at Conferences & Meetups</span>
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
@@ -61,6 +63,18 @@
         <!-- My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
         <br> -->
         <br><br>
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/swap"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/swap', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <input type="email" name="email" id="bd-email" placeholder="drop your email" />
+          <input type="hidden" value="1" name="embed" />
+          <input type="submit" value="Subscribe" />
+        </form>
+        <br>
         <!-- Here are some of my raw newsletters: -->
         <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">🤔 swap's musings</a>
         &bull;
@@ -69,10 +83,10 @@
         <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         &bull;
         <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
-        <br><br>
-        <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a>
-        <br><br>
-        <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="http://devswag.io/">😎 That Swag Guy</a> &bull; Speaker at Conferences & Meetups</span>
+        <br>
+        <!-- <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a> -->
+        <br>
+        <a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
       </div>
       <!-- <br>
       <div class="contact">
