@@ -9,7 +9,8 @@
         <!-- <nuxt-link to="/projects">&nbsp;📂 Projects&nbsp;</nuxt-link> -->
         <!-- <nuxt-link to="/consulting">&nbsp;🤝 Consulting&nbsp;</nuxt-link> -->
         <nuxt-link to="/reads">&nbsp;📚️ Reads&nbsp;</nuxt-link>
-        <nuxt-link to="/writes">&nbsp;✍️ Writes&nbsp;</nuxt-link>
+        <!-- <nuxt-link to="/writes">&nbsp;✍️ Writes&nbsp;</nuxt-link> -->
+        <a href="/writes" target="_blank" rel="noopener noreferrer">&nbsp;✍️ Writes&nbsp;</a>
         <nuxt-link to="/uses">&nbsp;🎁 Uses&nbsp;</nuxt-link>
         <!-- <nuxt-link to="/ideas">&nbsp;🧠 Ideas&nbsp;</nuxt-link> -->
         <nuxt-link to="/faq">&nbsp;❓ F.A.Q.&nbsp;</nuxt-link>
