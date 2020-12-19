@@ -15,7 +15,7 @@
         <!-- <nuxt-link to="/ideas">&nbsp;🧠 Ideas&nbsp;</nuxt-link> -->
         <nuxt-link to="/faq">&nbsp;❓ F.A.Q.&nbsp;</nuxt-link>
         <!-- <nuxt-link to="/subscribe">&nbsp;📢 Subscribe&nbsp;</nuxt-link> -->
-        <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank">&nbsp;📢 Subscribe&nbsp;</a>
+        <a href="/subscribe" target="_blank">&nbsp;📢 Subscribe&nbsp;</a>
       </div>
     </div>
   </div>
