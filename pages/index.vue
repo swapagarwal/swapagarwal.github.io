@@ -86,7 +86,7 @@
         <br>
         <!-- <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a> -->
         <br>
-        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="swap" data-color="#5F7FFF" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+        <a href="https://www.buymeacoffee.com/swap"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=swap&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
       </div>
       <!-- <br>
       <div class="contact">
