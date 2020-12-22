@@ -70,7 +70,7 @@
           onsubmit="window.open('https://buttondown.email/swap', 'popupwindow')"
           class="embeddable-buttondown-form"
         >
-          <input type="email" name="email" id="bd-email" placeholder="drop your email" />
+          <input type="email" name="email" id="bd-email" placeholder="drop your email" style="border: 1px solid" />
           <input type="hidden" value="1" name="embed" />
           <input type="submit" value="Subscribe" />
         </form>
