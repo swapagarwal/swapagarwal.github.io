@@ -481,6 +481,15 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://swap.medium.com/book-notes-stumbling-on-happiness-56111e808c70'
           },
+          {
+            title: 'The Goal',
+            author: 'Eliyahu M. Goldratt',
+            link: 'https://amzn.to/394LsZk',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475538019l/113934._SX98_.jpg',
+            review: `I'm in love with this newfound genre of business novel. It's non-fiction so it teaches you something while it's written like fiction so it's quite easy to read. The Goal serves as a good introduction to operations, the theory of constraints, and managing an enterprise, with practical examples.`,
+            rating: '4 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-the-goal-cf9ebc560ae6'
+          },
         ]
       }
     },
