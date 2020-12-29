@@ -490,6 +490,14 @@ import Footer from '~/components/Footer.vue'
             rating: '4 of 5 stars',
             notes: 'https://swap.medium.com/book-notes-the-goal-cf9ebc560ae6'
           },
+          {
+            title: '1984',
+            author: 'George Orwell',
+            link: 'https://amzn.to/3qwfMn5',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX98_.jpg',
+            review: `It gave me a lot of ideas for a story I'm working on! An interesting point to note is that this was published in 1949, and the surveillance aspect is still scary yet plausible.`,
+            rating: '5 of 5 stars'
+          },
         ]
       }
     },
