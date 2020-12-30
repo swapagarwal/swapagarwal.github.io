@@ -498,6 +498,15 @@ import Footer from '~/components/Footer.vue'
             review: `It gave me a lot of ideas for a story I'm working on! An interesting point to note is that this was published in 1949, and the surveillance aspect is still scary yet plausible.`,
             rating: '5 of 5 stars'
           },
+          {
+            title: 'Purple Cow',
+            author: 'Seth Godin',
+            link: 'https://amzn.to/35gOVmD',
+            image: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203098l/641604._SX98_.jpg',
+            review: `Marketing has to be built into the product. A new-age marketer has to understand product design and be involved in it from the very start. The 3rd star is for the Brainstorms section at the end of the book.`,
+            rating: '3 of 5 stars',
+            notes: 'https://swap.medium.com/book-notes-purple-cow-86d43c74597'
+          },
         ]
       }
     },
