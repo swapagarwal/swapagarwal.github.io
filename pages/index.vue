@@ -16,7 +16,7 @@
       <div>
         I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Rocket Careers</a>.
         <br>
-        I also run a bunch of cohorts and mastermind groups at <a href="https://dxclub.io/" target="_blank" rel="noopener noreferrer">🚧 The DX Club</a>.
+        Join <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🚧 The DX Club</a> to participate in various cohorts and mastermind groups.
         <br><br>
         <!-- I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://dxclub.io/taboo" target="_blank" rel="noopener noreferrer">🙅 Screw the Taboo meetups</a>.
         <br> -->
