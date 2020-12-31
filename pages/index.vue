@@ -14,7 +14,7 @@
         🗣️ People call me 'swap'.
       </h2>
       <div>
-        I'm fixing tech hiring at <a href="https://elevatelabs.tech/" target="_blank" rel="noopener noreferrer">🚀 Elevate Labs</a>.
+        I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Rocket Careers</a>.
         <br>
         I also run a bunch of cohorts and mastermind groups at <a href="https://dxclub.io/" target="_blank" rel="noopener noreferrer">🚧 The DX Club</a>.
         <br><br>
