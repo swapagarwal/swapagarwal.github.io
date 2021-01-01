@@ -19,6 +19,8 @@
         Join <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🚧 The DX Club</a> to participate in various cohorts and mastermind groups.
         <br>
         Join <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 Reading Academy for Everyone</a> to build a reading habit that you always wanted.
+        <br>
+        Join <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a> to get notified of new swag opportunities for developers.
         <br><br>
         <!-- I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://dxclub.io/taboo" target="_blank" rel="noopener noreferrer">🙅 Screw the Taboo meetups</a>.
         <br> -->
@@ -28,7 +30,7 @@
         <br>
         I built the first Indian Vue.js community to 1000+ members. And started AwesomeConf.
         <br>
-        <span>Modern Polymath &bull; INTP turned INFP &bull; <a href="http://devswag.io/">😎 That Swag Guy</a> &bull; Speaker at Conferences & Meetups</span>
+        <span>Modern Polymath &bull; INTP turned INFP &bull; Speaker at Conferences & Meetups</span>
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
