@@ -16,7 +16,7 @@
       <div>
         I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Rocket Careers</a>.
         <br>
-        Join <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🚧 The DX Club</a> to participate in various cohorts and mastermind groups.
+        Join <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> to participate in various cohorts and mastermind groups.
         <br>
         Join <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 Reading Academy for Everyone</a> to build a reading habit that you always wanted.
         <br>
