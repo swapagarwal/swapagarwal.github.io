@@ -27,8 +27,8 @@
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
         I started my career as a software developer at Amazon. I always had the startup bug which led me to leave Amazon and join Meesho (YC S16), where I transitioned into a Product Management role. Once I felt saturated, I went on an indie journey in which I tried to build and sell a couple of products. I was also a part of Entrepreneur First cohort. After 14 months of (f)unemployment, I founded Rocket Careers.
-        <br>
-        I built the first Indian Vue.js community to 1000+ members. And started AwesomeConf.
+        <br><br>
+        Built the first Indian Vue.js community to 1000+ members &bull; Started AwesomeConf
         <br>
         <span>Modern Polymath &bull; INTP turned INFP &bull; Speaker at Conferences & Meetups</span>
       </div>
