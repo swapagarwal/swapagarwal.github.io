@@ -14,7 +14,7 @@
         🗣️ People call me 'swap'.
       </h2>
       <div>
-        I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Rocket Careers</a>.
+        I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Roc8 Careers</a>.
         <br>
         Join <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> to participate in various cohorts and mastermind groups.
         <br>
@@ -26,7 +26,7 @@
         <br> -->
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
-        I started my career as a software developer at Amazon. I always had the startup bug which led me to leave Amazon and join Meesho (YC S16), where I transitioned into a Product Management role. Once I felt saturated, I went on an indie journey in which I tried to build and sell a couple of products. I was also a part of Entrepreneur First cohort. After 14 months of (f)unemployment, I founded Rocket Careers.
+        I started my career as a software developer at Amazon. I always had the startup bug which led me to leave Amazon and join Meesho (YC S16), where I transitioned into a Product Management role. Once I felt saturated, I went on an indie journey in which I tried to build and sell a couple of products. I was also a part of Entrepreneur First cohort. After 14 months of (f)unemployment, I founded Roc8 Careers.
         <br><br>
         Built the first Indian Vue.js community to 1000+ members &bull; Started AwesomeConf
         <br>
