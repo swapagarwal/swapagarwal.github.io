@@ -28,7 +28,7 @@
         <br> -->
         I started my career as a software developer at Amazon. I always had the startup bug which led me to leave Amazon and join Meesho (YC S16), where I transitioned into a Product Management role. Once I felt saturated, I went on an indie journey in which I tried to build and sell a couple of products. I was also a part of Entrepreneur First cohort. After 14 months of (f)unemployment, I founded Roc8 Careers.
         <br><br>
-        Built the first Indian Vue.js community to 1000+ members &bull; Started AwesomeConf
+        Built the first Indian Vue.js community to 1000+ members &bull; Runs AwesomeConf
         <br>
         <span>Modern Polymath &bull; INTP turned INFP &bull; Speaker at Conferences & Meetups</span>
       </div>
