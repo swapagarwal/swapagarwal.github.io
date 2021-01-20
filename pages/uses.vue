@@ -90,6 +90,9 @@
                 <li>
                     🎙️ <a href="https://ref.krisp.ai/u/u2240d175a" target="_blank" rel="noopener noreferrer">Krisp</a> for removing background noise
                 </li>
+                <li>
+                    🔗 <a href="https://apps.apple.com/us/app/id1532419400" target="_blank" rel="noopener noreferrer">MeetingBar</a> to join meetings from status bar
+                </li>
             </ul>
             <div class="commentbox"></div>
         </div>
