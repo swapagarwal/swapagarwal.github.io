@@ -76,7 +76,7 @@
         >
           <input type="email" name="email" id="bd-email" placeholder="drop your email" style="border: 1px solid" />
           <input type="hidden" value="1" name="embed" />
-          <input type="submit" value="Subscribe" style="background-color: #fff; color: #5F7FFF; border: 1px solid" />
+          <input type="submit" value="stay updated" style="background-color: #fff; color: #5F7FFF; border: 1px solid" />
         </form>
         <br>
         <!-- Here are some of my raw newsletters: -->
