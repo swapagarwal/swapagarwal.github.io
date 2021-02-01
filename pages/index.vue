@@ -67,18 +67,7 @@
         <!-- My polished thoughts can be found here: <a href="/writes">💡 swap's insights</a>
         <br> -->
         <br><br>
-        <form
-          action="https://buttondown.email/api/emails/embed-subscribe/swap"
-          method="post"
-          target="popupwindow"
-          onsubmit="window.open('https://buttondown.email/swap', 'popupwindow')"
-          class="embeddable-buttondown-form"
-        >
-          <input type="email" name="email" id="bd-email" placeholder="drop your email" style="border: 1px solid" />
-          <input type="hidden" value="1" name="embed" />
-          <input type="submit" value="stay updated" style="background-color: #fff; color: #5F7FFF; border: 1px solid" />
-        </form>
-        <br>
+        <script async data-uid="89e500c300" src="https://swap.ck.page/89e500c300/index.js"></script>
         <!-- Here are some of my raw newsletters: -->
         <a href="https://buttondown.email/swap/archive" target="_blank" rel="noopener noreferrer">🤔 swap's musings</a>
         &bull;
