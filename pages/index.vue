@@ -76,10 +76,10 @@
         <a href="https://www.getrevue.co/profile/swap#archive" target="_blank" rel="noopener noreferrer">🦄 swap's startup journey</a>
         &bull;
         <a href="https://swap.substack.com" target="_blank" rel="noopener noreferrer">🧪 swap's creative lab</a>
-        <br>
+        <!-- <br> -->
         <!-- <a href="https://emailoctopus.com/lists/583fff8a-c041-11ea-a3d0-06b4694bee2a/forms/subscribe" target="_blank" class="button--grey">Subscribe to get new posts in your inbox!</a> -->
-        <br>
-        <a href="https://www.buymeacoffee.com/swap"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=swap&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+        <!-- <br>
+        <a href="https://www.buymeacoffee.com/swap"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=swap&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a> -->
       </div>
       <!-- <br>
       <div class="contact">
@@ -87,7 +87,7 @@
         <br>
         I'd love to connect online or over a cup of ☕ coffee. <a href="https://calendly.com/swapnilagarwal" target="_blank" rel="noopener noreferrer">Here's my 🗓️ calendar link</a> to make finding time easy.
       </div> -->
-      <br>
+      <!-- <br> -->
       <div class="social">
         <a href="https://www.twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">Twitter</a>
         &bull;
