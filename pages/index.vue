@@ -18,7 +18,7 @@
         <br>
         I curate support groups for developers to talk about anything and everything under the sun at <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a>.
         <br>
-        Join <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 Reading Academy for Everyone</a> to build a reading habit that you always wanted.
+        Every day at 8:53pm, I share a bite-sized excerpt from one of the 50+ books I read in 2020 at <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 Reading Academy for Everyone</a>.
         <br>
         Join <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a> to get notified of new swag opportunities for developers.
         <br><br>
