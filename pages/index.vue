@@ -20,7 +20,7 @@
         <br>
         Every day at 8:53pm, I share a bite-sized excerpt from one of the 50+ books I read in 2020 at <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 Reading Academy for Everyone</a>.
         <br>
-        Join <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a> to get notified of new swag opportunities for developers.
+        If you get excited about new swag opportunities, you should check out <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a>.
         <br><br>
         <!-- I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://dxclub.io/taboo" target="_blank" rel="noopener noreferrer">🙅 Screw the Taboo meetups</a>.
         <br> -->
