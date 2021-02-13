@@ -20,7 +20,7 @@
     "vue-fab": "^2.3.1",
     "vue-faq-accordion": "^1.6.2",
     "vue-github-activity": "^2.1.1",
-    "vue-github-buttons": "^2.1.1",
+    "vue-github-buttons": "^3.1.0",
     "vue-typer": "^1.2.0"
   },
   "devDependencies": {
