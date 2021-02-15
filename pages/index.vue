@@ -16,7 +16,7 @@
       <div>
         I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Roc8 Careers</a>.
         <br>
-        I curate support groups for developers to talk about anything and everything under the sun at <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a>.
+        <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> provides a safe space for talking about the non-tech aspects of our jobs.
         <br>
         Every day at 8:53pm, I share a bite-sized excerpt from one of the 50+ books I read in 2020 at <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 Reading Academy for Everyone</a>.
         <br>
