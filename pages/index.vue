@@ -16,9 +16,9 @@
       <div>
         I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Roc8 Careers</a>.
         <br>
-        <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> provides a safe space for talking about the non-tech aspects of our jobs.
-        <br>
         I share a <a href="https://twitter.com/PocketJournlApp" target="_blank" rel="noopener noreferrer">💪 journaling prompt</a> at 9am and a <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💪 book excerpt</a> at 8:53pm every day.
+        <br>
+        <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> provides a safe space for talking about the non-tech aspects of our jobs.
         <br>
         If you get excited about new swag opportunities, you should check out <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a>.
         <br><br>
