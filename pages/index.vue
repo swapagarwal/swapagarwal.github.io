@@ -14,7 +14,7 @@
         🗣️ People call me 'swap'.
       </h2>
       <div>
-        I'm fixing tech hiring at scale via <a href="https://twitter.com/roc8HQ" target="_blank" rel="noopener noreferrer">🚀 Roc8 Careers</a>.
+        I'm fixing tech hiring at scale via <a href="https://roc8.careers" target="_blank" rel="noopener noreferrer">🚀 Roc8 Careers</a>.
         <br>
         I share a <a href="https://twitter.com/PocketJournlApp" target="_blank" rel="noopener noreferrer">💭 journaling prompt</a> at 9am and a <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💊 book excerpt</a> at 8:53pm every day.
         <br>
