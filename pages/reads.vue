@@ -2,6 +2,8 @@
   <div>
     <Header/>
     <div class="reads">
+      UPDATE: The books I'm reading in 2021 can be found at <a href="/library" target="_blank" rel="noopener noreferrer">/library</a>.
+      <br><br>
       I run <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">Reading Academy for Everyone</a>, where every day, I share a bite-sized excerpt from one of the books I read in 2020.
       <br><br>
       2020 Reading Challenge: I have read {{ progress }} of 50 books (updated weekly, well hopefully weekly!).
