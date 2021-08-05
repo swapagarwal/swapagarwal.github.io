@@ -16,21 +16,18 @@
       <div>
         I'm fixing tech hiring at scale via <a href="https://roc8.careers" target="_blank" rel="noopener noreferrer">🚀 Roc8 Careers</a>.
         <br>
-        I share a <a href="https://twitter.com/PocketJournlApp" target="_blank" rel="noopener noreferrer">💭 journaling prompt</a> at 9am and a <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💊 book excerpt</a> at 8:53pm every day.
-        <br>
-        <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> provides a safe space for talking about the non-tech aspects of our jobs.
-        <br>
-        If you get excited about new swag opportunities, you should check out <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a>.
+        Every day at 8:53pm, I share a <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💊 bite-sized excerpt</a> from one of the books I read in 2021.
+        <!-- I share a <a href="https://twitter.com/PocketJournlApp" target="_blank" rel="noopener noreferrer">💭 journaling prompt</a> at 9am and a <a href="https://t.me/reademy" target="_blank" rel="noopener noreferrer">💊 book excerpt</a> at 8:53pm every day. -->
+        <!-- <br> -->
+        <!-- <a href="https://t.me/dxclub" target="_blank" rel="noopener noreferrer">🏖️ The DX Club</a> provides a safe space for talking about the non-tech aspects of our jobs. -->
+        <!-- <br> -->
+        <!-- If you get excited about new swag opportunities, you should check out <a href="https://t.me/devswag" target="_blank" rel="noopener noreferrer">😎 devSwag</a>. -->
         <br><br>
         <!-- I am a Co-Organizer of <a href="https://twitter.com/AnAwesomeConf" target="_blank" rel="noopener noreferrer">💯 Awesome Conference</a> and <a href="https://dxclub.io/taboo" target="_blank" rel="noopener noreferrer">🙅 Screw the Taboo meetups</a>.
         <br> -->
         <!-- I run <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">😎 devSwag</a> on the side. Some of you might know me as <u>That Swag Guy</u>!
         <br> -->
         I started my career as a software developer at Amazon. I always had the startup bug which led me to leave Amazon and join Meesho (YC S16), where I transitioned into a Product Management role. Once I felt saturated, I went on an indie journey in which I tried to build and sell a couple of products. I was also a part of Entrepreneur First cohort. After 14 months of (f)unemployment, I founded Roc8 Careers.
-        <br><br>
-        Built the first Indian Vue.js community to 1000+ members &bull; Runs AwesomeConf
-        <br>
-        <span>Modern Polymath &bull; INTP turned INFP &bull; Speaker at Conferences & Meetups</span>
       </div>
       <!-- <div class="links">
         <a href="projects" target="_blank" rel="noopener noreferrer">🏗️ Projects</a>
@@ -99,6 +96,10 @@
         <!-- &bull; -->
         <!-- <a href="https://www.facebook.com/swap.agarwal" target="_blank" rel="noopener noreferrer">Facebook</a> -->
       </div>
+      <br>
+      Built the first Indian Vue.js community to 1000+ members &bull; Runs AwesomeConf
+      <br>
+      <span>Modern Polymath &bull; INTP turned INFP &bull; Speaker at Conferences & Meetups</span>
     </div>
     <no-ssr>
       <Footer/>
